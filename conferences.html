@@ -6,7 +6,7 @@ layout: default
 <dl>
 	<dd class="clear"></dd>
 
-    {% for year in page.conferences reversed %}
+    {% for year in site.conferences reversed %}
 	<dt>{{ year[0] }}</dt>
 	<dd>
         {% for conference in year[1] %}
