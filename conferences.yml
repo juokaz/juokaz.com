@@ -1,15 +1,36 @@
 2012:
+    - title: phpDay conference
+      location: Verona, Italy
+      date: 18-19th May
+      spoken: 
+          - title: "Lazy Evaluation: stop wasting memory and time "
+    - title: 4Developers conference
+      location: Poznań, Poland
+      date: 17-18th April
+      spoken: 
+          - title: Choosing The Right NoSQL Database
+            slides: http://www.slideshare.net/juokaz/choosing-the-right-nosql-database-4developers
+            feedback: http://joind.in/talk/view/6325
+    - title: RESTful Design workshop, part of World Wide Web conference
+      location: Lyon, France
+      date: 17th April
+    - title: Whisky Web conference
+      location: Edinburgh, UK
+      date: 13-14th April
+      info: Organised my first conference
     - title: ConFoo conference
       location: Montreal, Canada
       date: 29th February - 2nd March
       spoken: 
           - title: Doctrine 2
+            slides: http://www.slideshare.net/juokaz/doctrine-2-confoo
+            feedback: http://joind.in/talk/view/6109
           - title: RESTful Web Services with Python
-                
+            slides: http://www.slideshare.net/juokaz/restful-web-services-with-python-confoo
+            feedback: http://joind.in/talk/view/5994
     - title: PHPUK conference
       location: London, UK
       date: 24-25th February
-        
     - title: PHPBenelux conference
       location: Antwerp, Belgium
       date: 27-28th January
@@ -92,7 +113,7 @@
             slides: 
             feedback: http://joind.in/talk/view/3213
           - title: The new era of PHP frameworks
-            slides: www.slideshare.net/juokaz/the-new-era-of-php-frameworks-dpc
+            slides: http://www.slideshare.net/juokaz/the-new-era-of-php-frameworks-dpc
             feedback: http://joind.in/talk/view/3244
     - title: phpDay conference
       location: Verona, Italy
@@ -116,7 +137,7 @@
       date: 4th April
       spoken: 
           - title: "Zend Framework 2.0: Let’s Rock!"
-            slides: www.slideshare.net/juokaz/zend-framework-20-lets-rock
+            slides: http://www.slideshare.net/juokaz/zend-framework-20-lets-rock
             feedback: http://joind.in/talk/view/3202
     - title: DrupalCamp Lisboa
       location: Lisbon, Portugal
