@@ -8,6 +8,11 @@ conferences:
       date: 31st May - 1st June
       spoken: 
           - title: Open Data
+    - title: DrupalCamp Scotland
+      location: Edinburgh, UK
+      date: 25-26th May
+      spoken:
+          - title: Symfony: An Introduction
     - title: phpDay conference
       location: Verona, Italy
       date: 18-19th May
