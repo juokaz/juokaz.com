@@ -3,6 +3,11 @@ permalink: /:year-:month-:day/:title.html
 
 conferences:
   2012:
+    - title: Login conference
+      location: Vilnius, Lithuania
+      date: 31st May - 1st June
+      spoken: 
+          - title: Open Data
     - title: phpDay conference
       location: Verona, Italy
       date: 18-19th May
