@@ -5,14 +5,14 @@ conferences:
   2012:
     - title: Login conference
       location: Vilnius, Lithuania
-      date: 31st May - 1st June
+      date: 31st May - 1st Junej
       spoken: 
           - title: Open Data
     - title: DrupalCamp Scotland
       location: Edinburgh, UK
       date: 25-26th May
       spoken:
-          - title: Symfony: An Introduction
+          - title: "Symfony: An Introduction"
     - title: phpDay conference
       location: Verona, Italy
       date: 18-19th May
