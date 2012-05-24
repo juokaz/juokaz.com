@@ -7,7 +7,9 @@ conferences:
       location: Verona, Italy
       date: 18-19th May
       spoken: 
-          - title: "Lazy Evaluation: stop wasting memory and time "
+          - title: "Lazy Evaluation: stop wasting memory and time"
+            slides: http://www.slideshare.net/juokaz/lazy-evaluation-stop-wasting-memory-and-time-phpday
+            feedback: http://joind.in/talk/view/6378
     - title: 4Developers conference
       location: Poznań, Poland
       date: 17-18th April
