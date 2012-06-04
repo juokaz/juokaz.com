@@ -15,7 +15,7 @@ title: Conferences
 		<p>
             {% if conference.spoken %}
                 {% for talk in conference.spoken %}
-                    {% if talk.workshop %}Teached a workshop{% else %}Gave a talk{% endif %} on <strong>"{{ talk.title }}"</strong>{% if talk.slides %}, <a href={{ talk.slides }} >slides</a>{% endif %}{% if talk.feedback %}, <a href={{ talk.feedback }} >feedback</a>{% endif %}
+                    {% if talk.workshop %}Teached a workshop{% else %}Gave a talk{% endif %} on <strong>"{{ talk.title }}"</strong>{% if talk.slides %}, <a href={{ talk.slides }} >slides</a>{% endif %}{% if talk.feedback %}, <a href={{ talk.feedback }} >feedback</a>{% endif %}<br />
                 {% endfor %}
 			{% endif %}
             {% if conference.spoken == null and conference.info == null %}
