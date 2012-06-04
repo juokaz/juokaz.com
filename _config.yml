@@ -5,9 +5,10 @@ conferences:
   2012:
     - title: Login conference
       location: Vilnius, Lithuania
-      date: 31st May - 1st Junej
+      date: 31st May - 1st June
       spoken: 
           - title: Open Data
+            slides: http://www.slideshare.net/juokaz/open-data-login-conference
     - title: DrupalCamp Scotland
       location: Edinburgh, UK
       date: 25-26th May
