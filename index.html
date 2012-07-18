@@ -21,6 +21,14 @@
         #connect a:link,#navlist a:visited{text-decoration: none;opacity:0.3;border-style: none;}
         #connect a:hover{text-decoration: none;opacity:0.8;border-style: none;}
         #connect img {border:none;}
+        #go-serious {display: none;}
+        #go-hipster {display: inline;}
+        
+		#hipster #webspecies { right: none; left: 52px; top: 52px; }
+		#hipster #about { padding: 50px 30px 0 0; margin: 0 50px 0 auto !important; }
+        #hipster ul#connect{ padding: 10px 20px 0 0; margin: 0 50px 0 auto !important;}
+        #hipster #go-serious {display: inline;}
+        #hipster #go-hipster {display: none;}
 	</style>
 	<!-- idea from https://github.com/weightshift/The-Personal-Page -->
 </head>	
@@ -69,6 +77,14 @@
         <li>Organizing <a href="http://whiskyweb.co.uk">Whisky Web</a> conference</li>
 		<li>Blogging at Web Species <a href="http://blog.webspecies.co.uk/">developer blog</a></li>
     </ul>
+    <p>
+        <span id="go-hipster">
+            Don't like the serious look? Go with <a href="#hipster">hipster</a>.
+        </span>
+        <span id="go-serious">
+            Don't like the hipter look? Go with <a href="#serious">serious</a>.
+        </span>
+    </p>
 </div>
 
 <ul id="connect">
@@ -83,7 +99,22 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
 <script type="text/javascript" src="jquery.backstretch.min.js"></script>
 <script type="text/javascript">
-	$.backstretch("juozas.jpg", {speed: 150});
+  (function() {
+    $('#go-hipster a').click(function() {
+	    $.backstretch("juozas-smiling.jpg", {speed: 0});
+        $('body').attr('id', 'hipster');
+    });
+    $('#go-serious a').click(function() {
+	    $.backstretch("juozas.jpg", {speed: 0});
+        $('body').attr('id', 'serious');
+    });
+    var hash = location.hash.replace('#','');
+    if (hash == 'hipster') {
+        $('#go-hipster a').click();
+    } else {
+        $('#go-serious a').click();
+    }
+  })();
 </script>
 
 <script type="text/javascript">
