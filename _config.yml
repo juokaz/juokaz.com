@@ -3,6 +3,11 @@ permalink: /:year-:month-:day/:title.html
 
 conferences:
   2012:
+    - title: Sheffield PHP User Group
+      location: Sheffield, UK
+      date: 13th June
+      spoken: 
+          - title: REST: The bar fight
     - title: Login conference
       location: Vilnius, Lithuania
       date: 31st May - 1st June
