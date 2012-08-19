@@ -3,31 +3,36 @@ layout: default
 title: Conferences
 ---
 
-<h1><a href="/">Home</a> &raquo; Conferences</h1>
+<header>
+    <h1>Conferences</h1>
+</header>
+
+<section class="conferences">
 <dl>
-	<dd class="clear"></dd>
+    <dd class="clear"></dd>
 
     {% for year in site.conferences reversed %}
-	<dt>{{ year[0] }}</dt>
-	<dd>
+    <dt>{{ year[0] }}</dt>
+    <dd>
         {% for conference in year[1] %}
-		<h2>{{ conference.title }} <span>{{ conference.location }}, {{ conference.date }}</span></h2>
-		<p>
+        <h2>{{ conference.title }} <span>{{ conference.location }}, {{ conference.date }}</span></h2>
+        <p>
             {% if conference.spoken %}
                 {% for talk in conference.spoken %}
                     {% if talk.workshop %}Teached a workshop{% else %}Gave a talk{% endif %} on <strong>"{{ talk.title }}"</strong>{% if talk.slides %}, <a href={{ talk.slides }} >slides</a>{% endif %}{% if talk.feedback %}, <a href={{ talk.feedback }} >feedback</a>{% endif %}<br />
                 {% endfor %}
-			{% endif %}
+            {% endif %}
             {% if conference.spoken == null and conference.info == null %}
-				Just attended 
-			{% else %}
+                Just attended 
+            {% else %}
                 {{ conference.info }}
             {% endif %}
-		</p>
+        </p>
         {% endfor %}
-	</dd>
+    </dd>
 
-	<dd class="clear"></dd>
+    <dd class="clear"></dd>
 
     {% endfor %}
 </dl>
+</section>

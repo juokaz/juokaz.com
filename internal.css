@@ -1,9 +1,12 @@
+/* fonts */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400italic,700,700italic);
+
 * { margin: 0; padding: 0; }
-body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background: url(images/noise.jpg); }
+body { font: 16px 'Open Sans', Helvetica, Sans-Serif; line-height: 24px; width: 800px; margin: 40px auto 60px; }
 .clear { clear: both; }
-#page-wrap { width: 800px; margin: 40px auto 60px; }
-#pic { float: right; margin: -30px 0 0 0; border: 0}
-h1 { margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 42px; font-weight: bold; letter-spacing: -2px; border-bottom: 1px solid #999; color: #000000;}
+section > header { border-bottom: 1px solid #999; }
+h1 { display: inline; margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 32px; font-weight: bold; letter-spacing: -2px; color: #000000;}
 h2 { font-size: 20px; margin: 0 0 6px 0; position: relative; }
 h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; }
 p { margin: 0 0 16px 0; }
@@ -13,6 +16,26 @@ ul { margin: 0 0 32px 17px; }
 #objective { width: 500px; float: left; font-family: Georgia, Serif; font-style: italic; color: #666; }
 #objective li {margin-left: 20px;}
 dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
+.conferences dt { width: 50px; }
 dd { width: 600px; float: right; }
+.conferences dd { width: 700px; }
 dd.clear { float: none; margin: 0; height: 15px; }
-h1 a { border: none; }
+
+.header { float: left; width: 100%; }
+.header a { font-family: Helvetica; }
+.header nav { float: right; }
+.header, .header nav { height: 25px; margin-bottom: 42px; }
+.header nav ul { margin: 0; padding: 0; list-style: none; }
+.header nav ul li { display: inline; margin: 0 2px; padding: 0; }
+
+time { color: #666; font-size: 18px; font-style: italic; margin-left: 10px; }
+header time { float: right; }
+.postPreview { margin: 30px 0; }
+.postPreview > header { margin: 5px 0; }
+.postPreview > header > h1 { display: inline; font-size: 24px; }
+.post { margin: 30px 0; }
+.post > header { margin: 15px 0; }
+.backLink { display: block; margin: 10px 0; }
+.post > header > h1 { display: inline; font-size: 32px; }
+.post > section > h2 { font-size: 28px; margin: 10px 0; }
+.post > section > h3 { font-size: 24px; margin: 10px 0; }

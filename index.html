@@ -1,3 +1,6 @@
+---
+---
+
 <!doctype html>
 <html>
 <head>
@@ -6,8 +9,9 @@
 	<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
 	<meta name="robots" content="all" />
 	<style>
+        @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic);
         * { padding: 0; margin: 0; }
-        p, ul { color: #fff; font-family: Helvetica; font-size: 16px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; text-shadow: 0 1px 5px black; }
+        p, ul { color: #fff; font-family: 'Open Sans', Helvetica; font-size: 16px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; text-shadow: 0 1px 5px black; }
         a { color: #fff; font-weight: bold; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.3); }
         a:hover { color: #990000; border-bottom: 1px solid rgba(255,255,255,1); }
         #webspecies { width: 52px; margin: 0; position: fixed; right: 52px; top: 52px; }
@@ -84,7 +88,7 @@
         <li>Running <a href="http://webspecies.co.uk">Web Species Ltd</a> as the Founder & CEO</li>
         <li>Speaking at web technologies' <a href="conferences.html">conferences</a></li>
         <li>Organizing <a href="http://whiskyweb.co.uk">Whisky Web</a> conference</li>
-		<li>Blogging at Web Species <a href="http://blog.webspecies.co.uk/">developer blog</a></li>
+		<li>Blogging at my own <a href="/blog">blog</a>, latest article was on <a href="{{ site.posts[0].url }}">"{{ site.posts[0].title }}"</a></li>
     </ul>
     <p>
         <span id="go-hipster">

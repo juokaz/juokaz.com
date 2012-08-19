@@ -1,5 +1,5 @@
 paginate: 5
-permalink: /:year-:month-:day/:title.html
+permalink: /blog/:title.html
 
 conferences:
   2012:
