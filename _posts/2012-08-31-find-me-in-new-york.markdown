@@ -2,13 +2,13 @@
 layout: post
 title: Find me in New York
 location: Edinburgh, UK
-excerpt: We have to start somewhere
+excerpt: A great way to start this blog is to tell a story of how I decided to move to New York and what I'm going to be doing there. Exciting times await.
 comments: true
 ---
 
 <img src="images/business-sides.jpg" class="left" alt="Sides" />
 
-After living in Edinburgh for 4 years, it was time to move. I knew I will be moving quite a long time ago and spent a lot of time planning and testing a few different ideas. I wanted to change the city I was living in, not because I hated it, but because I consider myself too young to stay in one place, the work I was doing and all what surrounds that.
+After living in Edinburgh for 4 years, it's time to move. I knew I would be moving quite a long time ago and spent a lot of time planning and testing a few different ideas. I wanted to change the city I was living in, not because I hated it, but because I consider myself too young to stay in one place, the work I was doing and all what surrounds that.
 
 What I was looking for, is an opportunity to work on something which would have a an impact, a place of work where I could see a true outcome of my work. And while my business in UK was continuously growing and financially I was way more than covered, I never enjoyed it. Not one day. But I was definitely not going to join a company as just an employee - I never had a fulltime job working for someone else and that wasn't going to change. Not unless I get to have a say in business.
 

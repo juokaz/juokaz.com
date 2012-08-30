@@ -5,9 +5,11 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-	<title>Juozas Kaziukėnas - {% if page.title %}{{ page.title }}{% else %}web developer, zend framework expert, php evangelist, entrepreneur{% endif %}</title>
-	<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
-	<link rel="stylesheet" href="/internal.css" />
+    <title>Juozas Kaziukėnas - {% if page.title %}{{ page.title }}{% else %}web developer, zend framework expert, php evangelist, entrepreneur{% endif %}</title>
+    {% if page.excerpt %}<meta name="title" content="{{ page.title }}" />  
+    <meta name="description" content="{{ page.excerpt }}" />{% endif %}
+    <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/internal.css" />
     <link rel="alternate" type="application/rss+xml" href="/rss.xml" />
 </head>	
     
