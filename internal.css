@@ -39,3 +39,8 @@ header time { float: right; }
 .post > header > h1 { display: inline; font-size: 32px; }
 .post > section > h2 { font-size: 28px; margin: 10px 0; }
 .post > section > h3 { font-size: 24px; margin: 10px 0; }
+.post .social { background: #DDD; padding: 15px; margin: 15px -15px; }
+.post img {}
+.post img.left { float: left; }
+.post img.right { float: right; }
+body > section > footer { text-align: center; }
