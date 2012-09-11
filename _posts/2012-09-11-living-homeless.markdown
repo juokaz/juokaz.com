@@ -2,15 +2,15 @@
 layout: post
 title: Living homeless
 location: Vilnius, Lithuania
-excerpt: Just before I flew to Funconf in Dublin, I handed in my flat's in Edinburgh keys and became virtually homeless; for the first time since moving out of my parents' house 4 years ago I don't own a place of my own. Nor I will be looking for one.
+excerpt: Just before I flew to Funconf in Dublin, I handed in the keys to my flat in Edinburgh and became virtually homeless; for the first time since moving out of my parents' house 4 years ago I don't own a place of my own. Nor will I be looking for one.
 comments: true
 ---
 
-Just before I flew to [Funconf](/blog/funconf-fuck-yeah.html) in Dublin, I handed in my flat's in Edinburgh keys and became virtually homeless; for the first time since moving out of my parents' house 4 years ago I don't own a place of my own. Nor I will be looking for one. This was probably one of the more crazy things I've done this year, but it has freed me up to do the things I want to be doing - mainly travel. I tend to travel quite a lot anyway - last year I spent more than 4 months away from Edinburgh and flew over 100'000 air miles. However this took some time to prepare.
+Just before I flew to [Funconf](/blog/funconf-fuck-yeah.html) in Dublin, I handed in the keys to my flat in Edinburgh and became virtually homeless; for the first time since moving out of my parents' house 4 years ago I don't own a place of my own. Nor will I be looking for one. This was probably one of the more crazy things I've done this year, but it has freed me up to do the things I want to be doing - mainly travel. I tend to travel quite a lot anyway - last year I spent more than 4 months away from Edinburgh and flew over 100'000 air miles. However this took some time to prepare.
 
 <img src="/blog/images/flying.jpg" alt="" class="right" />
 
-Mid August I realized that I will be spending the remainder of this year in USA for work and traveling across Europe for conferences and other activities. What this means is that the flat I had in Edinburgh will be empty for months, and keeping an empty flat is a stupid decision from a financial point of view. Especially combined with the fact that I also had a car, which was costing me every month to stand parked. So, without much though I made a decision - whatever happens, I'm moving out form Edinburgh before September.
+Mid August I realized that I will be spending the remainder of this year in USA for work and traveling across Europe for conferences and other activities. What this means is that the flat I had in Edinburgh will be empty for months, and keeping an empty flat is a stupid decision from a financial point of view. Especially combined with the fact that I also had a car, which was costing me every month to stand parked. So, without much though I made a decision - whatever happens, I'm moving out from Edinburgh before September.
 
 And I did. In two weeks.
 
@@ -28,6 +28,6 @@ The biggest reason I'm doing this, and not renting out a smaller place in Edinbu
 
 <img src="/blog/images/travel-bag.jpg" alt="" class="right" />
 
-I'm not even sure when this will end, not until I get my USA visa and can go there and stay. So far there is no estimate for that, nor I need one. I'm already doing the work I will be doing there, so it's only a matter of living there or not. Of course I would like to get there as soon as possible, as while this whole thing is a lot of fun, I'm pretty sure it can get pretty tiring after a few months. But yeah... I'll just wait and see what happens, until then it's going to be my macbook, a bag of clothes and a boarding pass to some city. Exciting times!
+I'm not even sure when this will end, not until I get my USA visa and can go there and stay. So far there is no estimate for that, nor do I need one. I'm already doing the work I will be doing there, so it's only a matter of living there or not. Of course I would like to get there as soon as possible, as while this whole thing is a lot of fun, I'm pretty sure it can get pretty tiring after a few months. But yeah... I'll just wait and see what happens, until then it's going to be my macbook, a bag of clothes and a boarding pass to some city. Exciting times!
 
 *\*all illustrations done by Frits from hikingartist.com*
