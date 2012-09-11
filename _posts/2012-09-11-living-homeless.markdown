@@ -24,7 +24,7 @@ I consider myself lucky that all the work I have to do, can be done from anywher
 
 Now you might be thinking that I'm some sort of a anti-social workaholic - especially if you haven't met me in person yet - as so far I have only mentioned myself and work. Well, I have (had?) a lot of friends in Edinburgh, but also in London and all over Europe. Quite a lot of them I wish I had closer. So this whole homeless stunt actually allows me to see most of them more often, as I can just show up at any of the places my friends live and spend time there, as I did quite a few times this summer. My calendar is already filled up all the way to Christmas.
 
-The biggest reason I'm doing this, and not renting out a smaller place in Edinburgh or somewhere else, is because I'm pretty sure it can be my only chance in life to pull this off. As people get older, more and more stuff starts holding you back in an any given place. If I don't do this now, I'm probably not going to do it ever and since I believe that it's better to regret things you've done, I'm optimistic that all of this will work out just fine. If not, someone will help me out.
+The biggest reason I'm doing this, and not renting out a smaller place in Edinburgh or somewhere else, is because I'm pretty sure it can be my only chance in life to pull this off. As people get older, more and more stuff starts holding you back in an any given place. If I don't do this now, I'm probably not going to do it ever and since I believe that you only regret things you haven't done, I'm optimistic that all of this will work out just fine. If not, someone will help me out.
 
 <img src="/blog/images/travel-bag.jpg" alt="" class="right" />
 
