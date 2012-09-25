@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Online privacy hypocrites 
-location: Selbyvile, DE, USA
+location: Selbyville, DE, USA
 excerpt: Privacy online is a never-ending discussions' topic, especially with services like Facebook becoming a huge part of one's life. However, the issue is not the privacy itself, but what people want to do with it.
 comments: true
 ---
