@@ -25,14 +25,20 @@
         #connect a:link,#navlist a:visited{text-decoration: none;opacity:0.3;border-style: none;}
         #connect a:hover{text-decoration: none;opacity:0.8;border-style: none;}
         #connect img {border:none;}
-        #go-serious {display: none;}
-        #go-hipster {display: inline;}
+        #go-serious-punk {display: none;}
+        #go-hipster-punk {display: none;}
+        #go-serious-hipster {display: inline;}
 
         #hipster #webspecies { right: none; left: 52px; top: 52px; }
         #hipster #about { padding: 50px 30px 0 0; margin: 0 50px 0 auto !important; }
-        #hipster ul#connect{ padding: 10px 20px 0 0; margin: 0 170px 0 auto !important;}
-        #hipster #go-serious {display: inline;}
-        #hipster #go-hipster {display: none;}
+        #hipster ul#connect { padding: 10px 20px 0 0; margin: 0 170px 0 auto !important;}
+        #hipster #go-serious-punk {display: inline;}
+        #hipster #go-hipster-punk {display: none;}
+        #hipster #go-serious-hipster {display: none;}
+
+        #serious #go-serious-punk {display: none;}
+        #serious #go-hipster-punk {display: inline;}
+        #serious #go-serious-hipster {display: none;}
 	</style>
 	<!-- idea from https://github.com/weightshift/The-Personal-Page -->
 </head>	
@@ -91,11 +97,14 @@
 		<li>Blogging at my own <a href="/blog">blog</a>, latest article was on <a href="{{ site.posts[0].url }}">"{{ site.posts[0].title }}"</a></li>
     </ul>
     <p>
-        <span id="go-hipster">
-            Don't like the serious look? Go with <a href="#hipster">hipster</a>.
+        <span id="go-hipster-punk">
+            Don't like the serious look? Go with <a href="#hipster">hipster</a> or <a href="#punk">punk</a>.
         </span>
-        <span id="go-serious">
-            Don't like the hipster look? Go with <a href="#serious">serious</a>.
+        <span id="go-serious-punk">
+            Don't like the hipster look? Go with <a href="#serious">serious</a> or <a href="#punk">punk</a>.
+        </span>
+        <span id="go-serious-hipster">
+            Don't like the punk look? Go with <a href="#serious">serious</a> or <a href="#hipster">hipster</a>.
         </span>
     </p>
 </div>
@@ -113,19 +122,25 @@
 <script type="text/javascript" src="jquery.backstretch.min.js"></script>
 <script type="text/javascript">
   (function() {
-    $('#go-hipster a').click(function() {
+    $('a[href="#hipster"]').click(function() {
 	    $.backstretch("juozas-smiling.jpg", {speed: 0});
         $('body').attr('id', 'hipster');
     });
-    $('#go-serious a').click(function() {
-	    $.backstretch("juozas.jpg", {speed: 0});
+    $('a[href="#serious"]').click(function() {
+        $.backstretch("juozas.jpg", {speed: 0});
         $('body').attr('id', 'serious');
     });
+    $('a[href="#punk"]').click(function() {
+        $.backstretch("juozas-punk.jpg", {speed: 0});
+        $('body').attr('id', 'punk');
+    });
     var hash = location.hash.replace('#','');
-    if (hash == 'hipster') {
-        $('#go-hipster a').click();
+    if (hash == 'serious') {
+        $('a[href="#serious"]').click();
+    } else if (hash == 'punk') {
+        $('a[href="#punk"]').click();
     } else {
-        $('#go-serious a').click();
+        $('a[href="#punk"]').click();
     }
   })();
 </script>
