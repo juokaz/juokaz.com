@@ -3,19 +3,32 @@ permalink: /blog/:title.html
 
 conferences:
   2012:
-    - title: Future of Web Apps (FOWA)
+    - title: Future of Web Apps
       location: Prague, Czech Republic
       date: 27-29th November
       spoken: 
           - title: "The only PHP framework you'll need: Symfony2"
-    - title: Future of Web Apps (FOWA)
+    - title: True North PHP
+      location: Toronto, Canada
+      date: 2-3rd November
+      spoken: 
+          - title: "Growing spiders to crawl the web"
+          - title: "Process any amounts of data. Any time"
+    - title: Future of Web Apps
       location: London, UK
       date: 15-17th October
       spoken: 
           - title: "REST. Let's get the facts straight"
+    - title: New York City PHP user group
+      location: New York, NY, USA
+      date: 1st October
+      spoken: 
+          - title: "The only PHP framework you'll need: Symfony2"
     - title: REST Fest
       location: Greenville, SC, USA
       date: 13-15th September
+      spoken: 
+          - title: "RESTful Open Data"
     - title: Funconf
       location: Dublin, Ireland
       date: 31st August - 2st September
