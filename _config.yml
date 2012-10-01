@@ -23,7 +23,7 @@ conferences:
       location: New York, NY, USA
       date: 1st October
       spoken: 
-          - title: "The only PHP framework you'll need: Symfony2"
+          - title: "Introduction to Symfony2"
     - title: REST Fest
       location: Greenville, SC, USA
       date: 13-15th September
