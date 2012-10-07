@@ -24,11 +24,13 @@ conferences:
       date: 1st October
       spoken: 
           - title: "Introduction to Symfony2"
+            slides: http://www.slideshare.net/juokaz/introduction-to-symfony2-nyphp
     - title: REST Fest
       location: Greenville, SC, USA
       date: 13-15th September
       spoken: 
           - title: "RESTful Open Data"
+            slides: http://www.slideshare.net/juokaz/restful-opendata
     - title: Funconf
       location: Dublin, Ireland
       date: 31st August - 2st September
