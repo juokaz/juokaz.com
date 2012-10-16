@@ -2,7 +2,7 @@
 layout: post
 title: Why are you so boring?
 location: London, UK
-excerpt: By far the most irritating question I get is "Why?". Or "Why did you ...?" to be exact. There is something wrong with our society, or me finding this wrong, that everything one does have to have some sort of background for it and that he should explain that to others. The last bit is the important one - there is always a reason, but why does it even matter, you are not my mom.
+excerpt: By far the most irritating question I get is 'Why?'. Or 'Why did you ...?' to be exact. There is something wrong with our society, or me finding this wrong, that everything one does have to have some sort of background for it and that he should explain that to others. The last bit is the important one - there is always a reason, but why does it even matter, you are not my mom.
 comments: true
 ---
 
