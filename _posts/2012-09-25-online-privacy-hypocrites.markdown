@@ -22,10 +22,11 @@ But that's not the issue I want to talk about, what I want to talk about is the 
 
 So I met this girl, let's call her Jenny, a few months ago, while going out with a friend to visit some local pubs in Edinburgh. We had some things planned the next morning so we had to call it a night quite early, thus we ended up exchanging numbers, as you do. Coincidentally my name is quite hard for most of the population to handle and I always go by Joe, but when the time comes to enter my name to the contacts list, I end up having to make up a surname... this time it was The Pirate. Joe The Pirate.
 
-<img src="/blog/images/indian-smoke-sms.jpg" alt="" class="left" />
+<img src="/blog/images/sms.jpg" alt="" class="left" />
 
 My age still puts me in a category of people who text each other, so that's what we did for the next few days. Of course eventually the question comes up about what my surname would actually be, even if calling myself a pirate had a lot of context, albeit not very important for this story. Pretty cool though that so many people actually buy that my name is Joe. Getting back to the point, sooner or later that question comes up and my actual name gets revealed - not that it is a secret.
-
+
+
 What we end up discussing next is the fact that my name, and the fact that I'm pretty active in the internetz, means that one can find a lot of stuff about me online. On the other hand, Jenny is a very common name, thus creating some sort of privacy as finding anything online would be pretty much impossible. Furthermore, she wasn't using Facebook too, mainly because of the lack of privacy and the amount of fakeness around all interactions there, all of which I totally agree with, but just bear with me a second.
 
 After going back and forward about various issues with privacy online and all sorts of other things, she comes back with this, seemingly after Googling my name and checking out all the things available online, and I quote:
