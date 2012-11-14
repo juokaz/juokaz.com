@@ -10,7 +10,11 @@ I used to live in Edinburgh. Actually I lived there for 4 years. Throughout the 
 
 <img src="/blog/images/sms.jpg" alt="" class="right" />
 
-It was October 2007 when my friend texted me saying "I'm applying to study in UK, you should too. Go to [ucas.com](http://www.ucas.com/)". I wasn't really planning to do that, haven't actually even thought about that - I was studying at a pretty terrible school, so it's not like I had much inspiration from fellow students. But my original plan, to study at an university in Lithuania, again all of them not really being up to the standards of anything, wasn't that inspiring either.
+It was October 2007 when my friend texted me saying:
+
+> I'm applying to study in UK, you should too. Go to [ucas.com](http://www.ucas.com/)
+
+I wasn't really planning to do that, haven't actually even thought about that - I was studying at a pretty terrible school, so it's not like I had much inspiration from fellow students. But my original plan, to study at an university in Lithuania, again all of them not really being up to the standards of anything, wasn't that inspiring either.
 
 So, I thought, why not - what worst that could happen? Opened up the UCAS site, figured out all the required information I would have to supply, wrote a motivational letter, picked 5 universities I would like to apply to (that's maximum allowed limit of places you can apply to) and clicked "Submit". In total it probably took me mere few hours to go from that text message to an actual submission of the application. Which later I would find out took months of preparations for most, not sure why.
 
