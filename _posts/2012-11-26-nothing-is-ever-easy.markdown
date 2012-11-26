@@ -2,7 +2,7 @@
 layout: post
 title: Nothing is ever easy
 location: London, UK
-excerpt:
+excerpt: What puzzles me the most about a lot of people, is the lack of appreciation for work others do. And complaining about everyone and everything nonstop on social networks. This article is a complaint by itself, so this is some kind of a recursive problem, but that's not the point. I think seeing greatness in others is what makes one able to achieve greatness himself and if you can only see bad, you are meant to become a snob one day. Pretty sure that's not a carrier path you want to take.
 ---
 
 What puzzles me the most about a lot of people, is the lack of appreciation for work others do. And complaining about everyone and everything nonstop on social networks. This article is a complaint by itself, so this is some kind of a recursive problem, but that's not the point. I think seeing greatness in others is what makes one able to achieve greatness himself and if you can only see bad, you are meant to become a snob one day. Pretty sure that's not a carrier path you want to take.
