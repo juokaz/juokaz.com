@@ -6,31 +6,26 @@ conferences:
     - title: Future of Web Apps
       location: Prague, Czech Republic
       date: 27-29th November
-      spoken: 
+      spoken:
           - title: "The only PHP framework you'll need: Symfony2"
-    - title: True North PHP
-      location: Toronto, Canada
-      date: 2-3rd November
-      spoken: 
-          - title: "Growing spiders to crawl the web"
-          - title: "Process any amounts of data. Any time"
+            slides: http://www.slideshare.net/juokaz/the-only-php-framework-youll-need-symfony2-fowa-prague
     - title: Future of Web Apps
       location: London, UK
       date: 15-17th October
-      spoken: 
+      spoken:
           - title: "REST. Let's get the facts straight"
             slides: http://www.slideshare.net/juokaz/rest-lets-get-the-facts-straight-fowa-london
             feedback: http://joind.in/talk/view/7474
     - title: New York City PHP user group
       location: New York, NY, USA
       date: 1st October
-      spoken: 
+      spoken:
           - title: "Introduction to Symfony2"
             slides: http://www.slideshare.net/juokaz/introduction-to-symfony2-nyphp
     - title: REST Fest
       location: Greenville, SC, USA
       date: 13-15th September
-      spoken: 
+      spoken:
           - title: "RESTful Open Data"
             slides: http://www.slideshare.net/juokaz/restful-opendata
     - title: Funconf
@@ -39,12 +34,12 @@ conferences:
     - title: Sheffield PHP User Group
       location: Sheffield, UK
       date: 13th June
-      spoken: 
+      spoken:
           - title: "REST: The bar fight"
     - title: Login conference
       location: Vilnius, Lithuania
       date: 31st May - 1st June
-      spoken: 
+      spoken:
           - title: Open Data
             slides: http://www.slideshare.net/juokaz/open-data-login-conference
     - title: DrupalCamp Scotland
@@ -55,14 +50,14 @@ conferences:
     - title: phpDay conference
       location: Verona, Italy
       date: 18-19th May
-      spoken: 
+      spoken:
           - title: "Lazy Evaluation: stop wasting memory and time"
             slides: http://www.slideshare.net/juokaz/lazy-evaluation-stop-wasting-memory-and-time-phpday
             feedback: http://joind.in/talk/view/6378
     - title: 4Developers conference
       location: Poznań, Poland
       date: 17-18th April
-      spoken: 
+      spoken:
           - title: Choosing The Right NoSQL Database
             slides: http://www.slideshare.net/juokaz/choosing-the-right-nosql-database-4developers
             feedback: http://joind.in/talk/view/6325
@@ -76,7 +71,7 @@ conferences:
     - title: ConFoo conference
       location: Montreal, Canada
       date: 29th February - 2nd March
-      spoken: 
+      spoken:
           - title: Doctrine 2
             slides: http://www.slideshare.net/juokaz/doctrine-2-confoo
             feedback: http://joind.in/talk/view/6109
@@ -89,7 +84,7 @@ conferences:
     - title: PHPBenelux conference
       location: Antwerp, Belgium
       date: 27-28th January
-      spoken: 
+      spoken:
           - title: "Doctrine 2: An Introduction"
             slides: http://www.slideshare.net/juokaz/doctrine-2-an-introduction-php-benelux
             feedback: https://joind.in/talk/view/4773
@@ -97,14 +92,14 @@ conferences:
     - title: PHPDays, part of OSIDays conference
       location: Bangalore, India
       date: 20-21th Nov
-      spoken: 
+      spoken:
           - title: Doctrine 2
             workshop: yes
           - title: The new era of PHP frameworks
     - title: PHP Barcelona conference
       location: Barcelona, Spain
       date: 28-29th October
-      spoken: 
+      spoken:
           - title: PHP in the Cloud
             slides: http://www.slideshare.net/juokaz/php-in-the-cloud-php-barcelona
             feedback: http://joind.in/talk/view/4317
@@ -114,14 +109,14 @@ conferences:
     - title: ZendCon conference
       location: Santa Clara, CA, USA
       date: 17-20th October
-      spoken: 
+      spoken:
           - title: Doctrine 2
             workshop: yes
             feedback: http://joind.in/talk/view/3755
     - title: PHPNW conference
       location: Manchester, United Kingdom
       date: 8-9th October
-      spoken: 
+      spoken:
           - title: Doctrine 2
             slides: http://www.slideshare.net/juokaz/doctrine-2-phpnw11
             feedback: http://joind.in/talk/view/3587
@@ -132,27 +127,27 @@ conferences:
     - title: Edinburgh PHP user group
       location: Edinburgh, UK
       date: 28th September
-      spoken: 
+      spoken:
           - title: Doctrine 2
             slides: http://www.slideshare.net/juokaz/doctrine-2-edinburgh-php-meetup
     - title: PFCongress conference
       location: Utrecht, The Netherlands
       date: 17th September
-      spoken: 
+      spoken:
           - title: The new era of PHP frameworks
             slides: http://www.slideshare.net/juokaz/the-new-era-of-php-frameworks-pfcongres
             feedback: http://joind.in/talk/view/3656
     - title: Dynamic Languages conference
       location: Edinburgh, UK
       date: 29th August
-      spoken: 
+      spoken:
           - title: ‎RESTful Web Services with Python
             slides: http://www.slideshare.net/juokaz/restful-web-services-with-python-dynamic-languages-conference
-            feedback: 
+            feedback:
     - title: PHP North East user group
       location: Newcastle upon Tyne, UK
       date: 19th July
-      spoken: 
+      spoken:
           - title: What is Doctrine ORM and should I use it?
             slides: http://www.slideshare.net/juokaz/what-is-doctrine-orm-and-should-i-use-it-phpne
     - title: JumpInCamp!
@@ -162,10 +157,10 @@ conferences:
     - title: Dutch PHP conference
       location: Amsterdam, The Netherlands
       date: 19-21th May
-      spoken: 
+      spoken:
           - title: Doctrine 2
             workshop: yes
-            slides: 
+            slides:
             feedback: http://joind.in/talk/view/3213
           - title: The new era of PHP frameworks
             slides: http://www.slideshare.net/juokaz/the-new-era-of-php-frameworks-dpc
@@ -173,7 +168,7 @@ conferences:
     - title: phpDay conference
       location: Verona, Italy
       date: 12-14th May
-      spoken: 
+      spoken:
           - title: Doctrine 2
             slides: http://www.slideshare.net/juokaz/doctrine-2-phpday-italy
             feedback: http://joind.in/talk/view/2990
@@ -183,14 +178,14 @@ conferences:
     - title: Web conference, part of InfoShow
       location: Kaunas, Lithuania
       date: 9th April
-      spoken: 
+      spoken:
           - title: Plaktuko problema
             slides: http://www.slideshare.net/juokaz/plaktuko-problema
-            feedback: 
+            feedback:
     - title: 4Developers conference
       location: Warsaw, Poland
       date: 4th April
-      spoken: 
+      spoken:
           - title: "Zend Framework 2.0: Let’s Rock!"
             slides: http://www.slideshare.net/juokaz/zend-framework-20-lets-rock
             feedback: http://joind.in/talk/view/3202
@@ -200,7 +195,7 @@ conferences:
       spoken:
           - title: Drupal and Windows?! Yes
             slides: http://www.slideshare.net/juokaz/drupal-and-windows-yes
-            feedback: 
+            feedback:
     - title: PHPUK conference
       location: London, UK
       date: 25th February
@@ -212,53 +207,53 @@ conferences:
     - title: Forum PHP
       location: Paris, France
       date: 9-10th November
-      spoken: 
+      spoken:
           - title: Doctrine 2
             slides: http://www.slideshare.net/juokaz/doctrine-20-forum-php
             feedback: http://joind.in/talk/view/2105
     - title: Microsoft /web day
       location: Vilnius, Lithuania
       date: 5th November
-      spoken: 
+      spoken:
           - title: PHP on Windows
             slides: http://www.slideshare.net/juokaz/php-on-windows-web-day
     - title: PHP Barcelona conference
       location: Barcelona, Spain
       date: 29-30th October
-      spoken: 
+      spoken:
           - title: Doctrine 2
             slides: http://www.slideshare.net/juokaz/2010-1029doctrine-2pbc10-5607358
     - title: PHPNW conference
       location: Manchester, UK
       date: 9-10th October
-      spoken: 
+      spoken:
           - title: Optimizing Zend Framework
             slides: http://www.slideshare.net/juokaz/optimizing-zend-framework
             feedback: http://joind.in/talk/view/2060
     - title: Dutch PHP conference
       location: Amsterdam, The Netherlands
       date: 10-12th June
-      spoken: 
+      spoken:
           - title: Doctrine 2
             slides: http://www.slideshare.net/juokaz/doctrine-2
             feedback: http://joind.in/talk/view/1769
     - title: PHP North West user group
       location: Manchester, UK
       date: 1st June
-      spoken: 
+      spoken:
           - title: Practical ORMs
             slides: http://www.slideshare.net/juokaz/practical-orms
     - title: phpDay conference
       location: Corropoli, Italy
       date: 12-14th May
-      spoken: 
+      spoken:
           - title: Practical ORMs
             workshop: yes
             feedback: http://joind.in/talk/view/1444
     - title: Lithuanian PHP conference
       location: Kaunas, Lithuania
       date: 24th April
-      spoken: 
+      spoken:
           - title: Būk žingsniu priekyje!
             slides: http://www.slideshare.net/juokaz/bk-ingsniu-priekyje
       info: First talk in a PHP conference
