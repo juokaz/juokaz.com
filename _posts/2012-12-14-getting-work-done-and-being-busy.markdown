@@ -42,3 +42,5 @@ I have a few skills which I trained myself of, allowing me to be very efficient 
 Sometimes this gets quite hard (telecommuting is harder than you might think), but never impossible. I get work done because I can focus on things very well and quickly switch between work and not-work environments in my head. The amount of things I need to potentially do is always greater than I can handle, so I prioritize and delegate them, leaving me with just enough time to afford the lifestyle I want to be living now. And not get stuck in being always busy.
 
 Some people like others to see them as very busy and always doing things. I don't really care about that, you might as well just think that I play all day long. I get work done without complaining how busy I am, because I don't see how is being busy a good thing or in any way an indication of the importance or effectiveness of ones work.
+
+*\*all illustrations done by Frits from hikingartist.com*
