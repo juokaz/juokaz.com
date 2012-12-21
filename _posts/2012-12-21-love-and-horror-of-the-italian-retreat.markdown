@@ -5,10 +5,6 @@ location: Vilnius, Lithuania
 excerpt: When I started living homeless, almost 4 months ago, I had a few ideas how to make the whole stunt more exciting. One of them was to get a group of friends and ship them to some remote place in say Italy just to live for a while. So in November I created an event on Facebook called "Italian retreat", invited some people who I thought would go for this, and started planning. Most of the Europe would be pretty cold then, so why not just go somewhere warm and do something different for a change?
 ---
 
-<img src="/blog/images/sitting-in-portovenere.jpg" alt="" />
-
-When I [started](/blog/living-homeless.html) living homeless, almost 4 months ago, I had a few ideas how to make the whole stunt more exciting. One of them was to get a group of friends and ship them to some remote place in say Italy just to live for a while. So in November I created an event on Facebook called "Italian retreat", invited some people who I thought would go for this, and started planning. Most of the Europe would be pretty cold then, so why not just go somewhere warm and do something different for a change?
-
 > Most of Europe is going to be really cold* during December, so fuck that, let's go to Italy and have fun.
 >
 > I'll have a Villa/house rented somewhere in the lands of Italy, which you are invited to visit at any time during those days, including staying there for as long as you want. As long as you can take care of a flight, which is pretty easy to do flying in into Milan, you just need to come - the place is going to be reachable from Milan airports.
@@ -18,6 +14,10 @@ When I [started](/blog/living-homeless.html) living homeless, almost 4 months ag
 > You are welcome to invite friends or people you think would be up for this. It's the people who will make this special, so make it count.
 >
 > \*1 - Milan is going to be at least >0°C
+
+<img src="/blog/images/sitting-in-portovenere.jpg" alt="" />
+
+When I [started](/blog/living-homeless.html) living homeless, almost 4 months ago, I had a few ideas how to make the whole stunt more exciting. One of them was to get a group of friends and ship them to some remote place in say Italy just to live for a while. So in November I created an event on Facebook called "Italian retreat", invited some people who I thought would go for this, and started planning. Most of the Europe would be pretty cold then, so why not just go somewhere warm and do something different for a change?
 
 So from December 4th till 20th we were living in a 16th century stone house in the [Cattognano](http://maps.google.co.uk/maps?q=Via+Catognano,+Cattognano,+Massa-Carrara,+Italy&hl=en&sll=53.800651,-4.064941&sspn=9.363881,26.477051&oq=via+catognano+&hnear=Via+Catognano,+Cattognano,+Massa-carrara,+Toscana,+Italy&t=m&z=16) village, us and the 8 official residents of the whole village. And a cat. Luckily nowadays [airbnb](http://www.airbnb.com/) is the only thing you need to get a place like this, nonetheless it took quite a long time to find exactly what I was looking for. What a lot of event organizers don't realize, especially when organizing a conference, is how important the surroundings are. And I think it's one of the few key elements.
 
