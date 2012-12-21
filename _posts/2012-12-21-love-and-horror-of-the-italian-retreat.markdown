@@ -2,7 +2,7 @@
 layout: post
 title: Love and horror of the Italian retreat
 location: Vilnius, Lithuania
-excerpt:
+excerpt: When I started living homeless, almost 4 months ago, I had a few ideas how to make the whole stunt more exciting. One of them was to get a group of friends and ship them to some remote place in say Italy just to live for a while. So in November I created an event on Facebook called "Italian retreat", invited some people who I thought would go for this, and started planning. Most of the Europe would be pretty cold then, so why not just go somewhere warm and do something different for a change?
 ---
 
 <img src="/blog/images/sitting-in-portovenere.jpg" alt="" />
