@@ -11,7 +11,7 @@ This seems to be the time of the year when everyone is looking back at the thing
 
 This year I spent more than 7 months traveling. That's quite a lot. A lot of people would think it's an amazing privilege to be able to do this, and it is to some degree, but at the same time, it's extremely lonely. Of course one ends up meeting a lot of new people and sees a lot of new places, but you are just not connecting with anyone or anything. Not spending much time in one place makes it very hard.
 
-When was the last time you asked someone "how are you doing?". If you are well mannered - the last time you met someone. When did you do the same with someone who you don't see in person very often or at all? Very likely quite a while ago. Most people are horrible at long-distance relationships and thus these are perceived as impossible. Because they are hard and require effort, and people are lazy. Sometimes they just don't know how, too. I think the move "Like Crazy" quite well shows one angle.
+When was the last time you asked someone "how are you doing?". If you are well mannered - the last time you met someone. When did you do the same with someone who you don't see in person very often or at all? Very likely quite a while ago. Most people are horrible at long-distance relationships and thus these are perceived as impossible. Because they are hard and require effort, and people are lazy. Sometimes they just don't know how, too. I think the move "Like Crazy" quite well shows one of the angles also.
 
 <iframe width="800" height="450" src="http://www.youtube.com/embed/r-ZV-bwZmBw" frameborder="0" allowfullscreen="allowfullscreen">    </iframe>
 
@@ -35,8 +35,10 @@ This is very frustrating for me, because I'm never in one place for a long time 
 
 I have a few friends who do reply to my messages, but would never initiate a communication themselves. It looks like an interview. This will go on for as long as I can be bothered. And if I'm not anymore... Boom, gone. That's how much it takes for a relationship to go, because well, one of the parties weren't really willing to do much about it anyway. And that's fine. You might think it's fine, but I don't think it is. I think valuing people you know is worth it, chances are you might regret not working hard on connecting with them later.
 
-I have a few friends who understand this. And that has kept us as friends for a very long time, even given how everyone has moved to different places, lifestyles and lifes. For example I met up with one in Prague, after speaking at the Future of Web Apps there. None of us live in Prague, or in Czech Republic. I happen to be in Prague that week. My friend happen to be bro enough to show up. That's how it works.
+I have a few friends who understand this. And that has kept us as friends for a very long time, even given how everyone has moved to different places, lifestyles and lives. For example I met up with one in Prague to stay a few extra days after speaking at the Future of Web Apps there. None of us live in Prague, or in Czech Republic. I happen to be in Prague that week. My friend happen to be bro enough to show up. That's how it works.
 
-It always only takes a single "how are you doing?", don't be shy. Just that people end up waiting for the other end to do that first. And it never happens. So do it more and you'd realize how many people are waiting for that.
+I find it strange that so many people can only communicate when in person. This seams to be against all of the tools which were created to extend that: mobile phones, email, social networks, etc. I guess too many assume that a tool does some magic. That's not really the case, you have to use them, you have to show effort to communicate through them. It's not like people don't want to talk, they do, it's just that doing that through a transceiver seems odd. It shouldn't be odd.
+
+It always only takes a single "how are you doing?", don't be shy. Just that people end up waiting for the other end to do that first. And it never happens. So do it more and you'd realize how many people are waiting for that, even though they haven't seen your face in person for a long time. We are in 21st century, thus your village is not where your relationships end.
 
 *\*all illustrations done by Frits from hikingartist.com*
