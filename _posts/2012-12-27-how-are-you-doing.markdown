@@ -2,7 +2,7 @@
 layout: post
 title: How are you doing?
 location: Vilnius, Lithuania
-excerpt:
+excerpt: This seems to be the time of the year when everyone is looking back at the things they've done in 2012 and writing down promises for the upcoming year. There are a lot of things I could reflect back on, but I wanted to talk about relationships, friends and traveling. Write down some thoughts which might inspire one of you, and me, to do better next year. It's not like you are going to continue going to the gym after the first week (if you do, read this).
 ---
 
 <img src="/blog/images/friends-follow.jpg" alt="" class="right" />
