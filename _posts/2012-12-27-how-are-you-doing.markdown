@@ -38,3 +38,5 @@ I have a few friends who do reply to my messages, but would never initiate a com
 I have a few friends who understand this. And that has kept us as friends for a very long time, even given how everyone has moved to different places, lifestyles and lifes. For example I met up with one in Prague, after speaking at Future of Web Apps there. None of us live there, or in Czech Republic. I happen to be in Prague that week. My friend happen to be bro enough to show up. That's how it works.
 
 It always only takes a single "how are you doing?", don't be shy. Just that people end up waiting for the other end to do that first. And it never happens. So do it more and you'd realize how many people are waiting for that.
+
+*\*all illustrations done by Frits from hikingartist.com*
