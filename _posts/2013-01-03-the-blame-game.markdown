@@ -2,7 +2,7 @@
 layout: post
 title: The blame game
 location: Vilnius, Lithuania
-excerpt:
+excerpt: Why you didn't check the invoice before sending it out and the client has now paid us half of the expected amount? Because I wasn't careful enough. Or maybe I was fighting zombies in the streets of Chicago while doing it on my Blackberry. Let's fix the problem first and then we can look back and see how it can be avoided the next time. If you still want to talk about it, we are going to play the blame game. Which is a really terrible way to spend our time.
 ---
 
 Why you didn't check the invoice before sending it out and the client has now paid us half of the expected amount? Because I wasn't careful enough. Or maybe I was fighting zombies in the streets of Chicago while doing it on my Blackberry. Let's fix the problem first and then we can look back and see how it can be avoided the next time. If you still want to talk about it, we are going to play the blame game. Which is a really terrible way to spend our time.
