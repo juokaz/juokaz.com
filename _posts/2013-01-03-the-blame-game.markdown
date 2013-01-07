@@ -13,7 +13,7 @@ What is the blame game? The blame game is the focus on the previous events and p
 
 People go back looking at what has been said, done or not done and use that to figure out who is the one to blame for the problem. Unless you work as a detective, which I believe is incredibly cool, you shouldn't really worry about this before actually solving the problem. Throughout the years, at least half of the emails I would get about something not being right would include *"yeah, but you said ..."*, *"but you said you are going to do ..."* or *"... was supposed to have fixed this by now".
 
-I don't care at all who or what caused something to happen. What I'm interested in is how we can solve the problem. Now. This is really important. I guess even ruthless up to a point. This is also why I [dislike](/blog/why-are-you-so-boring.markdown) the question "why?" so much. Because I don't see why I should be caring even a little bit about the things which can't be changed anymore, it's not like I can travel back in time and fix them (that would be pretty neat). Thus I ignore them.
+I don't care at all who or what caused something to happen. What I'm interested in is how we can solve the problem. Now. This is really important. I guess even ruthless up to a point. This is also why I [dislike](/blog/why-are-you-so-boring.html) the question "why?" so much. Because I don't see why I should be caring even a little bit about the things which can't be changed anymore, it's not like I can travel back in time and fix them (that would be pretty neat). Thus I ignore them.
 
 <img src="/blog/images/old-no-men.jpg" alt="" class="left" />
 
