@@ -15,15 +15,17 @@ It all started about a year ago when [Open Source Scotland](http://open-source-s
 
 At that time we didn't really realize that conferences (or events in more general terms) do not get organized in just a few months. Joined by Dale, [Max](http://twitter.com/maxmanders) and Paul, we formed a team of 5 guys who had absolutely no idea what it takes to run a conference. Luckily we were quite clever about how we were making it happen and being very agile we managed to get it all set up. Fast forward a few months, we had two days of over a 100 people, 12 speakers from as far as USA, 2 magnificent venues and a lot of fun. Oh, and a couple grand deficit. Max wrote it all down very well [here](http://www.maxmanders.co.uk/2012/05/20/whisky-web-on-organising-a-conference.html).
 
+<a href="http://www.flickr.com/photos/juokaz/sets/72157629490197160/with/7094329071/"><img src="/blog/images/whiskyweb2012.jpg" alt="" /></a>
+
 I don't even live in Scotland anymore, but I want to do this again because I think Scotland needs more events like this. And people who want to do them. Also after [Ben](http://twitter.com/blongden) and Ivana joined the organizers group, we are now all living in 4 different cities, so it's a truly distributed team and I don't really need to be physically present at all. Edinburgh feels like home anytime I come back to it, so this also works like a great excuse to do so.
 
 A conference is not a room with a bunch of speakers. A conference is an environment to meet people, share ideas and experience new things. We are running it in Scotland, by far one of the most beautiful and historical countries, our *job* is to show it to the attendees. We want them to get a portion of new knowledge and meet new people, but also learn about Scotland, of course whisky and convince to come on holiday next year.
 
 That's why this year we are going to be doing a bit of everything - mountain climbing, traveling across Scotland, dancing, fighting flying sharks, staying in a castle, etc. Some of those things are not true, some of the things which are going to happen are not there. Of course there is going to be talks too, some very good ones, but the overall experience is going to be quite a journey.
 
-<img src="/blog/images/airth-castle-front.jpg" alt="" />
-
 One of the bigger arguments we had is whether we should... allow people to leave on a first day, since we are meeting in Edinburgh then doing a bit of traveling and staying in the Airth castle hotel for the night coming back to Edinburgh the next day. A conference ticket includes accommodation and we are more than expecting everyone to stay there. Ask anyone who attends conferences and they will tell you, after conference socials are the things one remembers for a long long time.
+
+<img src="/blog/images/airth-castle-front.jpg" alt="" />
 
 So if someone wants to skip all that and just listen to the talks, please don't come. As harsh as this sounds, it's one of the *"If you have to ask then you'll never know"* moments - Whisky Web is way more than just the talks and it just makes no sense to want to experience only a part of it. We have a very limited amount of seats available, we are going to find enough people who will want to experience it all, the sort of people who went to [Funconf](/blog/funconf-fuck-yeah.html) too for example.
 
