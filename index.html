@@ -36,6 +36,9 @@
         #hipster #go-hipster-punk {display: none;}
         #hipster #go-serious-hipster {display: none;}
 
+        #serious #webspecies { right: none; left: 52px; top: 52px; }
+        #serious #about { padding: 50px 30px 0 0; margin: 0 50px 0 auto !important; }
+        #serious ul#connect { padding: 10px 20px 0 0; margin: 0 170px 0 auto !important;}
         #serious #go-serious-punk {display: none;}
         #serious #go-hipster-punk {display: inline;}
         #serious #go-serious-hipster {display: none;}
@@ -134,12 +137,12 @@
         $('body').attr('id', 'punk');
     });
     var hash = location.hash.replace('#','');
-    if (hash == 'serious') {
-        $('a[href="#serious"]').click();
+    if (hash == 'hipster') {
+        $('a[href="#hipster"]').click();
     } else if (hash == 'punk') {
         $('a[href="#punk"]').click();
     } else {
-        $('a[href="#punk"]').click();
+        $('a[href="#serious"]').click();
     }
   })();
 </script>
