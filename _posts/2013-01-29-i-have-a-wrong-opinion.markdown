@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your opinion sucks
+title: I have a wrong opinion
 location: Ghent, Belgium
 excerpt:
 ---
