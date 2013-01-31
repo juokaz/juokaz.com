@@ -17,7 +17,7 @@ It doesn't matter if it's a written article or a conference talk - I want to hea
 
 Obviously there is a risk of listening to someone who is convincing enough to sound trustworthy and then cause yourself some problems down the road. That happens. But if you can't separate right from wrong, I really hope you are not reading any newspapers. World is filled with misinformed and delusional people, but when one is presented with a variety of opinions he can see the correct way. For himself. For example out of the people giving talks about [RESTful web services](http://en.wikipedia.org/wiki/Representational_state_transfer), I think only 10% or so have opinions which I think are based on actually knowing things.
 
-More often than not, if I'm stating something I have a very good reason to do so. And if anyone wants to argue against that, they are more than welcome to do so. I love it. I was accused of assuming I'm always right, but I actually I assume I'm always wrong. The fact that I stand by my opinions apparently makes it seem like I'm not open to input. I'm very open. But you will have to argue, I'm not going to buy it just because someone said it - opinions without arguments are worthless.
+More often than not, if I'm stating something I have a very good reason to do so. And if anyone wants to argue against that, they are more than welcome to do so. I love it. I was accused of assuming I'm always right, but actually I assume I'm always wrong. The fact that I stand by my opinions apparently makes it seem like I'm not open to input. I'm very open. But you will have to argue, I'm not going to buy it just because someone said it - opinions without arguments are worthless.
 
 <img src="/blog/images/speaking-fear-people.jpg" alt="" class="left" />
 
