@@ -2,7 +2,8 @@ paginate: 5
 permalink: /blog/:title.html
 
 conferences:
-  2013:
+  - year: 2013
+    talks:
     - title: Future Insights Live
       location: Las Vegas, NV, USA
       date: 29th April - 2nd May
@@ -29,7 +30,8 @@ conferences:
           - title: "Process any amounts of data. Any time"
             slides: http://www.slideshare.net/juokaz/process-any-amounts-of-data-any-time-php-benelux-2013
             feedback: http://joind.in/talk/view/7801
-  2012:
+  - year: 2012
+    talks:
     - title: Future of Web Apps
       location: Prague, Czech Republic
       date: 27-29th November
@@ -115,7 +117,8 @@ conferences:
           - title: "Doctrine 2: An Introduction"
             slides: http://www.slideshare.net/juokaz/doctrine-2-an-introduction-php-benelux
             feedback: https://joind.in/talk/view/4773
-  2011:
+  - year: 2011
+    talks:
     - title: PHPDays, part of OSIDays conference
       location: Bangalore, India
       date: 20-21th Nov
@@ -226,7 +229,8 @@ conferences:
     - title: PHPUK conference
       location: London, UK
       date: 25th February
-  2010:
+  - year: 2010
+    talks:
     - title: JumpInCamp!
       location: Seattle, WA, USA
       date: 16-19th November
@@ -293,7 +297,8 @@ conferences:
     - title: PHPUK conference
       location: London, UK
       date: 26th February
-  2009:
+  - year: 2009
+    talks:
     - title: PHPNW conference
       location: Manchester, UK
       date: 10-11th October

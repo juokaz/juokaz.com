@@ -11,10 +11,10 @@ title: Conferences
 <dl>
     <dd class="clear"></dd>
 
-    {% for year in site.conferences reversed %}
-    <dt>{{ year[0] }}</dt>
+    {% for year in site.conferences %}
+    <dt>{{ year.year }}</dt>
     <dd>
-        {% for conference in year[1] %}
+        {% for conference in year.talks %}
         <h2>{{ conference.title }} <span>{{ conference.location }}, {{ conference.date }}</span></h2>
         <p>
             {% if conference.spoken %}
@@ -23,7 +23,7 @@ title: Conferences
                 {% endfor %}
             {% endif %}
             {% if conference.spoken == null and conference.info == null %}
-                Just attended 
+                Just attended
             {% else %}
                 {{ conference.info }}
             {% endif %}
