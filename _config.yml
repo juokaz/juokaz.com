@@ -2,6 +2,30 @@ paginate: 5
 permalink: /blog/:title.html
 
 conferences:
+  2013:
+    - title: Future Insights Live
+      location: Las Vegas, NV, USA
+      date: 29th April - 2nd May
+          - title: "Throw some data science at it"
+    - title: Whisky Web II conference
+      location: Edinburgh, UK
+      date: 12-13th April
+      info: Organised my second conference
+    - title: PHPUK conference
+      location: London, UK
+      date: 22-23th February
+          - title: "You Can't Optimize What You Can't Measure"
+    - title: SunshinePHP conference
+      location: Miami, FL, USA
+      date: 8-9th February
+          - title: "Virtualized Development"
+    - title: PHPBenelux conference
+      location: Antwerp, Belgium
+      date: 25-26th January
+      spoken:
+          - title: "Process any amounts of data. Any time"
+            slides: http://www.slideshare.net/juokaz/process-any-amounts-of-data-any-time-php-benelux-2013
+            feedback: http://joind.in/talk/view/7801
   2012:
     - title: Future of Web Apps
       location: Prague, Czech Republic
