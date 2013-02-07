@@ -2,12 +2,14 @@
 layout: post
 title: The most clever idiot
 location: Munich, Germany
-excerpt:
+excerpt: I was reading this article called "Don’t Waste Your Twenties", specifically the first part called "Taking Advantage of the Unique Powers of the Twentysomething Brain", and thought - hey, that's a very good explanation of why I'm such an idiot. And I'm very happy to be an idiot now, I hope I can stay like this for longer. The most clever idiot out there.
 ---
 
 I was reading this article called "Don’t Waste Your Twenties", specifically the first part called ["Taking Advantage of the Unique Powers of the Twentysomething Brain"](http://artofmanliness.com/2013/02/04/dont-waste-your-twenties-part-1-taking-advantage-of-the-unique-powers-of-the-twentysomething-brain/), and thought - hey, that's a very good explanation of why I'm such an idiot. And I'm very happy to be an idiot now, I hope I can stay like this for longer. The most clever idiot out there.
 
 There is this concept I invented called "Joe 2.0". I reconnected with a friend some time ago who I haven't talked to for a couple of years, and the first thing I said was that in that period of time so many things have changed that I'm kind of at a 2.0 version of myself now. Although I seem to have mainly gained in the idiot section. Which I think is very good, because before that I would spend way too much time submerged in work. Weeks would go by and the only thing I would be doing is working.
+
+<img src="/blog/images/business-dance.jpg" class="right" alt="Dance" />
 
 Even now I work a lot and on some pretty challenging things (come along to the [Future Insights Live](http://futureinsightslive.com/las-vegas-2013) conference where I'll be talking about how we process 50GB of new data every day to answer data science questions), study math and business related topics and build new ideas. So I guess I'm pretty clever. Subjectively. At the same time though, doing only this would be very boring. So boring, that I have to come up with ways to entertain myself. Even if they look idiotic to some.
 
@@ -32,3 +34,5 @@ A week ago I sold my stake in my first company, the business we started some yea
 As much as doing all this was absolutely stupid, it was worth it. And very stupid, especially the planking in snow. But you see, things like this create memories. Not just for yourself, but also for others. I actually think it's my job as a conference speaker to create these memories, because talks alone are very easy to forget, but doing something epic is going to make it an experience. And probably the first thing you will tell to your colleagues when you are back.
 
 Young adults have two things no other age group does: some level of intellect and a lot of recklessness. These things combined allow for some of the most productive and creative years, some of the biggest steps in life. I'm enjoying being an idiot, because I'm clever enough to make it work. I hope so, otherwise this is going to end badly some day.
+
+*\*all illustrations done by Frits from hikingartist.com*
