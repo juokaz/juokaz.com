@@ -23,6 +23,8 @@ conferences:
       date: 8-9th February
       spoken:
           - title: "Virtualized Development"
+            slides: http://www.slideshare.net/juokaz/virtualized-development-sunshine-php
+            feedback: http://joind.in/talk/view/8018
     - title: PHPBenelux conference
       location: Antwerp, Belgium
       date: 25-26th January
