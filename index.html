@@ -24,22 +24,22 @@
         #connect a:hover{text-decoration: none;opacity:0.8;border-style: none;}
         #connect img {border:none;margin-bottom:5px;}
         #go-serious-punk {display: none;}
-        #go-hipster-punk {display: none;}
-        #go-serious-hipster {display: inline;}
+        #go-speaker-punk {display: none;}
+        #go-serious-speaker {display: inline;}
 
-        #hipster #about, #serious #about { padding: 20px 30px 0 0; margin: 0 50px 0 auto !important; }
-        #hipster ul#connect, #serious ul#connect { right: none; left: 52px; }
-        #hipster #go-serious-punk {display: inline;}
-        #hipster #go-hipster-punk {display: none;}
-        #hipster #go-serious-hipster {display: none;}
+        #speaker #about, #serious #about { padding: 20px 30px 0 0; margin: 0 50px 0 auto !important; }
+        #speaker ul#connect, #serious ul#connect { right: none; left: 52px; }
+        #speaker #go-serious-punk {display: inline;}
+        #speaker #go-speaker-punk {display: none;}
+        #speaker #go-serious-speaker {display: none;}
 
         #serious #go-serious-punk {display: none;}
-        #serious #go-hipster-punk {display: inline;}
-        #serious #go-serious-hipster {display: none;}
+        #serious #go-speaker-punk {display: inline;}
+        #serious #go-serious-speaker {display: none;}
 
         @media only screen and (max-device-width: 1024px) {
             ul#connect{ position: static; margin-left: 20px; white-space:nowrap;width: 400px; padding: 10px 0 0 20px; margin: 0 auto 0 50px !important; }
-            #serious ul#connect, #hipster ul#connect { padding: 10px 20px 0 0; margin: 0 170px 0 auto !important;}
+            #serious ul#connect, #speaker ul#connect { padding: 10px 20px 0 0; margin: 0 170px 0 auto !important;}
         }
 
 	</style>
@@ -74,14 +74,14 @@
 		<li>Blogging at my own <a href="/blog">blog</a>, latest article was on <a href="{{ site.posts[0].url }}">"{{ site.posts[0].title }}"</a></li>
     </ul>
     <p>
-        <span id="go-hipster-punk">
-            Don't like the serious look? Go with <a href="#hipster">hipster</a> or <a href="#punk">punk</a>.
+        <span id="go-speaker-punk">
+            Don't like the serious look? Go with <a href="#speaker">speaker</a> or <a href="#punk">punk</a>.
         </span>
         <span id="go-serious-punk">
-            Don't like the hipster look? Go with <a href="#serious">serious</a> or <a href="#punk">punk</a>.
+            Don't like the speaker look? Go with <a href="#serious">serious</a> or <a href="#punk">punk</a>.
         </span>
-        <span id="go-serious-hipster">
-            Don't like the punk look? Go with <a href="#serious">serious</a> or <a href="#hipster">hipster</a>.
+        <span id="go-serious-speaker">
+            Don't like the punk look? Go with <a href="#serious">serious</a> or <a href="#speaker">speaker</a>.
         </span>
     </p>
 </div>
@@ -120,9 +120,9 @@
 <script type="text/javascript" src="jquery.backstretch.min.js"></script>
 <script type="text/javascript">
   (function() {
-    $('a[href="#hipster"]').click(function() {
-	    $.backstretch("juozas-smiling.jpg", {speed: 0});
-        $('body').attr('id', 'hipster');
+    $('a[href="#speaker"]').click(function() {
+	    $.backstretch("juozas-speaking.jpg", {speed: 0});
+        $('body').attr('id', 'speaker');
     });
     $('a[href="#serious"]').click(function() {
         $.backstretch("juozas.jpg", {speed: 0});
@@ -133,8 +133,8 @@
         $('body').attr('id', 'punk');
     });
     var hash = location.hash.replace('#','');
-    if (hash == 'hipster') {
-        $('a[href="#hipster"]').click();
+    if (hash == 'speaker') {
+        $('a[href="#speaker"]').click();
     } else if (hash == 'punk') {
         $('a[href="#punk"]').click();
     } else {
