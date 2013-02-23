@@ -18,7 +18,7 @@ conferences:
       date: 22-23th February
       spoken:
           - title: "You Can't Optimize What You Can't Measure"
-            slide: http://www.slideshare.net/juokaz/you-cant-optimize-what-you-cannot-measure-php-uk
+            slides: http://www.slideshare.net/juokaz/you-cant-optimize-what-you-cannot-measure-php-uk
             feedback: http://joind.in/talk/view/8056
     - title: SunshinePHP conference
       location: Miami, FL, USA
