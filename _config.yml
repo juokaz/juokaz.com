@@ -4,6 +4,11 @@ permalink: /blog/:title.html
 conferences:
   - year: 2013
     talks:
+    - title: Web-5 conference
+      location: Béziers, France
+      date: 14-15th June
+      spoken:
+          - title: "Process any amounts of data. Any time"
     - title: Future Insights Live
       location: Las Vegas, NV, USA
       date: 29th April - 2nd May
