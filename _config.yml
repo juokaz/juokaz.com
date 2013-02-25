@@ -18,6 +18,11 @@ conferences:
       location: Edinburgh, UK
       date: 12-13th April
       info: Organised my second conference
+    - title: Sydney PHP user group
+      location: Sydney, Australia
+      date: 28th February
+      spoken:
+          - title: "REST. Let's get the facts straight"
     - title: PHPUK conference
       location: London, UK
       date: 22-23th February
