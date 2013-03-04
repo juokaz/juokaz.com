@@ -7,12 +7,15 @@
     <meta charset="UTF-8" />
     <title>Juozas Kaziukėnas - {% if page.title %}{{ page.title }}{% else %}web developer, zend framework expert, php evangelist, entrepreneur{% endif %}</title>
     {% if page.excerpt %}<meta name="title" content="{{ page.title }}" />
-    <meta name="description" content="{{ page.excerpt }}" />{% endif %}
+    <meta name="description" content="{{ page.excerpt }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:url" content="http://juokaz.com{{ page.url }}" />
+    <meta property="og:description" content="{{ page.excerpt }}" />{% endif %}
     <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="/internal.css" />
     <link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" />
     <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-    <script type="text/javascript">stLight.options({publisher: "ur-6bd9e2ea-626b-e4f8-c1b8-dcb7b4ab226e", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+    <script type="text/javascript">stLight.options({publisher: "ur-6bd9e2ea-626b-e4f8-c1b8-dcb7b4ab226e", doNotHash: true, doNotCopy: true, hashAddressBar: false, shorten:false});</script>
 </head>
 
 <body>
