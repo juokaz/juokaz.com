@@ -15,7 +15,14 @@ layout: default
     <footer>
         <section class="share">
             <span class='st_fblike_hcount' displayText='Facebook Like'></span>
-            <span class='st_twitter_hcount' displayText='Tweet'></span>
+            <span>
+                <span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;position:relative;margin:3px 3px 0;padding:0px;line-height:16px;vertical-align:bottom;overflow:visible;">
+                    <div>
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="juokaz" data-dnt="true" data-url="http://juokaz.com{{ page.url }}" data-text="{{ page.title }}">Tweet</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    </div>
+                </span>
+            </span>
             <span class='st_googleplus_hcount' displayText='Google +'></span>
             <span class='st_linkedin_hcount' displayText='LinkedIn'></span>
         </section>
