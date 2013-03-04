@@ -2,7 +2,7 @@
 layout: post
 title: The most clever idiot
 location: Munich, Germany
-excerpt: I was reading this article called "Don’t Waste Your Twenties", specifically the first part called "Taking Advantage of the Unique Powers of the Twentysomething Brain", and thought - hey, that's a very good explanation of why I'm such an idiot. And I'm very happy to be an idiot now, I hope I can stay like this for longer. The most clever idiot out there.
+excerpt: I was reading this article called Don’t Waste Your Twenties, specifically the first part called Taking Advantage of the Unique Powers of the Twentysomething Brain, and thought - hey, that's a very good explanation of why I'm such an idiot. And I'm very happy to be an idiot now, I hope I can stay like this for longer. The most clever idiot out there.
 ---
 
 I was reading this article called "Don’t Waste Your Twenties", specifically the first part called ["Taking Advantage of the Unique Powers of the Twentysomething Brain"](http://artofmanliness.com/2013/02/04/dont-waste-your-twenties-part-1-taking-advantage-of-the-unique-powers-of-the-twentysomething-brain/), and thought - hey, that's a very good explanation of why I'm such an idiot. And I'm very happy to be an idiot now, I hope I can stay like this for longer. The most clever idiot out there.
