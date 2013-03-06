@@ -9,6 +9,16 @@ conferences:
       date: 14-15th June
       spoken:
           - title: "Process any amounts of data. Any time"
+    - title: Dutch PHP conference
+      location: Amsterdam, The Netherlands
+      date: 6-8th June
+      spoken:
+          - title: "Growing spiders to crawl the web"
+    - title: phpDay conference
+      location: Verona, Italy
+      date: 17-18th May
+      spoken:
+          - title: "Building distributed systems"
     - title: Future Insights Live
       location: Las Vegas, NV, USA
       date: 29th April - 2nd May
