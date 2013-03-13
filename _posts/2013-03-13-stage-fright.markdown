@@ -32,3 +32,5 @@ Not having a home also means I have to source food differently - I cook very rar
 By now I don't care. I can show up at at a restaurant and have a dinner without having that awkward feeling. And without starring at my iPhone screen for most of the time. Something people do so often now, even when they are with someone. I would still much prefer having someone to join me, it's nice to have a good conversation, but if not, and that's very common when I go to places I know no one, that doesn't mean I have to eat at home. I have no home.
 
 Realizing things one needs to improve or do to be better is not easy. However actually doing them and being patient enough to wait past the uncomfortableness is really tough. All of those things I talked about I'd rather not be doing. If I was writing this two years ago. Now I'm happy I did them, they changed them. Stage fright only exists before going up the stage, you can even get friends to physically force you up the stairs, once you are there, you'd be surprised how normal it feels.
+
+*\*all illustrations done by Frits from hikingartist.com*
