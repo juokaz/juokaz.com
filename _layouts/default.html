@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title>Juozas Kaziukėnas - {% if page.title %}{{ page.title }}{% else %}web developer, zend framework expert, php evangelist, entrepreneur{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} // {% endif %}Juozas Kaziukėnas</title>
     {% if page.excerpt %}<meta name="title" content="{{ page.title }}" />
     <meta name="description" content="{{ page.excerpt }}" />
     <meta property="og:title" content="{{ page.title }}" />
