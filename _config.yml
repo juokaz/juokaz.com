@@ -4,6 +4,12 @@ permalink: /blog/:title.html
 conferences:
   - year: 2013
     talks:
+    - title: Lone Start PHP conference
+      location: Dallas, TX, USA
+      date: 28-29th June
+      spoken:
+          - title: "Virtualized Development"
+          - title: "You Can't Optimize What You Can't Measure"
     - title: Web-5 conference
       location: Béziers, France
       date: 14-15th June
