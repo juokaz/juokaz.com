@@ -28,6 +28,11 @@ conferences:
       location: Edinburgh, UK
       date: 12-13th April
       info: Organised my second conference
+    - title: Melbourne PHP user group
+      location: Melbourne, Australia
+      date: 19th March
+      spoken:
+          - title: "You Can't Optimize What You Can't Measure"
     - title: Sydney PHP user group
       location: Sydney, Australia
       date: 28th February
