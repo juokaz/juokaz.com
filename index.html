@@ -23,19 +23,21 @@
         #connect a:link,#navlist a:visited{text-decoration: none;opacity:0.3;border-style: none;}
         #connect a:hover{text-decoration: none;opacity:0.8;border-style: none;}
         #connect img {border:none;margin-bottom:5px;}
-        #go-serious-punk {display: none;}
-        #go-speaker-punk {display: none;}
-        #go-serious-speaker {display: inline;}
 
         #speaker #about, #serious #about { padding: 20px 30px 0 0; margin: 0 50px 0 auto !important; }
         #speaker ul#connect, #serious ul#connect { right: none; left: 52px; }
-        #speaker #go-serious-punk {display: inline;}
-        #speaker #go-speaker-punk {display: none;}
-        #speaker #go-serious-speaker {display: none;}
 
-        #serious #go-serious-punk {display: none;}
-        #serious #go-speaker-punk {display: inline;}
-        #serious #go-serious-speaker {display: none;}
+        #speaker #go-speaker {display: inline;}
+        #speaker #go-punk, #speaker #go-scottish, #speaker #go-serious {display: none;}
+
+        #serious #go-serious {display: inline;}
+        #serious #go-punk, #serious #go-scottish, #serious #go-speaker {display: none;}
+
+        #scottish #go-scottish {display: inline;}
+        #scottish #go-punk, #scottish #go-serious, #scottish #go-speaker {display: none;}
+
+        #punk #go-punk {display: inline;}
+        #punk #go-scottish, #punk #go-serious, #punk #go-speaker {display: none;}
 
         @media only screen and (max-device-width: 1024px) {
             ul#connect{ position: static; margin-left: 20px; white-space:nowrap;width: 400px; padding: 10px 0 0 20px; margin: 0 auto 0 50px !important; }
@@ -74,14 +76,17 @@
 		<li>Blogging at my own <a href="/blog">blog</a>, latest article was on <a href="{{ site.posts[0].url }}">"{{ site.posts[0].title }}"</a></li>
     </ul>
     <p>
-        <span id="go-speaker-punk">
-            Don't like the serious look? Go with <a href="#speaker">speaker</a> or <a href="#punk">punk</a>.
+        <span id="go-serious">
+            Don't like the serious look? Go with <a href="#speaker">speaker</a>, <a href="#punk">punk</a> or <a href="#scottish">scottish</a>.
         </span>
-        <span id="go-serious-punk">
-            Don't like the speaker look? Go with <a href="#serious">serious</a> or <a href="#punk">punk</a>.
+        <span id="go-speaker">
+            Don't like the speaker look? Go with <a href="#serious">serious</a>, <a href="#punk">punk</a> or <a href="#scottish">scottish</a>.
         </span>
-        <span id="go-serious-speaker">
-            Don't like the punk look? Go with <a href="#serious">serious</a> or <a href="#speaker">speaker</a>.
+        <span id="go-punk">
+            Don't like the punk look? Go with <a href="#serious">serious</a>, <a href="#speaker">speaker</a> or <a href="#scottish">scottish</a>.
+        </span>
+        <span id="go-scottish">
+            Don't like the scottish look? Go with <a href="#serious">serious</a>, <a href="#speaker">speaker</a> or <a href="#punk">punk</a>.
         </span>
     </p>
 </div>
@@ -132,11 +137,17 @@
         $.backstretch("juozas-punk.jpg", {speed: 0});
         $('body').attr('id', 'punk');
     });
+    $('a[href="#scottish"]').click(function() {
+        $.backstretch("juozas-scottish.jpg", {speed: 0});
+        $('body').attr('id', 'scottish');
+    });
     var hash = location.hash.replace('#','');
     if (hash == 'speaker') {
         $('a[href="#speaker"]').click();
     } else if (hash == 'punk') {
         $('a[href="#punk"]').click();
+    } else if (hash == 'scottish') {
+        $('a[href="#scottish"]').click();
     } else {
         $('a[href="#serious"]').click();
     }
