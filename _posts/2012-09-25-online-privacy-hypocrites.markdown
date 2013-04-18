@@ -18,7 +18,7 @@ Facebook has famously played with privacy controls over the years, but I think t
 
 Not sure what sort of friends people discussing online privacy have, but a huge portion of the ones I have share stuff marked as public on Facebook. And then we meet in real life and argue about online privacy. This is just ridiculous. But that's the trend I see - people don't really pay too much attention when it comes to privacy, but expect some sort of magical force to control all of this. For example I don't upload my half naked shots in front a bathroom mirror, thus I don't have to worry about that at all. Actually you would do a lot of good by not doing that anyway.
 
-But that's not the issue I want to talk about, what I want to talk about is the fact that people actually want others to be somewhat not strictly private, allowing them to figure things out when they want to, while hiding their own stories. That's natural human behavior and I wouldn't expect it to be any different - I just think that people discussing privacy should keep this in mind. To prove this let me briefly tell you a story about a girl I met a few months.
+But that's not the issue I want to talk about, what I want to talk about is the fact that people actually want others to be somewhat not strictly private, allowing them to figure things out when they want to, while hiding their own stories. That's natural human behavior and I wouldn't expect it to be any different - I just think that people discussing privacy should keep this in mind. To prove this let me briefly tell you a story about a girl I met a few months ago.
 
 So I met this girl, let's call her Jenny, a few months ago, while going out with a friend to visit some local pubs in Edinburgh. We had some things planned the next morning so we had to call it a night quite early, thus we ended up exchanging numbers, as you do. Coincidentally my name is quite hard for most of the population to handle and I always go by Joe, but when the time comes to enter my name to the contacts list, I end up having to make up a surname... this time it was The Pirate. Joe The Pirate.
 
@@ -29,7 +29,7 @@ My age still puts me in a category of people who text each other, so that's what
 
 What we end up discussing next is the fact that my name, and the fact that I'm pretty active in the internetz, means that one can find a lot of stuff about me online. On the other hand, Jenny is a very common name, thus creating some sort of privacy as finding anything online would be pretty much impossible. Furthermore, she wasn't using Facebook too, mainly because of the lack of privacy and the amount of fakeness around all interactions there, all of which I totally agree with, but just bear with me a second.
 
-After going back and forward about various issues with privacy online and all sorts of other things, she comes back with this, seemingly after Googling my name and checking out all the things available online, and I quote:
+After going back and forth about various issues with privacy online and all sorts of other things, she comes back with this, seemingly after Googling my name and checking out all the things available online, and I quote:
 
 > Good luck with all your traveling! I'm sure you'll do well. And your girlfriend is very pretty! 
 > The advantages of the Internet. :) nice to have said hello!
