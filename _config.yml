@@ -30,6 +30,7 @@ conferences:
       date: 29th April - 2nd May
       spoken:
           - title: "Throw some data science at it"
+            slides: http://www.slideshare.net/juokaz/throw-some-data-science-at-it-future-insights-live
     - title: Web conference, part of InfoShow
       location: Kaunas, Lithuania
       date: 20th April
