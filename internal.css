@@ -1,5 +1,5 @@
 * { margin: 0; padding: 0; }
-body { font: 22px 'Crimson Text', serif; line-height: 32px; width: 960px; margin: 40px auto 60px; }
+body { font: 22px 'Crimson Text', serif; line-height: 32px; width: 960px; margin: 20px auto 60px; }
 .clear { clear: both; }
 section > header { border-bottom: 1px solid #999; }
 h1, h2, h3 { font-family: 'Playfair Display SC', serif; }
@@ -16,12 +16,14 @@ dd { width: 760px; float: right; }
 .conferences dd { width: 860px; }
 dd.clear { float: none; margin: 0; height: 15px; }
 
-.header { font-family: Helvetica; float: left; width: 100%; }
-.header a { }
-.header nav { float: right; }
-.header, .header nav { height: 25px; margin-bottom: 42px; }
+.header { font: 40px 'Crimson Text', serif; text-transform: uppercase; float: left; width: 100%; }
+.header > a { color: black; }
+.header > a:hover { color: #999; }
+.header a { border: none; }
+.header nav { float: right; font-size: 24px; }
+.header, .header nav { height: 25px; margin-bottom: 100px; }
 .header nav ul { margin: 0; padding: 0; list-style: none; }
-.header nav ul li { display: inline; margin: 0 2px; padding: 0; }
+.header nav ul li { display: inline; margin: 0 6px; padding: 0; }
 
 time { color: #666; font-size: 18px; font-style: italic; margin-left: 10px; }
 header time { float: right; }
