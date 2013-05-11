@@ -13,7 +13,7 @@ This year I spent more than 7 months traveling. That's quite a lot. A lot of peo
 
 When was the last time you asked someone "how are you doing?". If you are well mannered - the last time you met someone. When did you do the same with someone who you don't see in person very often or at all? Very likely quite a while ago. Most people are horrible at long-distance relationships and thus these are perceived as impossible. Because they are hard and require effort, and people are lazy. Sometimes they just don't know how, too. I think the movie "Like Crazy" also shows one of the angles quite well.
 
-<iframe width="800" height="450" src="http://www.youtube.com/embed/r-ZV-bwZmBw" frameborder="0" allowfullscreen="allowfullscreen">    </iframe>
+<iframe width="960" height="450" src="http://www.youtube.com/embed/r-ZV-bwZmBw" frameborder="0" allowfullscreen="allowfullscreen">    </iframe>
 
 And if you are not close to people distance wise, the lazy ones are not there. You realize this when you start traveling. To start with, I stole this story from my friend; I don't even know who she was talking about, it just made me think. A lot. Since it loosely matches the things I'm doing, I thought it would be a great way to kick this off.
 
