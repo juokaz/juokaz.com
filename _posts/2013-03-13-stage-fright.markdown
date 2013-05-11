@@ -27,7 +27,7 @@ The maximum time I would spend at one place so far has been a month, which is no
 
 Not having a home also means I have to source food differently - I cook very rarely now. I tend to rely on restaurants. I hate going to places like that alone, though. When it comes to bars, restaurants or even coffee shops, they are really not designed for people coming on their own. But that's just because so many people don't have the confidence to do so. Since you can't rely on friends to fill the time with conversations, you have to find new ones or come up with something else. That's not easy, and people like easy things, so it just doesn't happen often.
 
-<iframe width="800" height="450" src="http://www.youtube.com/embed/mEbl-gzFihg" frameborder="0" allowfullscreen="allowfullscreen">    </iframe>
+<iframe width="960" height="450" src="http://www.youtube.com/embed/mEbl-gzFihg" frameborder="0" allowfullscreen="allowfullscreen">    </iframe>
 
 By now I don't care. I can show up at at a restaurant and have a dinner without having that awkward feeling. And without starring at my iPhone screen for most of the time. Something people do so often now, even when they are with someone. I would still much prefer having someone to join me, it's nice to have a good conversation, but if not, and that's very common when I go to places I know no one, that doesn't mean I have to eat at home. I have no home.
 

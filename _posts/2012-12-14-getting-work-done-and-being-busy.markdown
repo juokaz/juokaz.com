@@ -33,7 +33,7 @@ Getting back to work, as mentioned before, time is the only thing money won't ev
 
 Getting work done is also not necessary as straightforward as you might think. As famously discussed by the 37 signals guys, work not always gets done at work. Almost always it's more effective to hide in some hipster coffee shop, play some tunes on your headphones and work, rather than stay in an office. Luckily I work from an actual office very rarely (although getting more often now), but I still need to figure out how to work while *jet-setting*.
 
-<iframe width="800" height="450" src="http://www.youtube.com/embed/5XD2kNopsUs" frameborder="0" allowfullscreen="allowfullscreen">    </iframe>
+<iframe width="960" height="450" src="http://www.youtube.com/embed/5XD2kNopsUs" frameborder="0" allowfullscreen="allowfullscreen">    </iframe>
 
 I have a few skills which I trained myself of, allowing me to be very efficient at getting work done. For example, I don't really need a quiet and distraction free office as 37 signals promote, I for one can focus even at the busiest places and the most uncomfortable environments. I have worked from the Paddington train station in London during the rush hour, flying across the Atlantic, after waiting for everyone to go to sleep so everyone would stop bugging me and while being driven in a car. I only need my laptop to get work done, not even an Internet connection, thus I can work from anywhere.
 
