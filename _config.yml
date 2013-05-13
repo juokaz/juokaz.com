@@ -45,11 +45,13 @@ conferences:
       date: 19th March
       spoken:
           - title: "You Can't Optimize What You Can't Measure"
+            slides: http://www.slideshare.net/juokaz/you-cant-optimize-what-you-cannot-measure-php-uk
     - title: Sydney PHP user group
       location: Sydney, Australia
       date: 28th February
       spoken:
           - title: "REST. Let's get the facts straight"
+            slides: http://www.slideshare.net/juokaz/rest-lets-get-the-facts-straight-fowa-london
     - title: PHPUK conference
       location: London, UK
       date: 22-23th February
