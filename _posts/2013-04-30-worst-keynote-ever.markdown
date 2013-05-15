@@ -39,3 +39,4 @@ It was a shared trust. After much discussion about the lack of diversity in conf
 
 It was the best conference ever (this phrase sounds way better in an American teenage girl voice). Subjective of me to say so, but I really enjoyed all of it myself and there are so many stories I can tell, I will be talking about this the rest of the year. Why do I think my opening talk was the worst keynote ever? Because it was unprepared and chaotic. But the ones who saw it understood the honesty and passion behind what we do, and that's what made it great. And maybe saved me from getting arrested.
 
+*\*all illustrations done by Frits from hikingartist.com*
