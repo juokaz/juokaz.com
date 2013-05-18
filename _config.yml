@@ -25,6 +25,8 @@ conferences:
       date: 17-18th May
       spoken:
           - title: "Building distributed systems"
+            feedback: http://joind.in/talk/view/8648
+            slides: http://www.slideshare.net/juokaz/building-distributed-systems-phpday-2013
     - title: Future Insights Live
       location: Las Vegas, NV, USA
       date: 29th April - 2nd May
