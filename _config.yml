@@ -20,6 +20,11 @@ conferences:
       date: 6-8th June
       spoken:
           - title: "Growing spiders to crawl the web"
+    - title: Symfony Live Portland conference
+      location: Portland, OR, USA
+      date: 20-24th May
+      spoken:
+          - title: "Process any amounts of data. Any time"
     - title: phpDay conference
       location: Verona, Italy
       date: 17-18th May
