@@ -25,6 +25,8 @@ conferences:
       date: 20-24th May
       spoken:
           - title: "Process any amounts of data. Any time"
+            feedback: http://joind.in/talk/view/8664
+            slides: http://www.slideshare.net/juokaz/process-any-amount-of-data-any-time-symfony-live
     - title: phpDay conference
       location: Verona, Italy
       date: 17-18th May
