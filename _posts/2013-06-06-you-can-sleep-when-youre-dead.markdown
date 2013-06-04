@@ -2,7 +2,7 @@
 layout: post
 title: You can sleep when you're dead
 location: Vilnius, Lithuania
-excerpt:
+excerpt: Roughly two years ago I used to sleep 4 hours a day. 3 hours a night and then 3 more times 20 minutes each. The goal was to sleep 20 minutes 6 times a day, reducing the total sleeping time to 2 hours. The naive ambition was because of common belief that you really don't need to sleep a lot and you should not waste your time on such mundane things like sleep.
 ---
 
 Roughly two years ago I used to sleep 4 hours a day. 3 hours a night and then 3 more times 20 minutes each. The goal was to sleep 20 minutes 6 times a day, reducing the total sleeping time to 2 hours. The naive ambition was because of common belief that you really don't need to sleep a lot and you should not waste your time on such mundane things like sleep.
