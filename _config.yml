@@ -20,6 +20,8 @@ conferences:
       date: 6-8th June
       spoken:
           - title: "Growing spiders to crawl the web"
+            feedback: https://joind.in/talk/view/8462
+            slides: http://www.slideshare.net/juokaz/growing-spiders-to-crawl-the-web-dutch-php-conference
     - title: Symfony Live Portland conference
       location: Portland, OR, USA
       date: 20-24th May
