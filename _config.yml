@@ -14,7 +14,7 @@ conferences:
       location: Béziers, France
       date: 14-15th June
       spoken:
-          - title: "Process any amounts of data. Any time"
+          - title: "Process any amount of data. Any time"
             slides: http://www.slideshare.net/juokaz/process-any-amount-of-data-any-time-web5-conference
     - title: Dutch PHP conference
       location: Amsterdam, The Netherlands
@@ -27,7 +27,7 @@ conferences:
       location: Portland, OR, USA
       date: 20-24th May
       spoken:
-          - title: "Process any amounts of data. Any time"
+          - title: "Process any amount of data. Any time"
             feedback: http://joind.in/talk/view/8664
             slides: http://www.slideshare.net/juokaz/process-any-amount-of-data-any-time-symfony-live
     - title: phpDay conference
