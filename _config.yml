@@ -15,6 +15,7 @@ conferences:
       date: 14-15th June
       spoken:
           - title: "Process any amounts of data. Any time"
+            slides: http://www.slideshare.net/juokaz/process-any-amount-of-data-any-time-web5-conference
     - title: Dutch PHP conference
       location: Amsterdam, The Netherlands
       date: 6-8th June
