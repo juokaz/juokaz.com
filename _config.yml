@@ -9,7 +9,11 @@ conferences:
       date: 28-29th June
       spoken:
           - title: "Virtualized Development"
+            feedback: http://joind.in/talk/view/8698
+            slides: http://www.slideshare.net/juokaz/virtualized-development-lone-star-php
           - title: "You Can't Optimize What You Can't Measure"
+            feedback: http://joind.in/talk/view/8697
+            slides: http://www.slideshare.net/juokaz/you-cant-optimize-what-you-cannot-measure-lone-star-php
     - title: Web-5 conference
       location: Béziers, France
       date: 14-15th June
