@@ -33,6 +33,6 @@ Quick. Speed is important. Thus most of my replies are very short and extremely 
 
 The more one waits to reply, the less relevant the reply becomes. I have also noticed that if someone doesn't reply to you quickly more likely than not they are going to take a while to do so, because if one hasn't replied in two days, replying three days later doesn't change much? And if it has been a week with no reply then I don't even expect one anymore and send another email. There is nothing better than forwarding your own emails to the same person. Gets some attention.
 
-It's pretty hilarious that still there are people who believe that a sent email might no arrive and thus are never sure if the receiver has got it. Software pigeons are pretty reliable. I know you got my email.
+It's pretty hilarious that still there are people who believe that a sent email might not arrive and thus are never sure if the receiver has got it. Software pigeons are pretty reliable. I know you got my email.
 
 *\*all illustrations done by Frits from hikingartist.com*
