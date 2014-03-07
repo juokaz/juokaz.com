@@ -24,8 +24,8 @@
         #connect a:hover{text-decoration: none;opacity:0.9;border-style: none;}
         #connect img {border:none;margin-bottom:5px;}
 
-        #serious #about { padding: 20px 30px 0 0; margin: 0 20px 0 auto !important; }
-        #serious ul#connect { right: none; left: 52px; }
+        #serious #about, #speaker #about { padding: 20px 30px 0 0; margin: 0 20px 0 auto !important; }
+        #serious ul#connect, #speaker ul#connect { right: none; left: 52px; }
 
         #speaker #go-speaker {display: inline;}
         #speaker #go-punk, #speaker #go-scottish, #speaker #go-serious {display: none;}
@@ -151,7 +151,7 @@
     } else if (hash == 'serious') {
         $('a[href="#serious"]').click();
     } else {
-        $('a[href="#serious"]').click();
+        $('a[href="#speaker"]').click();
     }
   })();
 </script>
