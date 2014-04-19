@@ -2,6 +2,16 @@ paginate: 5
 permalink: /blog/:title.html
 
 conferences:
+  - year: 2014
+    talks:
+    - title: PHP UK conference
+      location: London, UK
+      date: 21-22th February
+      info: Delivered the Opening Keynote to over 700 people
+      spoken:
+          - title: "What Makes Technology Work"
+            slides: http://www.slideshare.net/juokaz/what-makes-technology-work
+            feedback: http://joind.in/talk/view/10684
   - year: 2013
     talks:
     - title: Lone Start PHP conference
@@ -68,7 +78,7 @@ conferences:
       spoken:
           - title: "REST. Let's get the facts straight"
             slides: http://www.slideshare.net/juokaz/rest-lets-get-the-facts-straight-fowa-london
-    - title: PHPUK conference
+    - title: PHP UK conference
       location: London, UK
       date: 22-23th February
       spoken:
@@ -166,7 +176,7 @@ conferences:
           - title: RESTful Web Services with Python
             slides: http://www.slideshare.net/juokaz/restful-web-services-with-python-confoo
             feedback: http://joind.in/talk/view/5994
-    - title: PHPUK conference
+    - title: PHP UK conference
       location: London, UK
       date: 24-25th February
     - title: PHPBenelux conference
@@ -285,7 +295,7 @@ conferences:
           - title: Drupal and Windows?! Yes
             slides: http://www.slideshare.net/juokaz/drupal-and-windows-yes
             feedback:
-    - title: PHPUK conference
+    - title: PHP UK conference
       location: London, UK
       date: 25th February
   - year: 2010
@@ -353,7 +363,7 @@ conferences:
     - title: Microsoft MIX10
       location: Las Vegas, NV, USA
       date: 15-17th March
-    - title: PHPUK conference
+    - title: PHP UK conference
       location: London, UK
       date: 26th February
   - year: 2009
