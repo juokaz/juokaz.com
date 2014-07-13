@@ -1,11 +1,11 @@
 * { margin: 0; padding: 0; }
-body { font: 22px 'Crimson Text', serif; line-height: 32px; width: 960px; margin: 20px auto 60px; }
+body { font: 20px 'Merriweather', serif; letter-spacing: 0.01rem; font-weight: 300; line-height: 1.5; width: 960px; margin: 20px auto 30px; }
 .clear { clear: both; }
-section > header { border-bottom: 1px solid #999; }
-h1, h2, h3 { font-family: 'Playfair Display SC', serif; }
-h1 { font-size: 44px; font-weight: bold; display: inline; margin: 0 0 16px 0; padding: 0 0 16px 0; color: #000000;}
+section > header { text-align: center; }
+h1, h2, h3 { font-family: 'Merriweather', serif; }
+h1 { font-size: 60px; font-weight: bold; display: inline; margin: 0 0 16px 0; padding: 0 0 16px 0; color: #000000;}
 h2 { font-size: 22px; margin: 0 0 6px 0; position: relative; }
-h2 span { position: absolute; bottom: 0; right: 0; font: 22px 'Crimson Text', serif; font-style: italic; font-size: 18px; color: #999; font-weight: normal; }
+h2 span { position: absolute; bottom: 0; right: 0; font: 22px 'Open Sans', serif; font-style: italic; font-size: 18px; color: #999; font-weight: normal; }
 p { margin: 0 0 16px 0; }
 a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
 a:hover { border-bottom-style: solid; color: black; }
@@ -16,33 +16,31 @@ dd { width: 760px; float: right; }
 .conferences dd { width: 860px; }
 dd.clear { float: none; margin: 0; height: 15px; }
 
-.header { font: 40px 'Crimson Text', serif; text-transform: uppercase; float: left; width: 100%; }
-.header > a { color: black; }
-.header > a:hover { color: #999; }
-.header a { border: none; }
-.header nav { float: right; font-size: 24px; }
-.header, .header nav { height: 25px; margin-bottom: 100px; }
-.header nav ul { margin: 0; padding: 0; list-style: none; }
-.header nav ul li { display: inline; margin: 0 6px; padding: 0; }
+.footer { font: 40px 'Crimson Text', serif; text-transform: uppercase; float: left; width: 100%; }
+.footer > a { color: black; }
+.footer > a:hover { color: #999; }
+.footer a { border: none; }
+.footer nav { float: right; font-size: 24px; }
+.footer, .footer nav { height: 25px; margin-bottom: 100px; }
+.footer nav ul { margin: 0; padding: 0; list-style: none; }
+.footer nav ul li { display: inline; margin: 0 6px; padding: 0; }
 
 time { color: #666; font-size: 18px; font-style: italic; margin-left: 10px; }
-header time { float: right; }
+header time { display: block; }
 .postPreview { margin: 30px 0; }
 .postPreview > header { margin: 5px 0; }
 .postPreview > header > h1 { display: inline; font-size: 28px; }
-.post { margin: 30px 0; }
+.postPreview time { float: right; }
+.post { margin: 30px 0 0 0; }
 .post > header { margin: 15px 0; }
 .backLink { display: block; margin: 10px 0; }
 .post > header > h1 { display: inline; font-size: 32px; }
 .post > section > h2 { font-size: 28px; margin: 10px 0; }
-.post > section > h3 { font-size: 24px; margin: 10px 0; }
-.post .social { background: #DDD; padding: 15px; margin: 15px -15px; }
 .post img {}
 .post img.left { float: left; }
 .post img.right { float: right; }
 .post img.center { margin-left: auto; margin-right: auto; display: block; }
-body > section > footer { text-align: center; }
-blockquote { margin-top: 10px; margin-bottom: 10px; margin-left: 30px; padding-left: 10px; border-left: 3px solid #ccc; font-style: italic; }
+blockquote, h3 { margin-top: 10px; margin-bottom: 10px; margin-left: -13px; padding-left: 10px; border-left: 3px solid #ccc; font-style: italic; }
 
 .share ul { margin: 0; list-style:none; }
 .share li { display:inline; font-size: 1px; margin-right: 10px; }
