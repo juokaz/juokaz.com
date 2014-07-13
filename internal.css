@@ -3,14 +3,14 @@ body { font: 20px 'Merriweather', serif; letter-spacing: 0.01rem; font-weight: 3
 .clear { clear: both; }
 section > header { text-align: center; }
 h1, h2, h3 { font-family: 'Merriweather', serif; }
-h1 { font-size: 60px; font-weight: bold; display: inline; margin: 0 0 16px 0; padding: 0 0 16px 0; color: #000000;}
+h1 { font-size: 60px; font-weight: 700; display: inline; margin: 0 0 16px 0; padding: 0 0 16px 0; color: #000000;}
 h2 { font-size: 22px; margin: 0 0 6px 0; position: relative; }
 h2 span { position: absolute; bottom: 0; right: 0; font: 22px 'Open Sans', serif; font-style: italic; font-size: 18px; color: #999; font-weight: normal; }
 p { margin: 0 0 16px 0; }
 a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
 a:hover { border-bottom-style: solid; color: black; }
 ul { margin: 0 0 32px 17px; }
-dt { font-style: italic; font-weight: bold; font-size: 20px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
+dt { font-style: italic; font-weight: 700; font-size: 20px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
 .conferences dt { width: 50px; }
 dd { width: 760px; float: right; }
 .conferences dd { width: 860px; }
