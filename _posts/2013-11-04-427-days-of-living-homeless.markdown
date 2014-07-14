@@ -95,3 +95,5 @@ Even though this was extremely stressful at times, it was truly a life-changing 
     </tfoot>
     </table>
 </div>
+
+*\*all illustrations done by Frits from hikingartist.com*
