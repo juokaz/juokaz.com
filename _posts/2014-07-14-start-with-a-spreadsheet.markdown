@@ -27,7 +27,7 @@ I find it to be the most effective to always do everything by hand first anyway.
 
 <img src="/blog/images/fitting-in.jpg" alt="Climb wrong tree" class="left" />
 
-A lot of patterns emerge while the staff is using the software. How people use it, what data they keep track of, what doesn't work. This makes it easy then to take all that information and start working on an software system. Which in most cases ends up being just a more sophisticated version of the same spreadsheet. If one was used. Yet there was zero time spent trying to come up with fake user stories.
+A lot of patterns emerge while the staff is using the spreadsheet. How people use it, what data they keep track of, what doesn't work. This makes it easy then to take all that information and start working on an software system. Which in most cases ends up being just a more sophisticated version of the same spreadsheet. If one was used. Yet there was zero time spent trying to come up with fake user stories.
 
 Understanding the [Amdahl's law](http://en.wikipedia.org/wiki/Amdahl's_law) is crucial. It might be challenging trying to optimize every corner of the organization. It is also completely pointless. If just a few or even one person are doing a task and there are no problems with the quality, computerizing it is a waste of time. Introduction of pretty much anything to any company has a base cost so trying to automate all steps might end up slowing it down.
 
