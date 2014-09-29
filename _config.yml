@@ -4,6 +4,12 @@ permalink: /blog/:title.html
 conferences:
   - year: 2014
     talks:
+    - title: PHPCon PL conference
+      location: Szczyrk, Poland
+      date: 26-28th Septemeber
+      spoken:
+          - title: "Beyond the PHP mountain"
+            feedback: http://joind.in/talk/view/11838
     - title: PHP UK conference
       location: London, UK
       date: 21-22th February
