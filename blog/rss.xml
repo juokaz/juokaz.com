@@ -18,7 +18,7 @@ layout: nil
       <link>http://juokaz.com{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>juozas@juokaz.com (Juozas Kaziukėnas)</author>
-      <guid>http://juokaz.com{{ post.id }}</guid>
+      <guid>http://juokaz.com{{ post.url }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
