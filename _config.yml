@@ -4,6 +4,19 @@ permalink: /blog/:title.html
 conferences:
   - year: 2014
     talks:
+    - title: Build Stuff conference
+      location: Vilnius, Lithuania
+      date: 19-23th November
+      spoken:
+          - title: "Making decisions with data"
+    - title: True North PHP conference
+      location: Toronto, Canada
+      date: 6-8th November
+      spoken:
+          - title: "Beyond software fast"
+            feedback: http://joind.in/talk/view/12706
+          - title: "Beyond the PHP mountain"
+            feedback: http://joind.in/talk/view/12705
     - title: PHPCon PL conference
       location: Szczyrk, Poland
       date: 26-28th Septemeber
