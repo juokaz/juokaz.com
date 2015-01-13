@@ -10,7 +10,6 @@ h3 { font-size: 20px;}
 p { margin: 0 0 16px 0; }
 a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
 a:hover { border-bottom-style: solid; color: black; }
-ul { margin: 0 0 32px 17px; }
 dt { font-style: italic; font-weight: 700; font-size: 20px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
 .conferences dt { width: 50px; }
 dd { width: 760px; float: right; }
@@ -56,9 +55,11 @@ div .fb_reset { display: inline; }
 
 .cv h2 { margin-top: 40px; margin-bottom: 20px; font-size: 30px; }
 .cv h3 span { float: right; font: 22px 'Open Sans', serif; font-style: italic; font-size: 18px; color: #999; font-weight: normal; }
+.cv h3 { margin-top: 30px;}
+.cv ul { margin: 0 0 0 17px; }
 
 .cv img {width: 150px; height: 150px;}
-.cv img.left {margin-right: 10px;}
+.cv img.left {margin-right: 20px;}
 
 .cv img {
 -webkit-filter: grayscale(100%);
