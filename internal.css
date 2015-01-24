@@ -59,7 +59,7 @@ div .fb_reset { display: inline; }
 .cv ul { margin: 0 0 0 17px; }
 
 .cv img {width: 150px; height: 150px;}
-.cv img.left {margin-right: 20px;}
+.cv img.left {margin-right: 20px; margin-top: 20px;}
 
 .cv img {
 -webkit-filter: grayscale(100%);
