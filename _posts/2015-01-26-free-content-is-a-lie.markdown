@@ -1,0 +1,24 @@
+---
+layout: post
+title: Free content is a lie
+location: New York, NY, USA
+excerpt: I built Conferencus.com as a better way to share conferences' slides online. But it just couldn’t work. I learned that every time you are watching something and it didn’t cost you anything, some broken model is paying for it.
+---
+
+A few weeks ago I was watching a [talk](https://www.youtube.com/watch?v=K9NjntTUJ1Q) by Jack Conte on his band Pomplamoose and his startup Patreon. He talks about the struggles of turning his art into money. Ads used to be a thing, but while their numbers are still rising their effectiveness is without a question getting worse. Making that until you reach a certain audience size there is no way you can survive off of that. With YouTube now thriving with vloggers and musicians, they all are looking for more lucrative ways to make money. Jack built [Patreon](https://www.patreon.com/) as a way for fans to support the creators they like, I think it’s a wonderful model and I hope it works.
+
+YouTube themselves are trying to monetize their content better. Some time ago they used to just pay the creators directly in turn getting great content made. But that pipe is starting to dry out, if it’s even there anymore. Instead they want to be almost-Netflix. Channels like [/Drive](https://www.youtube.com/user/drive), one of the best car shows online, were one of the first to try a monthly $3.99 subscription fee. They just [couldn’t](http://www.pistonheads.com/news/default.asp?storyId=30564) support doing this for free. This has caused a great and *blind* backlash from the community. Their free videos were now less frequent and much shorter than the real thing. I don’t have the numbers, but I don’t think this change worked out great for them. It might have killed a great channel in turn.
+
+Everyone expects all the content to be free. But great content takes a lot to produce.
+
+While all this is happening, I’m working on an idea I had for a while called [Conferencus](http://juokaz.github.io/conferencus.com/). For as long as I was speaking at conferences, I couldn’t understand why sharing a talk online was so cumbersome. Existing tools like Slideshare just didn’t have the features I was looking for. Like the ability to attach a context to the talk: conference information, extra resources, a video. So as you do, I decided to fix it by building my own platform.
+
+As I’m building it I start to understand that this should be much more than just slides. There are thousands upon thousands of them already shared online. But to understand what the talk was about you have to see it. Since most people, myself included, are using slides as more of a background. Without having video or audio of the talk there is little value. Instead every talk should be as good as a [Coursera](https://www.coursera.org/) course. But almost all speakers only have the slides. Speakers themselves don’t record the talks, a conference has to find sponsors to pay for the recording. Though most of them don’t do it, it’s too expensive. Conferencus could do their own recordings. But that meant changing the scope of the project from a hosting platform to a content producer.
+
+And there I was, faced with a monetization problem. There was no way to do all this and still deliver free content. The talks had to be some mix of pay per view. But so many of the talks are already available for free on YouTube, attracting users with paid content was going to be tricky. Furthermore for it to be fair the income would have to be shared with both the speaker and the conference. It’s their material anyway. Not only was I facing a problem finding paying users, I had to solve the complexity of revenue sharing and content attribution.
+
+It just couldn’t work. I killed the project (later [open sourced](https://github.com/juokaz/conferencus.com) it too). But I learned that every time you are watching something and it didn’t cost you anything, some broken model is paying for it.
+
+A key rule for a content platform or any web service is for it to be *around*. Not to disappear after a year of trying to make it work. That costs money, more and more of it as the project grows. When I see new startups attracting users with by giving it all for free, I’m skeptical. Attaching a freemium model (it’s free unless you want extra features), becoming paid-only, or betting on ads is just not that easy. Luckily to some, having funds to delay this for months from now gives time. It still is a pipe dream for most.
+
+I was at a startup event once where they asked everyone *not* to ask startups how are they going to make money. They deemed it as of a bad taste. I don’t think it is. Not having a plan is not a bad thing, even some successful ones don’t have it all figured it out. But as I learned while building Conferencus, sometimes it just can’t work at scale. Maybe someone else will figure out how to make it work.
