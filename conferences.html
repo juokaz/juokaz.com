@@ -29,33 +29,26 @@ Some quotes from people who have recently attended my talks
 
 <ul id="photos"></ul>
 
-<dl>
-    <dd class="clear"></dd>
+{% for year in site.conferences %}
+    <h2>{{ year.year }}</h2>
 
-    {% for year in site.conferences %}
-    <dt>{{ year.year }}</dt>
-    <dd>
-        {% for conference in year.talks %}
-        <h2>{{ conference.title }} <span>{{ conference.location }}, {{ conference.date }}</span></h2>
-        <p>
-            {% if conference.spoken %}
-                {% for talk in conference.spoken %}
-                    {% if talk.workshop %}Teached a workshop{% else %}Gave a talk{% endif %} on <strong>"{{ talk.title }}"</strong>{% if talk.slides %}, <a href={{ talk.slides }} >slides</a>{% endif %}{% if talk.feedback %}, <a href={{ talk.feedback }} >feedback</a>{% endif %}<br />
-                {% endfor %}
-            {% endif %}
-            {% if conference.spoken == null and conference.info == null %}
-                Just attended
-            {% else %}
-                {{ conference.info }}
-            {% endif %}
-        </p>
-        {% endfor %}
-    </dd>
-
-    <dd class="clear"></dd>
-
+    {% for conference in year.talks %}
+    <h3>{{ conference.title }} <span>{{ conference.location }}, {{ conference.date }}</span></h3>
+    <p>
+        {% if conference.spoken %}
+            {% for talk in conference.spoken %}
+                {% if talk.workshop %}Teached a workshop{% else %}Gave a talk{% endif %} on <strong>"{{ talk.title }}"</strong>{% if talk.slides %}, <a href={{ talk.slides }} >slides</a>{% endif %}{% if talk.feedback %}, <a href={{ talk.feedback }} >feedback</a>{% endif %}<br />
+            {% endfor %}
+        {% endif %}
+        {% if conference.spoken == null and conference.info == null %}
+            Just attended
+        {% else %}
+            {{ conference.info }}
+        {% endif %}
+    </p>
     {% endfor %}
-</dl>
+{% endfor %}
+
 </section>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
