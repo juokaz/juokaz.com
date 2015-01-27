@@ -8,6 +8,7 @@ h1 { font-size: 60px; font-weight: 700; display: inline; }
 h2 { margin-top: 40px; margin-bottom: 20px; font-size: 30px; }
 h3 span { float: right; font: 22px 'Open Sans', serif; font-style: italic; font-size: 18px; color: #999; font-weight: normal; }
 h3 { font-size: 20px;}
+h3.margin-top { margin-top: 30px;}
 p { margin: 0 0 16px 0; }
 a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
 a:hover { border-bottom-style: solid; color: black; }
@@ -35,6 +36,7 @@ img {}
 img.left { float: left; }
 img.right { float: right; }
 img.center { margin-left: auto; margin-right: auto; display: block; }
+img.logo { width: 150px; height: 150px; margin-right: 20px; margin-top: 20px; float: left; }
 blockquote { margin-top: 10px; margin-bottom: 10px; margin-left: -13px; padding-left: 10px; border-left: 3px solid #ccc; font-style: italic; }
 
 .share ul { margin: 0; list-style:none; }
@@ -42,18 +44,14 @@ blockquote { margin-top: 10px; margin-bottom: 10px; margin-left: -13px; padding-
 div .fb_reset { display: inline; }
 .twitter-share-button {width: 80px !important; }
 
-.conferences #photos { margin: 0 auto; padding: 0; overflow: hidden; }
-.conferences #photos li { list-style: none; float: left; margin: 5px; padding: 1px; background: #eee; -moz-box-shadow: 0 0 4px #444; -webkit-box-shadow: 0 0 2px #000; width: 160px; height: 160px; }
-.conferences #photos li div { background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; height: 100%; }
-.conferences #photos li a { }
-.conferences #photos li img {  }
-.conferences #photos li a img { border: none; }
+#photos { margin: 0 auto; padding: 0; overflow: hidden; }
+#photos li { list-style: none; float: left; margin: 5px; padding: 1px; background: #eee; -moz-box-shadow: 0 0 4px #444; -webkit-box-shadow: 0 0 2px #000; width: 160px; height: 160px; }
+#photos li div { background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; height: 100%; }
+#photos li a { }
+#photos li img {  }
+#photos li a img { border: none; }
 
-.cv h3 { margin-top: 30px;}
-.cv ul { margin: 0 0 0 17px; }
-
-.cv img {width: 150px; height: 150px;}
-.cv img.left {margin-right: 20px; margin-top: 20px;}
+ul { margin: 0 0 0 17px; }
 
 img.grayscale {
   filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
@@ -71,5 +69,10 @@ img.grayscale:hover {
 }
 
 @media (max-width: 767px) {
-
+    body { font-size: 16px; }
+    h3 span { float: none; display: block; }
+    section > header { margin-top: 180px; }
+    h1 { font-size: 40px; }
+    h2 { font-size: 25px; }
+    h3 { font-size: 20px; }
 }
