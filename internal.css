@@ -45,7 +45,7 @@ div .fb_reset { display: inline; }
 .twitter-share-button {width: 80px !important; }
 
 #photos { margin: 0 auto; padding: 0; overflow: hidden; }
-#photos li { list-style: none; float: left; margin: 5px; padding: 1px; background: #eee; -moz-box-shadow: 0 0 4px #444; -webkit-box-shadow: 0 0 2px #000; width: 160px; height: 160px; }
+#photos li { list-style: none; float: left; margin: 5px; padding: 1px; background: #eee; -moz-box-shadow: 0 0 4px #444; -webkit-box-shadow: 0 0 2px #000; width: 15%; height: 150px; }
 #photos li div { background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%; height: 100%; }
 #photos li a { }
 #photos li img {  }
@@ -75,4 +75,5 @@ img.grayscale:hover {
     h1 { font-size: 40px; }
     h2 { font-size: 25px; }
     h3 { font-size: 20px; }
+    #photos li { width: 21%; }
 }
