@@ -22,11 +22,10 @@ a:hover { border-bottom-style: solid; color: black; }
 .footer nav ul { margin: 0; padding: 0; list-style: none; }
 .footer nav ul li { display: inline; margin: 0 6px; padding: 0; }
 
-time { color: #666; font-size: 18px; font-style: italic; margin-left: 10px; }
-header time { display: block; }
+time { color: #666; font-size: 18px; font-style: italic; }
+header > time { display: block; }
 .postPreview { margin: 30px 0; }
 .postPreview > header { margin: 5px 0; }
-.postPreview > header > h1 { display: inline; font-size: 28px; }
 .postPreview time { float: right; }
 article { margin: 30px 0 0 0; }
 article > header { margin: 15px 0; }
@@ -70,7 +69,7 @@ img.grayscale:hover {
 
 @media (max-width: 767px) {
     body { font-size: 16px; }
-    h3 span { float: none; display: block; }
+    h3 span, .postPreview time { float: none; display: block; }
     section > header { margin-top: 180px; }
     h1 { font-size: 40px; }
     h2 { font-size: 25px; }
