@@ -19,11 +19,15 @@
 </head>
 
 <body>
-  <section>
-  {{ content }}
-  </section>
+  {% if page.index_page != true %}
+    <section>
+      {{ content }}
+    </section>
 
-  <a href="/"><img class="corner-logo grayscale" src="/images/corner.png"></a>
+    <a href="/"><img class="corner-logo grayscale" src="/images/corner.png"></a>
+  {% else %}
+      {{ content }}
+  {% endif %}
 
   <script type="text/javascript">
     var _gaq = _gaq || [];
