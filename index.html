@@ -74,31 +74,15 @@ index_page: true
 <script src="js/jquery.backstretch.min.js"></script>
 <script type="text/javascript">
   (function() {
-    $('a[href="#speaker"]').click(function() {
-	    $.backstretch("juozas-speaking.jpg", {speed: 0});
-        $('body').attr('id', 'speaker');
-    });
-    $('a[href="#serious"]').click(function() {
-        $.backstretch("juozas.jpg", {speed: 0});
-        $('body').attr('id', 'serious');
-    });
-    $('a[href="#punk"]').click(function() {
-        $.backstretch("juozas-punk.jpg", {speed: 0});
-        $('body').attr('id', 'punk');
-    });
-    $('a[href="#scottish"]').click(function() {
-        $.backstretch("juozas-scottish.jpg", {speed: 0});
-        $('body').attr('id', 'scottish');
+    $('#looks a').click(function() {
+        var image = $(this).attr('href').replace('#', '');
+	    $.backstretch("images/juozas-" + image + ".jpg", {speed: 0});
+        $('body').attr('id', image);
     });
     var hash = location.hash.replace('#','');
-    if (hash == 'speaker') {
-        $('a[href="#speaker"]').click();
-    } else if (hash == 'punk') {
-        $('a[href="#punk"]').click();
-    } else if (hash == 'scottish') {
-        $('a[href="#scottish"]').click();
-    } else if (hash == 'serious') {
-        $('a[href="#serious"]').click();
+
+    if (hash) {
+        $('a[href="#' + hash + '"]').click();
     } else {
         $('a[href="#speaker"]').click();
     }
