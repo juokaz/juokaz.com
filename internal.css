@@ -4,7 +4,7 @@ body { font: 20px 'Merriweather', serif; letter-spacing: 0.01rem; font-weight: 3
 section { margin-left: 20px; margin-right: 20px; }
 section > header { text-align: center; }
 h1, h2, h3 { font-family: 'Merriweather', serif; }
-h1 { font-size: 60px; font-weight: 700; display: inline; }
+h1 { font-size: 60px; font-weight: 400; display: inline; }
 h2 { margin-top: 40px; margin-bottom: 20px; font-size: 30px; }
 h3 span { float: right; font: 22px 'Open Sans', serif; font-style: italic; font-size: 18px; color: #999; font-weight: normal; }
 h3 { font-size: 20px;}
@@ -12,15 +12,6 @@ h3.margin-top { margin-top: 30px;}
 p { margin: 0 0 16px 0; }
 a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
 a:hover { border-bottom-style: solid; color: black; }
-
-.footer { font: 40px 'Crimson Text', serif; text-transform: uppercase; float: left; width: 100%; }
-.footer > a { color: black; }
-.footer > a:hover { color: #999; }
-.footer a { border: none; }
-.footer nav { float: right; font-size: 24px; }
-.footer, .footer nav { height: 25px; margin-bottom: 100px; }
-.footer nav ul { margin: 0; padding: 0; list-style: none; }
-.footer nav ul li { display: inline; margin: 0 6px; padding: 0; }
 
 time { color: #666; font-size: 18px; font-style: italic; }
 header > time { display: block; }
