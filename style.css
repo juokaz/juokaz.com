@@ -70,16 +70,16 @@ img.grayscale:hover {
 /* index page */
 #about p, #about ul { color: #fff; font-size: 18px; font-weight: 400; line-height: 24px; margin-bottom: 16px; -webkit-font-smoothing: antialiased; text-shadow: 0 1px 5px black; }
 #about a { color: #fff; font-weight: 700; text-decoration: none; border: none; }
-#index a:hover { color: #999; }
+#about a:hover { color: #999; }
 #about { width: 600px; padding-left: 20px; padding-right: 20px; margin: 0 auto 0 20px !important; }
 #about h1 { font-size: 40px; color: #fff; text-shadow: 0 1px 5px black; }
 
 ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px; }
 #connect li{display:inline;list-style-type:none;}
 #connect a{text-decoration: none;border-style: none;}
-#connect a:link{text-decoration: none;opacity:0.4;border-style: none;}
+#connect a:link{text-decoration: none;opacity:0.6;border-style: none;}
 #connect a:hover{text-decoration: none;opacity:0.9;border-style: none;}
-#connect img {border:none;margin-bottom:5px;}
+#connect img {border:none; margin-bottom:5px; width: 48px; height: 48px;}
 
 #serious #about, #speaker #about { margin: 0 20px 0 auto !important; }
 #serious ul#connect, #speaker ul#connect { right: none; left: 52px; }
