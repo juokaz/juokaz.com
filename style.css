@@ -18,9 +18,7 @@ header > time { display: block; }
 .postPreview > header { margin: 5px 0; }
 .postPreview time { float: right; }
 article { margin: 30px 0 0 0; }
-article > header { margin: 15px 0; }
-article > header > h1 { display: inline; font-size: 32px; }
-article > section > h2 { font-size: 28px; margin: 10px 0; }
+footer { margin-top: 60px; padding-top: 10px; border-top:1px solid #ccc; font-size: 16px; text-align: right; }
 img {}
 img.left { float: left; }
 img.right { float: right; }
@@ -59,6 +57,7 @@ img.grayscale:hover {
 
 @media (max-width: 767px) {
     body { font-size: 16px; }
+    footer { font-size: 14px; }
     h3 span, .postPreview time { float: none; display: block; }
     section > header { margin-top: 180px; }
     h1 { font-size: 40px; }
