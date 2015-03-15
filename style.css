@@ -18,7 +18,8 @@ header > time { display: block; }
 .postPreview > header { margin: 5px 0; }
 .postPreview time { float: right; }
 article { margin: 30px 0 0 0; }
-footer { margin-top: 60px; padding-top: 10px; border-top:1px solid #ccc; font-size: 16px; text-align: right; }
+.divider { display: block; width: 100px; margin: 61px auto 81px auto; border: 0; border-top: 1px solid #ccc;}
+footer { font-size: 16px; text-align: right; }
 img {}
 img.left { float: left; }
 img.right { float: right; }
