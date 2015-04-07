@@ -5,10 +5,10 @@ index_page: true
 
 <section id="about">
     <div id="image">
-        <img src="images/juozas-serious.jpg" alt="Juozas" />
+        <img src="images/juozas-serious.jpg?{{ site.time | date: '%s' }}" alt="Juozas" />
     </div>
 
-	<h1>Juozas <em>"Joe"</em> Kaziukėnas</h1>
+    <h1>Juozas <em>"Joe"</em> Kaziukėnas</h1>
     <p>
         Friends calls me Joe. I am an experienced young professional and entrepreneur based in New York City. Started off writing software and have since gravitated towards building technology startups.
     </p>
@@ -49,11 +49,11 @@ index_page: true
 </section>
 
 <ul id="connect">
-	<li><a href="http://twitter.com/juokaz"><img src="./images/twitter.png" alt="twitter"></a></li>
-    <li><a href="http://www.linkedin.com/in/juozas"><img src="./images/linkedin.png" alt="linkedin"></a></li>
-    <li><a href="http://angel.co/juokaz"><img src="./images/social-angellist.png" alt="angel list"></a></li>
-	<li><a href="http://plus.google.com/112033219594997968107"><img src="./images/google.png" alt="google"></a></li>
-	<li><a href="http://www.facebook.com/juokaz"><img src="./images/facebook.png" alt="facebook"></a></li>
+    <li><a href="http://twitter.com/juokaz"><img src="images/twitter.png?{{ site.time | date: '%s' }}" alt="twitter"></a></li>
+    <li><a href="http://www.linkedin.com/in/juozas"><img src="images/linkedin.png?{{ site.time | date: '%s' }}" alt="linkedin"></a></li>
+    <li><a href="http://angel.co/juokaz"><img src="images/social-angellist.png?{{ site.time | date: '%s' }}" alt="angel list"></a></li>
+    <li><a href="http://plus.google.com/112033219594997968107"><img src="images/google.png?{{ site.time | date: '%s' }}" alt="google"></a></li>
+    <li><a href="http://www.facebook.com/juokaz"><img src="images/facebook.png?{{ site.time | date: '%s' }}" alt="facebook"></a></li>
 </ul>
 
 <script src="js/jquery.min.js"></script>
@@ -62,7 +62,7 @@ index_page: true
   (function() {
     $('#looks a').click(function() {
         var image = $(this).attr('href').replace('#', '');
-	    $.backstretch("images/juozas-" + image + ".jpg", {speed: 0});
+        $.backstretch("images/juozas-" + image + ".jpg?{{ site.time | date: '%s' }}", {speed: 0});
         $('body').attr('id', image);
     });
     var hash = location.hash.replace('#','');
