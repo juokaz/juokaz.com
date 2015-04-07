@@ -1,7 +1,7 @@
 * { margin: 0; padding: 0; }
 body { font: 20px 'Merriweather'; letter-spacing: 0.01rem; font-weight: 300; line-height: 1.5; width: 100%; margin: 20px 0 20px 0; }
 .clear { clear: both; }
-section { margin: 0 auto; max-width: 940px; padding-left: 20px; padding-right: 20px; }
+section { margin: 0 auto; max-width: 1000px; padding-left: 20px; padding-right: 20px; }
 section > header { text-align: center; }
 h1 { font-size: 60px; font-weight: 400; display: inline; }
 h2 { margin-top: 40px; margin-bottom: 20px; font-size: 30px; }
@@ -108,6 +108,5 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
     #connect a:link { opacity: 1; }
 
     #looks { display: none; }
-    #image { display: block; }
-    #image img { max-width:100%;height:auto; }
+    #image { display: block; min-height: 30vw; background-position: 50% 30%; background-repeat: no-repeat; background-size: cover; margin-bottom: 20px; }
 }
