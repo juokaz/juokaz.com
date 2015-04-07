@@ -12,10 +12,10 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:url" content="http://juokaz.com{{ page.url }}" />
     <meta property="og:description" content="{{ page.excerpt }}" />{% endif %}
-    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/style.css?{{ site.time | date: '%s' }}" />
     <link href='http://fonts.googleapis.com/css?family=Merriweather:300,400' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" />
-    <link rel="icon" type="image/jpeg" href="/images/juozas.jpg" />
+    <link rel="icon" type="image/jpeg" href="/images/juozas.jpg?{{ site.time | date: '%s' }}" />
 </head>
 
 <body>
@@ -24,7 +24,7 @@
       {{ content }}
     </section>
 
-    <a href="/"><img class="corner-logo grayscale" src="/images/corner.png"></a>
+    <a href="/"><img class="corner-logo grayscale" src="/images/corner.png?{{ site.time | date: '%s' }}"></a>
   {% else %}
       {{ content }}
   {% endif %}
