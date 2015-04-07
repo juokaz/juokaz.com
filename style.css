@@ -51,7 +51,7 @@ img.grayscale:hover {
     position: absolute; top: 0; left: 0; border: 0;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1024px) {
     body { font-size: 16px; }
     footer { font-size: 14px; }
     h3 span, .postPreview time { float: none; display: block; }
@@ -93,7 +93,7 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
 
 #image { display: none; }
 
-@media (max-width: 767px) {
+@media (max-width: 1024px) {
     #about p, #about ul, #about a, #about h1 { color: #000; text-shadow: none; }
     #about h1 { font-size: 25px; }
     #about p, #about ul { font-size: 16px; }
