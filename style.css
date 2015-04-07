@@ -96,6 +96,8 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
 #punk #go-punk {display: inline;}
 #punk #go-scottish, #punk #go-serious, #punk #go-speaker {display: none;}
 
+#image { display: none; }
+
 @media (max-width: 767px) {
     #about p, #about ul, #about a, #about h1 { color: #000; text-shadow: none; }
     #about h1 { font-size: 25px; }
@@ -110,5 +112,7 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
     #serious ul#connect, #speaker ul#connect { padding: 10px 0 0 0; margin: 0 auto !important;}
     #connect a:link { opacity: 1; }
 
-    #looks {display: none;}
+    #looks { display: none; }
+    #image { display: block; }
+    #image img { max-width:100%;height:auto; }
 }
