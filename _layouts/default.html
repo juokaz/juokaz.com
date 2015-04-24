@@ -19,10 +19,14 @@
 </head>
 
 <body>
-  {{ content }}
-
   {% if page.index_page != true %}
+    <section>
+      {{ content }}
+    </section>
+
     <a href="/"><img class="corner-logo grayscale" src="/images/corner.png?{{ site.time | date: '%s' }}"></a>
+  {% else %}
+      {{ content }}
   {% endif %}
 
   <script type="text/javascript">
