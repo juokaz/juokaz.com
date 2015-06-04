@@ -2,6 +2,26 @@ paginate: 5
 permalink: /blog/:title.html
 
 conferences:
+  - year: 2015
+    talks:
+    - title: Future Insights Live
+      location: Las Vegas, NV, USA
+      date: 2-4th June
+      spoken:
+          - title: "How To Keep Calm And Ship It"
+            slides: https://speakerdeck.com/juokaz/how-to-keep-calm-and-ship-it-future-insights-live-2015
+    - title: Kaunas PHP user group
+      location: Kaunas, Lithuania
+      date: 13th May
+      spoken:
+          - title: From PHP to Machine Code
+            slides: https://speakerdeck.com/juokaz/from-php-to-machine-code-vilnius-php-2015
+    - title: Vilnius PHP user group
+      location: Vilnius, Lithuania
+      date: 7th May
+      spoken:
+          - title: From PHP to Machine Code
+            slides: https://speakerdeck.com/juokaz/from-php-to-machine-code-vilnius-php-2015
   - year: 2014
     talks:
     - title: Build Stuff conference
@@ -9,6 +29,7 @@ conferences:
       date: 19-23th November
       spoken:
           - title: "Making decisions with data"
+            slides: https://speakerdeck.com/juokaz/making-decisions-with-data-buildstuff-2014
     - title: True North PHP conference
       location: Toronto, Canada
       date: 6-8th November
