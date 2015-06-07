@@ -2,8 +2,8 @@
 body { font: 20px 'Merriweather'; letter-spacing: 0.01rem; font-weight: 300; line-height: 1.5; width: 100%; margin: 20px 0 20px 0; }
 .clear { clear: both; }
 section { margin: 0 auto; max-width: 1000px; padding-left: 20px; padding-right: 20px; }
-section > header { text-align: center; }
-h1 { font-size: 60px; font-weight: 400; display: inline; }
+section > header { text-align: center; margin-top: 50px; }
+h1 { font-size: 50px; font-weight: 400; display: inline; }
 h2 { margin-top: 40px; margin-bottom: 20px; font-size: 30px; }
 h3 span { float: right; font: 22px 'Open Sans', serif; font-style: italic; font-size: 18px; color: #999; font-weight: normal; }
 h3 { font-size: 20px;}
@@ -55,7 +55,7 @@ img.grayscale:hover {
     body { font-size: 16px; }
     footer { font-size: 14px; }
     h3 span, .postPreview time { float: none; display: block; }
-    section > header { margin-top: 180px; }
+    section > header { margin-top: 150px; }
     h1 { font-size: 40px; }
     h2 { font-size: 25px; }
     h3 { font-size: 20px; }
