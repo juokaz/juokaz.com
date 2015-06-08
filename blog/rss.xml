@@ -9,14 +9,14 @@ layout: nil
     <atom:link href="http://juokaz.com/blog/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 
     {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
       <link>http://juokaz.com{{ post.url }}</link>
-      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <author>juozas@juokaz.com (Juozas Kaziukėnas)</author>
       <guid>http://juokaz.com{{ post.url }}</guid>
       <description>{{ post.content | xml_escape }}</description>
