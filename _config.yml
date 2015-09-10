@@ -1,6 +1,5 @@
 gems:
   - jekyll-sitemap
-paginate: 5
 permalink: /blog/:title.html
 
 conferences:
