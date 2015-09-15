@@ -2,22 +2,25 @@
 layout: default
 title: Blog
 ---
-
-<header>
-    <h1>Blog</h1>
-</header>
-
-{% for post in site.posts %}
-<div class="postPreview">
+<section>
     <header>
-        <a name="{{ post.date | date: '%d%B%Y' }}"></a>
-        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-        <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
-            {{ post.date | date: '%d %B %Y' }}
-        </time>
+        <h1>Blog</h1>
     </header>
-    <div>
-        {{ post.excerpt }}
+
+    {% for post in site.posts %}
+    <div class="postPreview" itemscope itemtype="http://schema.org/Article">
+        <header>
+            <a name="{{ post.date | date: '%d%B%Y' }}"></a>
+            <a href="{{ post.url }}"><strong itemprop="headline">{{ post.title }}</strong></a>
+            <time datetime="{{ post.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
+                {{ post.date | date: '%d %B %Y' }}
+            </time>
+        </header>
+        <div itemprop="description">
+            {{ post.excerpt }}
+        </div>
+        <!-- http://schema.org/Article requires an image property -->
+        <meta itemprop="image" content="http://juokaz.com/images/juozas.jpg" />
     </div>
-</div>
-{% endfor %}
+    {% endfor %}
+</section>

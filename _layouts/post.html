@@ -1,24 +1,29 @@
 ---
 layout: default
 ---
-<header>
-    <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.date | date: '%Y-%m-%d' }}">
-        <a href="/blog#{{ page.date | date: '%d%B%Y' }}">{{ page.date | date: '%d %B %Y' }}</a>
-    </time>
-</header>
+<section itemscope itemtype="http://schema.org/Article">
+    <header>
+        <h1 itemprop="headline">{{ page.title }}</h1>
+        <time datetime="{{ page.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
+            <a href="/blog#{{ page.date | date: '%d%B%Y' }}">{{ page.date | date: '%d %B %Y' }}</a>
+        </time>
+    </header>
 
-<article>
-    {{ content }}
-</article>
+    <article itemprop="articleBody">
+        {{ content }}
+    </article>
 
-<div class="divider"></div>
+    <div class="divider"></div>
 
-<footer>
-Follow me on <a href="http://twitter.com/juokaz">twitter</a> or subscribe to get new articles to your email.
-<form action="https://tinyletter.com/juokaz" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/juokaz', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-    <input type="email" style="width:140px" name="email" id="tlemail" placeholder="Email address" />
-    <input type="hidden" value="1" name="embed"/>
-    <input type="submit" value="Subscribe" />
-</form>
-</footer>
+    <footer>
+    Follow me on <a href="http://twitter.com/juokaz">twitter</a> or subscribe to get new articles to your email.
+    <form action="https://tinyletter.com/juokaz" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/juokaz', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+        <input type="email" style="width:140px" name="email" id="tlemail" placeholder="Email address" />
+        <input type="hidden" value="1" name="embed"/>
+        <input type="submit" value="Subscribe" />
+    </form>
+    </footer>
+
+    <!-- http://schema.org/Article requires an image property -->
+    <meta itemprop="image" content="http://juokaz.com/images/juozas.jpg" />
+</section>
