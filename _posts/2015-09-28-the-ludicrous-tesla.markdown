@@ -2,7 +2,7 @@
 layout: post
 title: The Ludicrous Tesla
 location: New York, NY, USA
-excerpt: What happens when you let 762 electric horse power loose? It’s immediate and effortless. And practically dead silent. Yet it’s faster than anything I’ve ever touched. You can feel your body fighting the over-1G pull. It’s surreal.
+excerpt: What happens when you let 762 electric horse power loose? It’s immediate and effortless. And practically dead silent. Yet it’s faster than anything I’ve ever touched. You can feel your body fighting the over-1g pull. It’s surreal.
 image: http://scontent-lga3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/11899593_1550400381881953_1405122151_n.jpg
 ---
 
