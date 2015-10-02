@@ -5,7 +5,19 @@ permalink: /blog/:title.html
 conferences:
   - year: 2015
     talks:
-    - title: Future Insights Live
+    - title: PHP Japan conference
+      location: Tokyo, Japan
+      date: 3rd October
+      spoken:
+          - title: From PHP to Machine Code
+            slides: https://speakerdeck.com/juokaz/from-php-to-machine-code-vilnius-php-2015
+    - title: NYPHP user group
+      location: New York, NY, USA
+      date: 25th September
+      spoken:
+          - title: From PHP to Machine Code
+            slides: https://speakerdeck.com/juokaz/from-php-to-machine-code-vilnius-php-2015
+    - title: Future Insights Live conference
       location: Las Vegas, NV, USA
       date: 2-4th June
       spoken:
