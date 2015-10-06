@@ -11,6 +11,7 @@ conferences:
       spoken:
           - title: From PHP to Machine Code
             slides: https://speakerdeck.com/juokaz/from-php-to-machine-code-phpcon-japan-2015
+            feedback: https://joind.in/talk/view/15365
     - title: NYPHP user group
       location: New York, NY, USA
       date: 25th September
