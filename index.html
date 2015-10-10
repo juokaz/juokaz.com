@@ -4,7 +4,7 @@ index_page: true
 ---
 
 <div id="about">
-    <div id="image" style="background-image: url('images/juozas-speaker.jpg?{{ site.time | date: '%s' }}')">
+    <div id="headerimage" style="background-image: url('images/juozas-speaker.jpg?{{ site.time | date: '%s' }}')">
     </div>
 
     <h1>Juozas <em>"Joe"</em> Kaziukėnas</h1>
@@ -29,7 +29,7 @@ index_page: true
     <ul>
         <li>Working on <a href="http://stocklevel.com">StockLevel</a> and helping other startups. <a href="cv.html">Things I worked on before</a></li>
         <li>Speaking at <a href="conferences.html">conferences</a></li>
-        <li><a href="blog/">Blogging</a>, latest article was on <a href="{{ site.posts[0].url }}">"{{ site.posts[0].title }}"</a></li>
+        <li><a href="blog/">Blogging</a>, latest article was <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a></li>
     </ul>
     <p id="looks">
         <span id="go-serious">
