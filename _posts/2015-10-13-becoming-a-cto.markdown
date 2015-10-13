@@ -2,7 +2,7 @@
 layout: post
 title: Becoming a CTO
 location: New York, NY, USA
-excerpt: t's easy to accidentally become a CTO by getting hired by a small company with no other developers, like you would see in most startups. But while the title might say "Chief Technology Officer," it is probably just a fancy acronym for an "overworked developer." This is then about how to realize what the position needs and how to get there.
+excerpt: It's easy to accidentally become a CTO by getting hired by a small company with no other developers, like you would see in most startups. But while the title might say "Chief Technology Officer," it is probably just a fancy acronym for an "overworked developer." This is then about how to realize what the position needs and how to get there.
 ---
 
 If you ever find yourself writing a blog post on why PHP sucks, you are not ready.
