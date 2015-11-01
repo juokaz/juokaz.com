@@ -5,6 +5,13 @@ permalink: /blog/:title.html
 conferences:
   - year: 2015
     talks:
+    - title: PHP Barcelona conference
+      location: Barcelona, Spain
+      date: 30-31st October
+      spoken:
+          - title: From PHP to Machine Code
+            slides: https://speakerdeck.com/juokaz/from-php-to-machine-code-phpcon-japan-2015
+            feedback: https://joind.in/talk/view/15866
     - title: PHP Japan conference
       location: Tokyo, Japan
       date: 3rd October
