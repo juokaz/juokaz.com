@@ -93,7 +93,7 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
 
 #headerimage { display: none; }
 
-body, body#speaker {
+body#speaker {
   background-image: url('images/juozas-speaker.jpg');
   background-repeat no-repeat;
   background-position: center center;
@@ -126,7 +126,7 @@ body#punk {
     #monogram { position: relative; width: auto; padding: 20px; margin: 0; }
     #about { position: relative; width: auto; margin: 0 !important; }
     #serious #about, #speaker #about { margin: 0 !important; }
-    body, body#speaker, body#serious, body#scottish, body#punk { background: none; }
+    body#speaker, body#serious, body#scottish, body#punk { background: none; }
 
     ul#connect{ position: static; width: 260px; padding: 10px 0 0 0; margin: 0 auto !important; }
     #serious ul#connect, #speaker ul#connect { padding: 10px 0 0 0; margin: 0 auto !important;}

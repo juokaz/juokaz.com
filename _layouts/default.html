@@ -26,7 +26,7 @@
     <link rel="icon" type="image/jpeg" href="/images/juozas.jpg?{{ site.time | date: '%s' }}" />
 </head>
 
-<body>
+<body{% if page.body_class %} id="{{ page.body_class }}"{% endif %}>
   {{ content }}
 
   {% if page.index_page != true %}
