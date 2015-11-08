@@ -56,12 +56,10 @@ index_page: true
 </ul>
 
 <script src="js/jquery.min.js"></script>
-<script src="js/jquery.backstretch.min.js"></script>
 <script type="text/javascript">
   (function() {
     $('#looks a').click(function() {
         var image = $(this).attr('href').replace('#', '');
-        $.backstretch("images/juozas-" + image + ".jpg?{{ site.time | date: '%s' }}", {speed: 0});
         $('body').attr('id', image);
     });
     var hash = location.hash.replace('#','');

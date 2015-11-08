@@ -93,6 +93,30 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
 
 #headerimage { display: none; }
 
+body, body#speaker {
+  background-image: url('images/juozas-speaker.jpg');
+  background-repeat no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body#serious {
+  background-image: url('images/juozas-serious.jpg');
+}
+
+body#scottish {
+  background-image: url('images/juozas-scottish.jpg');
+}
+
+body#punk {
+  background-image: url('images/juozas-punk.jpg');
+}
+
 @media (max-width: 1024px) {
     #about p, #about ul, #about a, #about h1 { color: #000; text-shadow: none; font-weight: 300; }
     #about a { text-decoration: underline; }
@@ -102,7 +126,7 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
     #monogram { position: relative; width: auto; padding: 20px; margin: 0; }
     #about { position: relative; width: auto; margin: 0 !important; }
     #serious #about, #speaker #about { margin: 0 !important; }
-    .backstretch { opacity: 0; }
+    body, body#speaker, body#serious, body#scottish, body#punk { background: none; }
 
     ul#connect{ position: static; width: 260px; padding: 10px 0 0 0; margin: 0 auto !important; }
     #serious ul#connect, #speaker ul#connect { padding: 10px 0 0 0; margin: 0 auto !important;}
