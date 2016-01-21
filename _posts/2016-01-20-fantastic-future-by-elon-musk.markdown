@@ -3,6 +3,7 @@ layout: post
 title: Fantastic Future by Elon Musk
 location: Bangkok, Thailand
 excerpt: On a recent flight I read the book "Elon Musk Tesla, SpaceX, and the Quest for a Fantastic Future" by Ashlee Vance. I haven't met Elon yet, but I have talked to a few people close to him and the qualities portrayed in this book are all true.
+image: http://juokaz.com/blog/images/elon_musk.jpg
 ---
 
 On a recent flight I read the book "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" by Ashlee Vance. I haven't met Elon yet, but I have talked to a few people close to him and the qualities portrayed in this book are all true.
