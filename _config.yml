@@ -3,6 +3,15 @@ gems:
 permalink: /blog/:title.html
 
 conferences:
+  - year: 2016
+    talks:
+    - title: PHP UK conference
+      location: London, UK
+      date: 18-19th February
+      spoken:
+          - title: From PHP to Machine Code
+            slides: https://speakerdeck.com/juokaz/from-php-to-machine-code-php-uk-conference-2016
+            feedback: https://joind.in/event/php-uk-conference/from-php-to-machine-code
   - year: 2015
     talks:
     - title: PHP Barcelona conference
