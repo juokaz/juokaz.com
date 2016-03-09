@@ -2,11 +2,11 @@
 layout: post
 title: I wrote code every day for 1,000 days
 location: New York, NY, USA
-excerpt: GitHub, where I store all of my software projects, has this neat feature that shows you how often you push code. For me, it reported 1,000 days on March 5th, 2016. In other words I wrote code every day for the last 1,0000 days. Just a few more months and it’ll be 3 years. As you are reading this it might have gone even further.
+excerpt: GitHub, where I store all of my software projects, has this neat feature that shows you how often you push code. For me, it reported 1,000 days on March 5th, 2016. In other words I wrote code every day for the last 1,000 days. Just a few more months and it’ll be 3 years. As you are reading this it might have gone even further.
 image: http://juokaz.com/blog/images/github1000.jpg
 ---
 
-GitHub, where I store all of my software projects, has this neat feature that shows you how often you push code. For me, it reported 1,000 days on March 5th, 2016. In other words I wrote code every day for the last 1,0000 days. Just a few more months and it’ll be 3 years. As you are reading this it might have gone even further.
+GitHub, where I store all of my software projects, has this neat feature that shows you how often you push code. For me, it reported 1,000 days on March 5th, 2016. In other words I wrote code every day for the last 1,000 days. Just a few more months and it’ll be 3 years. As you are reading this it might have gone even further.
 
 <img src="/blog/images/github1000.jpg" alt="Github 1000 streak" style="width: 100%" />
 
