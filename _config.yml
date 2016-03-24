@@ -2,6 +2,8 @@ gems:
   - jekyll-sitemap
 permalink: /blog/:title.html
 
+url: https://juokaz.com
+
 conferences:
   - year: 2016
     talks:

@@ -25,5 +25,5 @@ layout: default
     </footer>
 
     <!-- http://schema.org/Article requires an image property -->
-    <meta itemprop="image" content="{% if page.image %}{{ page.image }}{% else %}http://juokaz.com/images/juozas.jpg{% endif %}" />
+    <meta itemprop="image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.url }}/images/juozas.jpg{% endif %}" />
 </section>
