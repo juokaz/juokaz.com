@@ -109,8 +109,7 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
 
 #headerimage { display: none; }
 
-body#speaker {
-  background-image: url('images/juozas-speaker.jpg');
+body {
   background-repeat no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -119,6 +118,10 @@ body#speaker {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+body#speaker {
+  background-image: url('images/juozas-speaker.jpg');
 }
 
 body#serious {
