@@ -28,7 +28,7 @@ All it takes to finish an application is documenting every past work experience,
 
 At some point in time the current work visa ended, but the new application hasn’t been finished yet. So I took a one way flight  out of the country hoping to come back soon enough. This was hugely optimistic as the only reason I thought I was coming back was because a guy in a suit told so. Everyone asked “What are you going to do if the visa is not approved?”. I didn’t know.
 
-Then the application got filed and approved, and I was on a first flight back.
+[Then the application got filed and approved, and I was on a first flight back.](/blog/o1-approval-secured-for-juozas-kaziukenas.html)
 
 There are many stories of eager entrepreneurs trying to come to US and failing. And then doing amazing things somewhere else like the [Snapdeal story](http://finance.yahoo.com/news/americas-unwanted-ivy-leaguers-flocking-210634992.html). I hope changes in immigration law are going to happen sooner than later and we won’t have to invest so much effort into being here.
 
