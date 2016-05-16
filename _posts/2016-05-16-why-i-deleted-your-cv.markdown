@@ -16,7 +16,7 @@ For example, if you worked as a "senior developer" at a company, how many other 
 
 <img src="/blog/images/team-decision.jpg" alt="Team decision" style="width: 100%" />
 
-Context matters a lot, tiles and technologies not as much. I want to understand the sort of work environment you were in, and what your part in it was. Technical skills are important, but they are trainable, while team work and communication are much harder to teach. Let’s not forget about scale too - were you building a website barely anyone visits or worked on a viral mobile app?
+Context matters a lot, titles and technologies not as much. I want to understand the sort of work environment you were in, and what your part in it was. Technical skills are important, but they are trainable, while team work and communication are much harder to teach. Let’s not forget about scale too - were you building a website barely anyone visits or worked on a viral mobile app?
 
 Something I personally care a lot about are people who are self-starters. People who can join any team or project and figure out how to get it going. That’s what small companies need. But it’s hard to tell the role someone had in the company if you are not explaining what you actually did. Not everyone looks for the same qualities, so try to cover all bases.
 
