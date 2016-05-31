@@ -7,6 +7,13 @@ url: https://juokaz.com
 conferences:
   - year: 2016
     talks:
+    - title: PyCon conference
+      location: Portland, OR, USA
+      date: 28th May - 5th June
+      spoken:
+          - title: Building an interpreter in RPython
+            slides: http://speakerdeck.com/juokaz/building-an-interpreter-in-rpython-pycon-2016
+            video: https://www.youtube.com/watch?v=9tDpjzPLvNY
     - title: PHP UK conference
       location: London, UK
       date: 18-19th February
@@ -14,6 +21,7 @@ conferences:
           - title: From PHP to Machine Code
             slides: https://speakerdeck.com/juokaz/from-php-to-machine-code-php-uk-conference-2016
             feedback: https://joind.in/event/php-uk-conference/from-php-to-machine-code
+            video: https://www.youtube.com/watch?v=Tm_awZP0vFY
   - year: 2015
     talks:
     - title: PHP Barcelona conference
