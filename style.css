@@ -95,17 +95,23 @@ ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px
 #serious #about { margin: 0 20px 0 auto !important; }
 #serious ul#connect { right: none; left: 52px; }
 
+#racing-driver #about { margin: 0 20px 0 auto !important; }
+#racing-driver ul#connect { right: none; left: 52px; }
+
 #speaker #go-speaker {display: inline;}
-#speaker #go-punk, #speaker #go-scottish, #speaker #go-serious {display: none;}
+#speaker #go-punk, #speaker #go-scottish, #speaker #go-serious, #speaker #go-racing-driver {display: none;}
 
 #serious #go-serious {display: inline;}
-#serious #go-punk, #serious #go-scottish, #serious #go-speaker {display: none;}
+#serious #go-punk, #serious #go-scottish, #serious #go-speaker, #serious #go-racing-driver {display: none;}
 
 #scottish #go-scottish {display: inline;}
-#scottish #go-punk, #scottish #go-serious, #scottish #go-speaker {display: none;}
+#scottish #go-punk, #scottish #go-serious, #scottish #go-speaker, #scottish #go-racing-driver {display: none;}
 
 #punk #go-punk {display: inline;}
-#punk #go-scottish, #punk #go-serious, #punk #go-speaker {display: none;}
+#punk #go-scottish, #punk #go-serious, #punk #go-speaker, #punk #go-racing-driver {display: none;}
+
+#racing-driver #go-racing-driver {display: inline;}
+#racing-driver #go-scottish, #racing-driver #go-serious, #racing-driver #go-speaker, #racing-driver #go-punk {display: none;}
 
 #headerimage { display: none; }
 
@@ -136,6 +142,10 @@ body#punk {
   background-image: url('images/juozas-punk.jpg');
 }
 
+body#racing-driver {
+  background-image: url('images/juozas-racing-driver.jpg');
+}
+
 @media (max-width: 1024px) {
     #about p, #about ul, #about a, #about h1 { color: #000; text-shadow: none; font-weight: 300; }
     #about a { text-decoration: underline; }
@@ -144,8 +154,8 @@ body#punk {
 
     #monogram { position: relative; width: auto; padding: 20px; margin: 0; }
     #about { position: relative; width: auto; margin: 0 !important; }
-    #serious #about, #speaker #about { margin: 0 !important; }
-    body#speaker, body#serious, body#scottish, body#punk { background: none; }
+
+    body { background: none !important; }
 
     ul#connect{ position: static; width: 260px; padding: 10px 0 0 0; margin: 0 auto !important; }
     #serious ul#connect, #speaker ul#connect { padding: 10px 0 0 0; margin: 0 auto !important;}
