@@ -73,17 +73,19 @@ img.grayscale:hover {
     footer { font-size: 14px; }
     h3 span, .postPreview time { float: none; display: block; }
     section > header { margin-top: 150px; }
-    h1 { font-size: 40px; }
+    h1 { font-size: 25px; }
     h2 { font-size: 25px; }
     h3 { font-size: 20px; }
     #photos li { width: 23%; }
+
+    .postPreview > header a { font-size: 20px; }
 }
 
 /* index page */
 #about p, #about ul { color: #fff; font-size: 18px; font-weight: 400; line-height: 1.2; margin-bottom: 16px; -webkit-font-smoothing: antialiased; text-shadow: 0 1px 5px black; }
 #about a { color: #fff; }
 #about { width: 600px; padding-left: 20px; padding-right: 20px; margin: 0 auto 0 20px !important; }
-#about h1 { font-size: 40px; color: #fff; text-shadow: 0 1px 5px black; }
+#about h1 { color: #fff;  text-shadow: 0 1px 5px black; }
 
 ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px; }
 #connect li{display:inline;list-style-type:none;}
@@ -149,7 +151,6 @@ body#racing-driver {
 @media (max-width: 1024px) {
     #about p, #about ul, #about a, #about h1 { color: #000; text-shadow: none; font-weight: 300; }
     #about a { text-decoration: underline; }
-    #about h1 { font-size: 25px; }
     #about p, #about ul { font-size: 16px; }
 
     #monogram { position: relative; width: auto; padding: 20px; margin: 0; }
