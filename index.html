@@ -13,22 +13,23 @@ body_class: speaker
         Friends calls me Joe. I am an experienced young professional and entrepreneur based in New York City. Started off writing software and have since gravitated towards building technology startups.
     </p>
     <p>
-        I have worked on many different online projects and have built a few successful startups before. Having tried many more failed prototypes, I’m focused on prototyping and shipping products fast. Growth is the most exciting part of the work, so I tend to manage technology and strategy.
+        I'm currently working on a few startups, but I'm always looking for new ideas to consult or invest into.
+    </a>
+    <p>
+        I have <a href="cv.html">worked on</a> many different online projects and have built a few successful ones before. Having tried many more failed prototypes, I’m focused on shipping products fast.
     </p>
     <p>
         I'm passionate about using technology to provide simple answers to complex problems. I have been an advocate of data science and building data-driven processes for a long time.
     </p>
     <p>
-        {% include email.html %}
+        Often I'm speaking at <a href="conferences.html">conferences</a>. My last talk was at {{ site.conferences[0].talks[0].title }} in {{ site.conferences[0].talks[0].location }}.
     </p>
     <p>
-        Currently I'm doing this:
+        <a href="blog/">Blogging</a> is my favorite form to write down thoughts. Latest article was <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>.
     </p>
-    <ul>
-        <li>Working on <a href="http://stocklevel.com">StockLevel</a> and helping other startups. <a href="cv.html">Things I worked on before</a></li>
-        <li>Speaking at <a href="conferences.html">conferences</a></li>
-        <li><a href="blog/">Blogging</a>, latest article was <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a></li>
-    </ul>
+    <p>
+        {% include email.html %}
+    </p>
     <p id="looks">
         <span id="go-serious">
             Don't like the serious look? Go with <a href="#speaker">speaker</a>, <a href="#punk">punk</a>, <a href="#scottish">scottish</a> or <a href="#racing-driver">racing driver</a>.
