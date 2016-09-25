@@ -93,6 +93,12 @@ pictures:
 conferences:
   - year: 2016
     talks:
+    - title: PyCon JP conference
+      location: Tokyo, Japan
+      date: 21-22nd September
+      spoken:
+          - title: Building an interpreter in RPython
+            slides: http://speakerdeck.com/juokaz/building-an-interpreter-in-rpython-pycon-japan-2016
     - title: PyCon conference
       location: Portland, OR, USA
       date: 28th May - 5th June
