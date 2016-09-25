@@ -11,7 +11,11 @@ title: Conferences
     I have travelled the world talking about technical and business topics. From Japan and India to most countries in Europe, to the US and Canada. In front of small audiences at local user-groups to thousands of people at large international events.
 </p>
 
-<ul id="photos"></ul>
+<ul class="photos">
+    {% for image in site.pictures limit:12 %}
+        <li><a href="/pictures/{{ image }}"><img src="/pictures/thumb/{{ image }}" alt="{{ image }}" /></a></li>
+    {% endfor %}
+</ul>
 
 <p>
     {% include email.html %}
@@ -55,23 +59,11 @@ Some quotes from people who have recently attended my talks
 <blockquote>Really good talk. Liked the examples on how to make a spider act more like a human being. Presentation was good, lots of good examples, mixed with a good dose of humor.</blockquote>
 
 <blockquote>Interesting and insightful. The talk was delivered very professionally.</blockquote>
+
+<ul class="photos">
+    {% for image in site.pictures offset:12 %}
+        <li><a href="/pictures/{{ image }}"><img src="/pictures/thumb/{{ image }}" alt="{{ image }}" /></a></li>
+    {% endfor %}
+</ul>
+
 </section>
-
-<script src="js/jquery.min.js"></script>
-<script src="js/jflickrfeed.min.js"></script>
-<script>
-$(document).ready(function(){
-$('#photos').jflickrfeed({
-    limit: 12,
-    qstrings: {
-        id: '48016980@N08',
-        tags: 'conferences',
-    },
-    useTemplate: false,
-    itemCallback: function(item){
-        $(this).append("<li><a href=\"" + item.link + "\"><div style=\"background-image: url('" + item.image_m + "');\"></div></a></li>");
-    }
-});
-
-});
-</script>
