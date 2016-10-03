@@ -25,7 +25,7 @@ img {}
 img.left { float: left; }
 img.right { float: right; }
 img.center { margin-left: auto; margin-right: auto; display: block; }
-img.logo { width: 150px; height: 150px; margin-right: 20px; margin-top: 20px; float: left; }
+img.logo { max-width: 150px; max-height: 150px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px; float: left; }
 blockquote { margin-top: 10px; margin-bottom: 10px; margin-left: -13px; padding-left: 10px; border-left: 3px solid #ccc; font-style: italic; }
 
 .photos { margin: 0 auto; padding: 0; overflow: hidden; }
