@@ -7,7 +7,7 @@ excerpt: Some people assume I shit gold. Probably. Since every day I get people 
 
 <img src="/blog/images/thinking.jpg" alt="" class="right" />
 
-Some people assume I *shit* gold. Probably. Since every day I get people asking me if I work at all or I just do nothing, drive fast cars and travel all the time. That would be totally boring - I actually do have a job and on a normal week I work 80+ hours, plus all the other things (like [Whisky Web](http://whiskyweb.co.uk) or [conference speaking](/conferences.html)). I'm not a workaholic, but the things I do make me happy and I work very hard on them. However, I don't like talking about them, thus making it look like they don't exist.
+Some people assume I *shit* gold. Probably. Since every day I get people asking me if I work at all or I just do nothing, drive fast cars and travel all the time. That would be totally boring - I actually do have a job and on a normal week I work 80+ hours, plus all the other things (like [Whisky Web](http://whiskyweb.co.uk) or [conference speaking](/conferences)). I'm not a workaholic, but the things I do make me happy and I work very hard on them. However, I don't like talking about them, thus making it look like they don't exist.
 
 Talking about work is very boring, at least I think so, so I avoid this topic as much as possible. Even the question "what do you do?", which previously seemed like a good chance to impress people, is so dull now (as is the trying to impress people). The last time I got asked this, I was a NASA engineer. Just because it's not like people I want to talk to care about this anyway. I really rather people not know what I do, makes things easier.
 

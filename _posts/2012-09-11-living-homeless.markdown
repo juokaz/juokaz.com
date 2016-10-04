@@ -6,7 +6,7 @@ excerpt: Just before I flew to Funconf in Dublin, I handed in the keys to my fla
 comments: true
 ---
 
-Just before I flew to [Funconf](/blog/funconf-fuck-yeah.html) in Dublin, I handed in the keys to my flat in Edinburgh and became virtually homeless; for the first time since moving out of my parents' house 4 years ago I don't own a place of my own. Nor will I be looking for one. This was probably one of the more crazy things I've done this year, but it has freed me up to do the things I want to be doing - mainly travel. I tend to travel quite a lot anyway - last year I spent more than 4 months away from Edinburgh and flew over 100'000 air miles. However this took some time to prepare.
+Just before I flew to [Funconf](/blog/funconf-fuck-yeah) in Dublin, I handed in the keys to my flat in Edinburgh and became virtually homeless; for the first time since moving out of my parents' house 4 years ago I don't own a place of my own. Nor will I be looking for one. This was probably one of the more crazy things I've done this year, but it has freed me up to do the things I want to be doing - mainly travel. I tend to travel quite a lot anyway - last year I spent more than 4 months away from Edinburgh and flew over 100'000 air miles. However this took some time to prepare.
 
 <img src="/blog/images/flying.jpg" alt="" class="right" />
 
