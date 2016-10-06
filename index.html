@@ -57,17 +57,20 @@ body_class: speaker
     <li><a href="http://www.facebook.com/juokaz"><img src="images/facebook.png?{{ site.time | date: '%s' }}" alt="facebook"></a></li>
 </ul>
 
-<script src="js/jquery.min.js"></script>
 <script type="text/javascript">
   (function() {
-    $('#looks a').click(function() {
-        var image = $(this).attr('href').replace('#', '');
-        $('body').attr('id', image);
-    });
+    var looks = document.querySelectorAll("#looks a");
+    for (var i = 0; i < looks.length; i++) {
+        looks[i].addEventListener('click', function(event) {
+            var image = this.getAttribute('href').replace('#', '');
+            document.getElementsByTagName('body')[0].id = image;
+        });
+    }
+
     var hash = location.hash.replace('#','');
 
     if (hash) {
-        $('a[href="#' + hash + '"]').click();
+        document.querySelector('a[href="#' + hash + '"]').click();
     }
   })();
 </script>
