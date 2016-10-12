@@ -20,7 +20,7 @@ This leaves average Joe and plain Jane wondering - how do I start anything. My i
 
 I have friends who mention that they really want to build something, but don’t feel like they have an idea big enough. They read the book on Steve Jobs, but now can’t figure out what the next Apple will be. This is what happens when everyone is regurgitating the notion of disruption. It’s a depressing thought that what you are doing is not dreaming big enough.
 
-There is one side of the startup ecosystem which celebrates disruption and change-the-world ideas, with coverage of SpaceX and Uber daily. Then there is another side which mocks all new apps like Snapchat for being valued in billions of $ yet not having anything beyond the app. If you pay attention to any of it too much you might find lost trying to validate any of your ideas as good enough.
+There is one side of the startup ecosystem which celebrates disruption and change-the-world ideas, with coverage of SpaceX and Uber daily. Then there is another side which mocks all new apps like Snapchat for being valued in billions of $ yet not having anything beyond the app. If you pay attention to any of it too much you might find yourself lost trying to validate any of your ideas as good enough.
 
 Any idea is absolutely worth doing. Disrupting markets on a global scale is an extremely expensive and hard thing to do, few companies are ever able to achieve it. Having disruption as the goal is premature optimization. Figure out if you can get even 5 customers to buy your app before you want to think about building the world's largest battery factory like Tesla did.
 
