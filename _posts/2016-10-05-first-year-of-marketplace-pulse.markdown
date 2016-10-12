@@ -6,7 +6,6 @@ excerpt: Amazon sales topped $30 billion last quarter. Yet most customers are ob
 image: /blog/images/marketplacepulse-pulse.png
 ---
 
-
 Last summer I was on a routine flight from west coast back to NYC, reading the news when I noticed an article on YouTube stars. The fans were outraged having learned how much Felix Kjellberg, known as PewDiePie on YouTube, was making from his channel. Someone had analyzed the top YouTube channels and estimated their income.
 
 This reminded me about ecommerce marketplaces. In most countries around the world marketplaces are generating the majority of all ecommerce sales. For example, Amazon sales topped $30 billion last quarter. Yet most customers are oblivious to the fact that when buying from Amazon they are likely not buying from Amazon itself.
