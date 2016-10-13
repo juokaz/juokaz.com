@@ -8,7 +8,7 @@ image: /blog/images/github1000.jpg
 
 GitHub, where I store all of my software projects, has this neat feature that shows you how often you push code. For me, it reported 1,000 days on March 5th, 2016. In other words I wrote code every day for the last 1,000 days. Just a few more months and it’ll be 3 years. As you are reading this it might have gone even further.
 
-<img src="/blog/images/github1000.jpg" alt="Github 1000 streak" style="width: 100%" />
+<img src="/blog/images/github1000.jpg" alt="Github 1000 streak" class="fill" />
 
 Important note - every time I talked about this with friends everyone assumed I “worked” every day in the traditional sense of the word. Or that work is all I do. If you really care, [my Instagram account](https://www.instagram.com/juokaz/) gives a much better answer compared to anything I could offer.
 

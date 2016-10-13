@@ -14,7 +14,7 @@ Instead they are buying from thousands of small sellers on those platforms. And 
 
 When I landed I built [Marketplace Pulse](https://www.marketplacepulse.com/).
 
-<img src="/blog/images/marketplacepulse-pulse.png" alt="Marketplace Pulse" style="width: 100%" />
+<img src="/blog/images/marketplacepulse-pulse.png" alt="Marketplace Pulse" class="fill" />
 
 I took the idea from that YouTube analysis and put all Amazon.com sellers on a big list to figure out who are the top sellers. I wasn’t sure how useful this would be, so I built it as a website and waited for visitors to come in. Over the next few weeks Google started to send some traffic, and I started having thoughts that this could be so much more.
 

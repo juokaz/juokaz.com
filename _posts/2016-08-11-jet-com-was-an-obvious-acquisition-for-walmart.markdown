@@ -16,7 +16,7 @@ Not only not all products offered by Walmart in stores are available online, an 
 
 Walmart is instead trying to fix this by building new infrastructure for ecommerce sales. More proof of the internal competition. It’s going to be an expensive and time consuming project, especially if online sales continue to stall. Analysts estimate that Walmart packages cost twice as much to ship as Amazon’s per parcel. But even if Walmart catches up in terms of fulfillment operations, that’s only a small part of the puzzle.
 
-<img src="/blog/images/working-together.jpg" alt="Working together" style="width: 100%" />
+<img src="/blog/images/working-together.jpg" alt="Working together" class="fill" />
 
 The biggest strength Amazon has is the 3rd-party marketplace - any retailer can sell on Amazon.com. In Q2 2016 49% of all sales were handled by marketplace sellers. By the end of the year this number will likely rise to over 50%. Furthermore, Amazon offers their fulfillment infrastructure-as-a-service via a service called Fulfillment by Amazon (FBA). Thus Amazon focuses on the website and logistics, while retailers focus on product sourcing.
 

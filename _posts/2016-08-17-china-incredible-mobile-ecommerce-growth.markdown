@@ -18,7 +18,7 @@ In the last quarter Alibaba had 427 million active users, a 39% increase from a 
 
 Furthermore mobile sales generate more revenue for Alibaba - in this quarter the mobile revenue has surpassed desktop revenue. Alibaba does not charge any fees on Taobao.com sales, but instead allows buying ads and other additional services. This makes their revenue per every dollar sold much lower than what Amazon or eBay has (2.5% for Alibaba, 9% for eBay).
 
-<img src="/blog/images/mobile-phone-platform.jpg" alt="Mobile phone platform" style="width: 100%" />
+<img src="/blog/images/mobile-phone-platform.jpg" alt="Mobile phone platform" class="fill" />
 
 In the US most people still access the internet from desktop machines. That’s where most ecommerce happens too because paying by a credit card is annoying on a phone. Even I refuse to buying anything on a phone. This is the reason why mobile ecommerce is growing slowly here - paying on mobile is simply not a pleasant experience and most people would rather not deal with it.
 

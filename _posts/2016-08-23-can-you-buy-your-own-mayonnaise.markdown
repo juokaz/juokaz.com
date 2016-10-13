@@ -24,7 +24,7 @@ This then didn’t last long as it had potential of ruining Amazon’s search re
 
 Hampton Creek wanted to do the same thing but in physical stores.
 
-<img src="/blog/images/money-race.jpg" alt="Money race" style="width: 100%" />
+<img src="/blog/images/money-race.jpg" alt="Money race" class="fill" />
 
 Groceries business is a tricky one because manufacturers tend to not have any direct way to impact their growth. They of course can improve the product, but most of the time they don’t even know what stores sell it. That part is handled by one of the major distributors. In this relationship consisting of 3 players they all have limited access and power. Ultimately meaning that communication between stores and manufacturers does not exist.
 

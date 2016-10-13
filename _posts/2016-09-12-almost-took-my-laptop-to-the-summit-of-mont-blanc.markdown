@@ -12,7 +12,7 @@ This was going to be about how I took my laptop to the summit of Mont Blanc and 
 
 A friend invited me to join this trip to spend two weeks in the French Alps training. We did a lot of glacier walking, climbing vertical walls, getting adjusted to the altitude, etc. all the standard things. Here is a picture of us on the *Mer de Glace* glacier, a place where global warming is more apparent than anywhere else I've been to.
 
-<img src="/blog/images/trying-to-summit-mont-blanc.jpg" alt="Trying to summit Mont Blanc" style="width: 100%" />
+<img src="/blog/images/trying-to-summit-mont-blanc.jpg" alt="Trying to summit Mont Blanc" class="fill" />
 
 Unfortunately we failed to summit.
 

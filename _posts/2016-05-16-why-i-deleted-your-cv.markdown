@@ -14,7 +14,7 @@ To this day I still have no idea what people mean when they write that they have
 
 For example, if you worked as a "senior developer" at a company, how many other developers were there? If zero, then your seniority is just in the title. If 5, I expect you also did some management and training. If 100, clearly you were amongst other seniors and had someone above you, etc.
 
-<img src="/blog/images/team-decision.jpg" alt="Team decision" style="width: 100%" />
+<img src="/blog/images/team-decision.jpg" alt="Team decision" class="fill" />
 
 Context matters a lot, titles and technologies not as much. I want to understand the sort of work environment you were in, and what your part in it was. Technical skills are important, but they are trainable, while team work and communication are much harder to teach. Let’s not forget about scale too - were you building a website barely anyone visits or worked on a viral mobile app?
 

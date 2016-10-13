@@ -12,7 +12,7 @@ Tesla Model 3 is the first *affordable* and decent electric car on the market. I
 
 Yet everyone who wanted to reserve one early haven’t actually seen one yet, because it wasn’t even announced then. It didn’t exist. All Tesla did was say, “we will show you the car tonight, but if you trust us, you can reserve one in the morning.” [I would trust Elon Musk](/blog/fantastic-future-by-elon-musk.html) to deliver.
 
-<img src="/blog/images/tesla-model-3.jpg" alt="Tesla Model 3 reservations line in California" style="width: 100%" />
+<img src="/blog/images/tesla-model-3.jpg" alt="Tesla Model 3 reservations line in California" class="fill" />
 
 So as we stood there for hours I got to talking with a few folks and what shocked me the most is how little people knew about the car. Or any car for that matter. They weren’t Tesla-geeks or car enthusiasts. It looked like most of the people were just regular people who heard about this cool company Tesla and wanted a good electric car. They didn’t care about the insane speeds the current ones have or the specs. They simply wanted a good car.
 

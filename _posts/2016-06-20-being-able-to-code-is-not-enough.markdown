@@ -14,7 +14,7 @@ I’m based in New York, a city where developers get paid some of the highest sa
 
 Have you seen the [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd)? I’m pushing for the IT staff, all developers and engineers specifically, to not be in the unreachable basement. I don’t want to be in a basement. I don’t want to build companies which have basements. I want people who don’t want that too.
 
-<img src="/blog/images/open-office-farm.jpg" alt="Open Office Farm" style="width: 100%" />
+<img src="/blog/images/open-office-farm.jpg" alt="Open Office Farm" class="fill" />
 
 Maybe 5 or 10 years ago a developer only had to know how to code. Today not only does one have to know many different programming languages, devops skills, mobile environments, networking etc., but also ideally be able to share and discuss ideas with others. The job has changed to include many more skills.
 
