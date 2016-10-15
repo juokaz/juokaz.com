@@ -62,6 +62,8 @@ body_class: speaker
     var looks = document.querySelectorAll("#looks a");
     for (var i = 0; i < looks.length; i++) {
         looks[i].addEventListener('click', function(event) {
+            // Avoid polluting the browser history
+            event.preventDefault();
             var image = this.getAttribute('href').replace('#', '');
             document.getElementsByTagName('body')[0].id = image;
         });
