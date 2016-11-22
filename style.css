@@ -20,7 +20,7 @@ header > time { display: block; }
 .postPreview time { float: right; }
 article { margin: 50px auto 0 auto; max-width: 800px; }
 article img { display: block; max-width: 100%; height: auto; }
-.divider { display: block; width: 100px; margin: 61px auto 81px auto; border: 0; border-top: 1px solid #ccc;}
+.divider { display: block; width: 100px; margin: 61px auto 61px auto; border: 0; border-top: 1px solid #ccc;}
 footer { font-size: 16px; text-align: right; }
 img {}
 img.fill { width: 100%; }
@@ -71,6 +71,80 @@ ul { margin: 0 0 16px 17px; }
   height:100%;
 }
 
+.blog-navigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+.blog-navigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.blog-navigation .next {
+  text-align: right;
+}
+
+.pagination {
+  height: 36px;
+}
+
+.pagination ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.pagination li {
+  display: inline;
+}
+
+.pagination li:first-child a {
+  border-left-width: 1px;
+  -webkit-border-radius: 3px 0 0 3px;
+  -moz-border-radius: 3px 0 0 3px;
+  border-radius: 3px 0 0 3px;
+}
+
+.pagination li:last-child a {
+  -webkit-border-radius: 0 3px 3px 0;
+  -moz-border-radius: 0 3px 3px 0;
+  border-radius: 0 3px 3px 0;
+}
+
+.pagination a {
+  float: left;
+  padding: 0 14px;
+  line-height: 34px;
+  border: 1px solid #DDD;
+  border-left-width: 0;
+}
+
+.pagination a:hover, .active a {
+  background-color: whiteSmoke;
+}
+
+.disabled a, .disabled a:hover,
+.active a, .active a:hover {
+  color: #999;
+  cursor: default;
+}
+
+.disabled a:hover {
+  background-color: transparent;
+}
+
 @media (max-width: 1024px) {
     body { font-size: 16px; }
     footer { font-size: 14px; }
@@ -90,6 +164,12 @@ ul { margin: 0 0 16px 17px; }
 
 @media (max-width: 700px) {
     img.left, img.right { float: none; width: 100%; }
+
+    footer { text-align: left; }
+
+    .blog-navigation a { width: 100%; margin: 0; }
+
+    .blog-navigation .next { text-align: left; }
 }
 
 /* index page */

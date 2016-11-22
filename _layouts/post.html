@@ -16,13 +16,22 @@ layout: default
     <div class="divider"></div>
 
     <footer>
-    Follow me on <a href="http://twitter.com/juokaz">twitter</a> or subscribe to get new articles to your email.
+    Follow me on <a href="http://twitter.com/juokaz">twitter</a>, email me at {% include email.html %} or subscribe.
     <form action="https://tinyletter.com/juokaz" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/juokaz', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
         <input type="email" style="width:140px" name="email" id="tlemail" placeholder="Email address" />
         <input type="hidden" value="1" name="embed"/>
-        <input type="submit" value="Subscribe" />
+        <input type="submit" value="Get articles in your inbox" />
     </form>
     </footer>
+
+    <div class="blog-navigation">
+      {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      {% endif %}
+    </div>
 
     <!-- http://schema.org/Article requires an image property -->
     <meta itemprop="image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.url }}/images/juozas.jpg{% endif %}" />
