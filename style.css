@@ -22,7 +22,7 @@ article { margin: 50px auto 0 auto; max-width: 800px; }
 article img { display: block; max-width: 100%; height: auto; }
 article hr { display: block; width: 100px; margin: 61px auto 41px auto; border: 0; border-top: 1px solid #ccc;}
 footer { font-size: 16px; text-align: right; }
-footer iframe { float: left; }
+
 footer input[type=email] {
     width: 100%;
     padding: .5rem .75rem;
@@ -58,6 +58,18 @@ img.right { float: right; }
 img.center { margin-left: auto; margin-right: auto; display: block; }
 img.logo { max-width: 150px; max-height: 150px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px; float: left; }
 blockquote { margin-top: 10px; margin-bottom: 10px; margin-left: -13px; padding-left: 10px; border-left: 3px solid #ccc; font-style: italic; }
+
+.twitter-follow-button {
+  float: left;
+  width: 178px;
+  height: 38px;
+  display: block;
+  background-image: url("images/follow-on-twitter.png");
+  background-size: contain;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
 
 .photos { margin: 0 auto; padding: 0; overflow: hidden; }
 .photos li { list-style: none; float: left; margin: 0.5%; padding: 1px; background: #eee; -moz-box-shadow: 0 0 4px #444; -webkit-box-shadow: 0 0 2px #000; width: 15%; height: 150px; }
@@ -198,7 +210,7 @@ ul { margin: 0 0 16px 17px; }
 
     .blog-navigation { display: none; }
 
-    footer iframe { float: none; margin-bottom: 20px; }
+    .twitter-follow-button { float: none; margin-bottom: 20px; margin-left: auto; margin-right: auto; }
 }
 
 /* index page */
