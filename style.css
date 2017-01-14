@@ -14,10 +14,14 @@ a:hover { text-decoration: none; }
 
 time { color: #666; font-size: 12px; font-style: italic; }
 header > time { display: block; }
-.postPreview { margin: 30px 0; }
-.postPreview > header { margin: 10px 0; }
-.postPreview > header a { font-size: 25px; }
-.postPreview time { float: right; }
+.postPreview { margin: 50px 0; }
+.postPreview h3 { line-height: 1; }
+.postPreview img { max-width: 250px; float: right; margin-left: 20px;}
+.postPreview::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 article { margin: 50px auto 0 auto; max-width: 800px; }
 article img { display: block; max-width: 100%; height: auto; }
 article hr { display: block; width: 100px; margin: 61px auto 41px auto; border: 0; border-top: 1px solid #ccc;}
@@ -189,13 +193,15 @@ ul { margin: 0 0 16px 17px; }
 @media (max-width: 1024px) {
     body { font-size: 16px; }
     footer { font-size: 14px; }
-    h3 span, .postPreview time { float: none; display: block; }
+    h3 span { float: none; display: block; }
     h1 { font-size: 25px; }
     h2 { font-size: 25px; }
     h3 { font-size: 20px; }
     .photos li { width: 23%; }
 
     .postPreview > header a { font-size: 20px; }
+
+    .postPreview img { display: none; }
 
     #corner-logo {
         width: 100px;
