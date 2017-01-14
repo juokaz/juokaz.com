@@ -28,7 +28,7 @@ article hr { display: block; width: 100px; margin: 61px auto 41px auto; border: 
 footer { font-size: 16px; text-align: right; }
 
 footer input[type=email] {
-    width: 100%;
+    width: 200px;
     padding: .5rem .75rem;
     font-size: 1rem;
     line-height: 1.25;
@@ -40,6 +40,8 @@ footer input[type=email] {
     border: 1px solid rgba(0,0,0,.15);
     border-radius: .25rem; }
 footer input[type=submit] {
+    -webkit-appearance: none;
+    background-color: #c0c0c0;
     display: inline-block;
     font-weight: 400;
     line-height: 1.25;
@@ -51,7 +53,7 @@ footer input[type=submit] {
     -ms-user-select: none;
     user-select: none;
     border: 1px solid transparent;
-    padding: .5rem 1rem;
+    padding: .5rem .5rem;
     font-size: 1rem;
     border-radius: .25rem;
 }
@@ -65,11 +67,12 @@ blockquote { margin-top: 10px; margin-bottom: 10px; margin-left: -13px; padding-
 
 .twitter-follow-button {
   float: left;
-  width: 178px;
+  width: 179px;
   height: 38px;
   display: block;
   background-image: url("images/follow-on-twitter.png");
   background-size: contain;
+  background-repeat: no-repeat;
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
@@ -217,6 +220,8 @@ ul { margin: 0 0 16px 17px; }
     .blog-navigation { display: none; }
 
     .twitter-follow-button { float: none; margin-bottom: 20px; margin-left: auto; margin-right: auto; }
+
+    footer input[type=email] { width: 100px; }
 }
 
 /* index page */
