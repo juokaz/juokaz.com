@@ -59,8 +59,8 @@ footer input[type=submit] {
 }
 img {}
 img.fill { width: 100%; }
-img.left { float: left; }
-img.right { float: right; }
+img.left { float: left; max-width: 400px; }
+img.right { float: right; max-width: 400px; }
 img.center { margin-left: auto; margin-right: auto; display: block; }
 img.logo { max-width: 150px; max-height: 150px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px; float: left; }
 blockquote { margin-top: 10px; margin-bottom: 10px; margin-left: -13px; padding-left: 10px; border-left: 3px solid #ccc; font-style: italic; }
@@ -213,7 +213,7 @@ ul { margin: 0 0 16px 17px; }
 }
 
 @media (max-width: 700px) {
-    img.left, img.right { float: none; width: 100%; }
+    img.left, img.right { float: none; width: 100%; max-width: none; }
 
     footer { text-align: center; }
 
