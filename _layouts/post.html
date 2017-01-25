@@ -4,9 +4,7 @@ layout: default
 <section itemscope itemtype="http://schema.org/Article">
     <header>
         <h1 itemprop="headline">{{ page.title }}</h1>
-        <time datetime="{{ page.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
-            <a href="/blog#{{ page.date | date: '%d%B%Y' }}">{{ page.date | date: '%d %B %Y' }}</a>
-        </time>
+        <time datetime="{{ page.date | date: '%Y-%m-%d' }}" itemprop="datePublished">{{ page.date | date: '%d %B %Y' }}</time>
     </header>
 
     <article itemprop="articleBody">
