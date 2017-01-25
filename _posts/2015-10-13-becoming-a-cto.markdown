@@ -3,6 +3,7 @@ layout: post
 title: Becoming a CTO
 location: New York, NY, USA
 excerpt: It's easy to accidentally become a CTO by getting hired by a small company with no other developers, like you would see in most startups. But while the title might say "Chief Technology Officer," it is probably just a fancy acronym for an "overworked developer." This is then about how to realize what the position needs and how to get there.
+image: /blog/images/prepared-for-a-meeting.jpg
 ---
 
 If you ever find yourself writing a blog post on why PHP sucks, you are not ready.
@@ -10,6 +11,8 @@ If you ever find yourself writing a blog post on why PHP sucks, you are not read
 Being a CTO doesn't mean you are the craziest hacker on the team. In actuality, writing code is probably the last thing you will be doing. Instead it's a person who is able to communicate the technology to others and lead them through execution of the project. In some ways, it's a person who protects the technology team from outside interference and when needed, takes responsibility for mistakes.
 
 It's easy to accidentally become a CTO by getting hired by a small company with no other developers, like you would see in most startups. But while the title might say "Chief Technology Officer," it is probably just a fancy acronym for an "overworked developer." This is then about how to realize what the position needs and how to get there.
+
+<img src="/blog/images/prepared-for-a-meeting.jpg" alt="Prepared for a meeting" class="right" />
 
 I hate environments where the technology department is simply implementing what was envisioned by others. It might as well be an outsourced development team because it becomes independent of the decision making process. As Camille Fournier puts it in '[On the role of CTO](http://whilefalse.blogspot.fr/2015/02/cto.html),' "The CTO must protect the technology team from becoming a pure execution arm for ideas without tending to its own needs and its own ideas."
 
