@@ -9,13 +9,12 @@ title: Blog
 
     {% for post in paginator.posts %}
     <div class="postPreview" itemscope itemtype="http://schema.org/Article">
-        <a name="{{ post.date | date: '%d%B%Y' }}"></a>
         <a href="{{ post.url }}"><h3 itemprop="headline">{{ post.title }}</h3></a>
         <div>
           <a href="{{ post.url }}"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
         </div>
         <time datetime="{{ post.date | date: '%Y-%m-%d' }}" itemprop="datePublished">
-            {{ post.date | date: '%d %B %Y' }}
+            {{ post.date | date: '%B %-d, %Y' }}
         </time>
         <div itemprop="description">
             {{ post.excerpt }}
