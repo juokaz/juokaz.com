@@ -306,5 +306,5 @@ body#racing-driver {
     #connect a:link { opacity: 1; }
 
     #looks { display: none; }
-    #headerimage { display: block; min-height: 30vw; background-position: 50% 30%; background-repeat: no-repeat; background-size: cover; margin-bottom: 20px; }
+    #headerimage { display: block; min-height: 30vh; background-position: 50% 30%; background-repeat: no-repeat; background-size: cover; margin-bottom: 20px; }
 }
