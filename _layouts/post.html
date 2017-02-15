@@ -9,19 +9,19 @@ layout: default
 
     <article itemprop="articleBody">
         {{ content }}
-
-        <hr />
-
-        <footer>
-            <a href="https://twitter.com/juokaz" class="twitter-follow-button">Follow @juokaz</a>
-
-            <form action="https://tinyletter.com/juokaz" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/juokaz', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-                <input type="email" name="email" id="tlemail" placeholder="Email address" />
-                <input type="hidden" value="1" name="embed"/>
-                <input type="submit" value="Get articles to email" />
-            </form>
-        </footer>
     </article>
+
+    <hr />
+
+    <footer>
+        <a href="https://twitter.com/juokaz" class="twitter-follow-button">Follow @juokaz</a>
+
+        <form action="https://tinyletter.com/juokaz" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/juokaz', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+            <input type="email" name="email" id="tlemail" placeholder="Email address" />
+            <input type="hidden" value="1" name="embed"/>
+            <input type="submit" value="Get articles to email" />
+        </form>
+    </footer>
 
     <div class="blog-navigation">
       {% if page.previous.url %}

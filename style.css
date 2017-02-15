@@ -24,8 +24,8 @@ header > time { display: block; }
 }
 article { margin: 50px auto 0 auto; max-width: 800px; }
 article img { display: block; max-width: 100%; height: auto; }
-article hr { display: block; width: 100px; margin: 61px auto 41px auto; border: 0; border-top: 1px solid #ccc;}
-footer { font-size: 16px; text-align: right; }
+hr { display: block; width: 100px; margin: 61px auto 41px auto; border: 0; border-top: 1px solid #ccc;}
+footer { margin: 50px auto 0 auto; max-width: 800px; font-size: 16px; text-align: right; }
 
 footer input[type=email] {
     width: 200px;
