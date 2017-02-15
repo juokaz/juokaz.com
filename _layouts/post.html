@@ -33,5 +33,7 @@ layout: default
     </div>
 
     <!-- http://schema.org/Article requires an image property -->
-    <meta itemprop="image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.url }}/images/juozas.jpg{% endif %}" />
+    <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+        <meta itemprop="url" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/juozas.jpg{% endif %}" />
+    </span>
 </section>
