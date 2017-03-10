@@ -63,7 +63,22 @@ img.left { float: left; max-width: 450px; margin-right: 20px; margin-left: -100p
 img.right { float: right; max-width: 450px; margin-left: 20px; margin-right: -100px; }
 img.center { margin-left: auto; margin-right: auto; display: block; }
 img.logo { max-width: 150px; max-height: 150px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px; float: left; }
-blockquote { margin-top: 10px; margin-bottom: 10px; margin-left: -13px; padding-left: 10px; border-left: 3px solid #ccc; font-style: italic; }
+
+blockquote {
+  position: relative;
+  font-size: 0.9em;
+  padding-left: 1.75em;
+}
+blockquote:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: '\201C';
+  color: #aaa;
+  line-height: 40px;
+  font-size: 40px;
+  font-family: Times;
+}
 
 .twitter-follow-button {
   float: left;
