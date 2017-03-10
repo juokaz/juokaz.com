@@ -75,7 +75,7 @@ In Latin America there is MercadoLibre, which runs MercadoPago, a safety payment
 [Etsy seller services revenue](https://www.marketplacepulse.com/stats/etsy/etsy-seller-services-revenue-9) has been growing faster than marketplace revenue. Since 2015 Q3 Etsy generates more revenue from seller services than from the marketplace itself. This is both great for the business, but also makes the business of many of its sellers that much easier.
 
 
-## What Amazon has been doing meanwhile.
+## Meanwhile at Amazon.
 
 Sellers have been flocking to sell on Amazon over the years, and still continue to do so. Not only because as Amazon grows they get to grow too, but because the buying experience is consistent. Especially for sellers who have decided to offload their inventory to Amazon's Fulfillment by Amazon (FBA) service, which completely hides the marketplace aspect from buyers. Returns, shipping times, Amazon Prime access is all the same.
 
