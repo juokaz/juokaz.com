@@ -28,7 +28,7 @@ Amazon and Alibaba together are two of the largest e-commerce players in the wor
 
 <img src="/blog/images/different-targets.jpg" alt="Different targets" class="right" />
 
-eBay went from being an auction website to a Amazon-like marketplace. In 2001 only 16% of products sold on Ebay were fixed-price, meaning they were auctions people had to bid on. But [by the end of 2016 that number has climbed all the way to 87%](/stats/ebay/ebay-percentage-of-sales-from-fixed-price-listings-18). So in 15 years eBay transitioned from having their own concept, to trying to directly compete with Amazon.
+eBay went from being an auction website to a Amazon-like marketplace. In 2001 only 16% of products sold on Ebay were fixed-price, meaning they were auctions people had to bid on. But [by the end of 2016 that number has climbed all the way to 87%](https://www.marketplacepulse.com/stats/ebay/ebay-percentage-of-sales-from-fixed-price-listings-18). So in 15 years eBay transitioned from having their own concept, to trying to directly compete with Amazon.
 
 I think this a missed opportunity by eBay. eBay had one of the largest peer-to-peer communities on the web. What made eBay unique and successful wasn't the billions of listings on the site, but instead the millions of people trading products one-to-one. By now this could have grown to been so much more - Uber and AirBnB are the leaders of the peer-to-peer model now. eBay could have been there, but instead they chose the path to become more like Amazon, and so far, it has not worked out great. Their sales growth has stalled, and they have remained stuck in this transitioning period.
 
