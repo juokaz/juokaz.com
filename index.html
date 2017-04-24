@@ -1,7 +1,7 @@
 ---
 layout: default
 index_page: true
-body_class: racing-driver
+body_class: speaker
 ---
 
 <div id="headerimage" style="background-image: url('images/juozas-{{ page.body_class }}.jpg?{{ site.time | date: '%s' }}')">
@@ -13,11 +13,8 @@ body_class: racing-driver
         Friends calls me Joe. I am an entrepreneur based in New York City. Started off writing software and have since gravitated towards building technology startups.
     </p>
     <p>
-        I'm currently working on <a href="https://www.marketplacepulse.com/">Marketplace Pulse</a> and a few other startups, but I'm always looking for new ideas to advise or invest into.
+        I'm currently working on <a href="https://www.marketplacepulse.com/">Marketplace Pulse</a>, a business intelligence firm focused on e-commerce, and a few other startups, but I'm always looking for new ideas to advise or invest into.
     </a>
-    <p>
-        I have <a href="/cv">worked on</a> many different online projects and have built a few successful ones before. Having tried many more failed prototypes, I’m focused on shipping products fast.
-    </p>
     <p>
         I'm passionate about using technology to provide simple answers to complex problems. I have been an advocate of data science and building data-driven processes for a long time.
     </p>
@@ -25,11 +22,12 @@ body_class: racing-driver
         Often I'm speaking at <a href="/conferences">conferences</a>. My last talk was at {{ site.conferences[0].talks[0].title }} in {{ site.conferences[0].talks[0].location }}.
     </p>
     <p>
-        <a href="blog/">Blogging</a> is my favorite form to write down thoughts. Latest article was <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>.
+        Latest article in my <a href="blog/">blog</a> was <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>.
     </p>
     <p>
         Drop me an email at {% include email.html %}
     </p>
+    <br />
     <p id="looks">
         <span id="go-serious">
             Don't like the serious look? Go with <a href="#speaker">speaker</a>, <a href="#punk">punk</a>, <a href="#scottish">scottish</a> or <a href="#racing-driver">racing driver</a>.
