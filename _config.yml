@@ -8,6 +8,12 @@ paginate_path: "/blog/page:num/"
 url: https://juokaz.com
 
 pictures:
+  - juozas-kaziukenas-keynote-at-retail-global-2017_23730259898_c127f4fb80_o.jpg
+  - juozas-kaziukenas-keynote-at-retail-global-2017_36912740093_88f65c34d7_o.jpg
+  - juozas-kaziukenas-keynote-at-retail-global-2017_36912758093_f5ba4c7e05_o.jpg
+  - juozas-kaziukenas-keynote-at-retail-global-2017_36912769633_edef4d2372_o.jpg
+  - juozas-kaziukenas-keynote-at-retail-global-2017_37534080526_19025e919c_o.jpg
+  - juozas-kaziukenas-keynote-at-retail-global-2017_37550863902_c7a4afeb45_o.jpg
   - juozas-kaziukenas-at-pycon-jp-2016-1.jpg
   - juozas-kaziukenas-at-pycon-jp-2016-2.jpg
   - juozas-kaziukenas-at-pycon-jp-2016-3.jpg
@@ -94,6 +100,14 @@ pictures:
   - juozas-kaziukenas-at-drupalcamp-lisboa-2011_8395175728_o.jpg
 
 conferences:
+  - year: 2017
+    talks:
+    - title: Retail Global Las Vegas
+      location: Las Vegas, NV, USA
+      date: 9-11th October
+      spoken:
+          - title: The Future of Marketplaces
+            slides: https://speakerdeck.com/juokaz/the-future-of-marketplaces-retail-global-las-vegas-2017-keynote
   - year: 2016
     talks:
     - title: PyCon JP conference
