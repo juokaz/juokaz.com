@@ -245,15 +245,7 @@ ul { margin: 0 0 16px 17px; }
 #about a { color: #fff; }
 #about h1 { color: #fff; text-shadow: 0 1px 5px black; margin-bottom: 20px; display: block; }
 
-ul#connect{ margin-left: 0; width: 60px; position: fixed; right: 52px; top: 22px; }
-#connect li{display:inline;list-style-type:none;}
-#connect a{text-decoration: none;border-style: none;}
-#connect a:link{text-decoration: none;opacity:0.6;border-style: none;}
-#connect a:hover{text-decoration: none;opacity:0.9;border-style: none;}
-#connect img {border:none; margin-bottom:5px; width: 48px; height: 48px;}
-
 #serious #about, #racing-driver #about, #cyclist #about { margin: 20px 20px 0 auto; }
-#serious ul#connect, #racing-driver ul#connect, #cyclist ul#connect { right: none; left: 52px; }
 
 #looks>span {display: none;}
 
@@ -316,10 +308,6 @@ body#cyclist {
 
     body { background: none !important; }
 
-    ul#connect{ position: static; width: 260px; padding: 10px 0 0 0; margin: 0 auto !important; }
-    #serious ul#connect, #speaker ul#connect { padding: 10px 0 0 0; margin: 0 auto !important;}
-    #connect a:link { opacity: 1; }
-
     #looks { display: none; }
-    #headerimage { display: block; min-height: 30vh; background-position: 50% 30%; background-repeat: no-repeat; background-size: cover; margin-bottom: 20px; }
+    #headerimage { display: block; width: 100%; padding-bottom: 65%; background-repeat: no-repeat; background-size: cover; margin-bottom: 20px; }
 }
