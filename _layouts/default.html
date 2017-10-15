@@ -24,7 +24,24 @@
     <link href='//fonts.googleapis.com/css?family=Merriweather:300,400' rel='stylesheet' type='text/css'>
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" />
-    <link rel="icon" type="image/jpeg" href="/images/juozas.jpg?{{ site.time | date: '%s' }}" />
+    <link rel="icon" type="image/jpeg" href="/images/juozas.jpg" />
+
+    <script type="application/ld+json">
+    [
+      {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "url": "{{ site.url }}/",
+        "name": "Juozas Kaziukėnas",
+        "image": "{{ site.url }}/images/juozas.jpg",
+        "sameAs": [
+            "https://www.linkedin.com/in/juozas/",
+            "https://twitter.com/juokaz",
+            "https://www.instagram.com/juokaz/"
+        ]
+      }
+    ]
+    </script>
 </head>
 
 <body{% if page.body_class %} id="{{ page.body_class }}"{% endif %}>
