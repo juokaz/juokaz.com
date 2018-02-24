@@ -1,5 +1,4 @@
 gems:
-  - jekyll-sitemap
   - jekyll-paginate
 permalink: /blog/:title
 paginate: 10
