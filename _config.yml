@@ -103,6 +103,11 @@ conferences:
       date: 17-19th April
       spoken:
           - title: The New Face of Brands in the Age of Amazon
+    - title: eCommerce Innovation Summit
+      location: San Francisco, CA, USA
+      date: 20-21th March
+      spoken:
+          - title: What is a Brand in the Age of Amazon
   - year: 2017
     talks:
     - title: Retail Global Las Vegas
