@@ -7,6 +7,7 @@ paginate_path: "/blog/page:num/"
 url: https://juokaz.com
 
 pictures:
+  - juozas-kaziukenas-at-channeladvisor-catalyst-2018.jpg
   - juozas-kaziukenas-keynote-at-retail-global-2017_23730259898_c127f4fb80_o.jpg
   - juozas-kaziukenas-keynote-at-retail-global-2017_36912740093_88f65c34d7_o.jpg
   - juozas-kaziukenas-keynote-at-retail-global-2017_36912758093_f5ba4c7e05_o.jpg
@@ -95,6 +96,13 @@ pictures:
   - juozas-kaziukenas-at-drupalcamp-lisboa-2011_8395175728_o.jpg
 
 conferences:
+  - year: 2018
+    talks:
+    - title: Catalyst hosted by ChannelAdvisor
+      location: San Diego, CA, USA
+      date: 17-19th April
+      spoken:
+          - title: The New Face of Brands in the Age of Amazon
   - year: 2017
     talks:
     - title: Retail Global Las Vegas
