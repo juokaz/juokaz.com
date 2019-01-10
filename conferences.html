@@ -13,13 +13,9 @@ title: Conferences
 
 <ul class="photos">
     {% for image in site.pictures limit:12 %}
-        <li><a href="/pictures/{{ image }}" title="{{ image | remove:'.jpg' | split:'-' | join:' ' }}"><img src="/pictures/thumb/{{ image }}" alt="{{ image | remove:'.jpg' | split:'-' | join:' ' }}" /></a></li>
+        <li><a href="/pictures/{{ image }}" title="{{ image | remove:'.jpg' | split:'-' | join:' ' }}"><img src="/pictures/{{ image }}" alt="{{ image | remove:'.jpg' | split:'-' | join:' ' }}" /></a></li>
     {% endfor %}
 </ul>
-
-<p>
-    Drop me an email at {% include email.html %}
-</p>
 
 {% for year in site.conferences %}
     <h2>{{ year.year }}</h2>
@@ -62,7 +58,7 @@ Some quotes from people who have recently attended my talks
 
 <ul class="photos">
     {% for image in site.pictures offset:12 %}
-        <li><a href="/pictures/{{ image }}" title="{{ image | remove:'.jpg' | split:'-' | join:' ' }}"><img src="/pictures/thumb/{{ image }}" alt="{{ image | remove:'.jpg' | split:'-' | join:' ' }}" /></a></li>
+        <li><a href="/pictures/{{ image }}" title="{{ image | remove:'.jpg' | split:'-' | join:' ' }}"><img src="/pictures/{{ image }}" alt="{{ image | remove:'.jpg' | split:'-' | join:' ' }}" /></a></li>
     {% endfor %}
 </ul>
 
