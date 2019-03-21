@@ -97,6 +97,13 @@ pictures:
   - juozas-kaziukenas-at-drupalcamp-lisboa-2011_8395175728_o.jpg
 
 conferences:
+  - year: 2019
+    talks:
+    - title: Prosper Show
+      location: Las Vegas, NV, USA
+      date: 17-19th March
+      spoken:
+          - title: Amazon Private Label Brands
   - year: 2018
     talks:
     - title: Retail Global Las Vegas
