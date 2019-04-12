@@ -7,6 +7,7 @@ paginate_path: "/blog/page:num/"
 url: https://juokaz.com
 
 pictures:
+  - juozas-kaziukenas-at-channeladvisor-connect-2019.jpg
   - juozas-kaziukenas-at-bloomberg-2019-march.jpg
   - juozas-kaziukenas-at-bloomberg-2019-march-studio.jpg
   - juozas-kaziukenas-at-retail-global-2018-square.jpg
@@ -101,6 +102,11 @@ pictures:
 conferences:
   - year: 2019
     talks:
+    - title: Connect hosted by ChannelAdvisor
+      location: Austin, TX, USA
+      date: 8-9th April
+      spoken:
+          - title: Amazon in the Year 2020
     - title: Prosper Show
       location: Las Vegas, NV, USA
       date: 17-19th March
