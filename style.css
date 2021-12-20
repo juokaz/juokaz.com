@@ -241,27 +241,12 @@ ul { margin: 0 0 16px 17px; }
 
 /* index page */
 #about { width: 600px; padding-left: 20px; padding-right: 20px; margin: 20px auto 0 20px; }
-#about p { color: #fff; font-size: 18px; font-weight: 400; line-height: 1.3; margin-bottom: 16px; -webkit-font-smoothing: antialiased; text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000, 1px 1px 5px #000; }
-#about a { color: #fff; }
-#about h1 { color: #fff; text-shadow: 0 1px 5px black; margin-bottom: 20px; display: block; }
+#about p { color: #000; font-size: 18px; font-weight: 400; line-height: 1.3; margin-bottom: 16px; }
+#about a { color: #000; }
+#about h1 { color: #000; margin-bottom: 20px; display: block; }
 
-#serious #about, #racing-driver #about, #cyclist #about { margin: 20px 20px 0 auto; }
-
-#looks>span {display: none;}
-
-#speaker #go-speaker {display: inline;}
-
-#serious #go-serious {display: inline;}
-
-#scottish #go-scottish {display: inline;}
-
-#punk #go-punk {display: inline;}
-
-#racing-driver #go-racing-driver {display: inline;}
-
-#cyclist #go-cyclist {display: inline;}
-
-#headerimage { display: none; }
+#about { position: relative; width: auto; margin: 0 !important; }
+#headerimage { display: block; width: 100%; padding-bottom: 35%; background-repeat: no-repeat; background-size: cover; margin-bottom: 20px; }
 
 body {
   background-repeat no-repeat;
@@ -274,40 +259,12 @@ body {
   background-size: cover;
 }
 
-body#speaker {
-  background-image: url('images/juozas-speaker.jpg');
-}
-
-body#serious {
-  background-image: url('images/juozas-serious.jpg');
-}
-
-body#scottish {
-  background-image: url('images/juozas-scottish.jpg');
-}
-
-body#punk {
-  background-image: url('images/juozas-punk.jpg');
-}
-
-body#racing-driver {
-  background-image: url('images/juozas-racing-driver.jpg');
-}
-
-body#cyclist {
-  background-image: url('images/juozas-rider.jpg');
-}
-
 @media (max-width: 1024px) {
-    #about p, #about a, #about h1 { color: #000; text-shadow: none; font-weight: 300; }
+    #about p, #about a, #about h1 { font-weight: 300; }
     #about a { text-decoration: underline; }
     #about p, #about ul { font-size: 16px; }
 
     #monogram { position: relative; width: auto; padding: 20px; margin: 0; }
-    #about { position: relative; width: auto; margin: 0 !important; }
 
     body { background: none !important; }
-
-    #looks { display: none; }
-    #headerimage { display: block; width: 100%; padding-bottom: 65%; background-repeat: no-repeat; background-size: cover; margin-bottom: 20px; }
 }

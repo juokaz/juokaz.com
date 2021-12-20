@@ -1,10 +1,9 @@
 ---
 layout: default
 index_page: true
-body_class: speaker
 ---
 
-<div id="headerimage" style="background-image: url('images/juozas-{{ page.body_class }}.jpg?{{ site.time | date: '%s' }}')">
+<div id="headerimage" style="background-image: url('images/juozas-speaker.jpg">
 </div>
 
 <div id="about">
@@ -21,54 +20,7 @@ body_class: speaker
     <p>
         I occasionally give talks on business and technology.
     </p>
-    <!--<p>
-        Often I'm speaking at <a href="/conferences">conferences</a>. My last talk was at {{ site.conferences[0].talks[0].title }} in {{ site.conferences[0].talks[0].location }}.
-    </p>
-    <p>
-        Latest article in my <a href="blog/">blog</a> was <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>.
-    </p>-->
     <p>
         You can find me on <a href="https://www.linkedin.com/in/juozas/">LinkedIn</a>, <a href="https://twitter.com/juokaz">Twitter</a>, and <a href="https://www.instagram.com/juokaz/">Instagram</a>. Or write me an email to {% include email.html %}
     </p>
-    <!--<br />
-    <p id="looks">
-        <span id="go-serious">
-            Don't like the serious look? Go with <a href="#speaker">speaker</a>, <a href="#punk">punk</a>, <a href="#scottish">scottish</a>, <a href="#racing-driver">racing driver</a> or <a href="#cyclist">cyclist</a>.
-        </span>
-        <span id="go-speaker">
-            Don't like the speaker look? Go with <a href="#serious">serious</a>, <a href="#punk">punk</a>, <a href="#scottish">scottish</a>, <a href="#racing-driver">racing driver</a> or <a href="#cyclist">cyclist</a>.
-        </span>
-        <span id="go-punk">
-            Don't like the punk look? Go with <a href="#serious">serious</a>, <a href="#speaker">speaker</a>, <a href="#scottish">scottish</a>, <a href="#racing-driver">racing driver</a> or <a href="#cyclist">cyclist</a>.
-        </span>
-        <span id="go-scottish">
-            Don't like the scottish look? Go with <a href="#serious">serious</a>, <a href="#speaker">speaker</a>, <a href="#punk">punk</a>, <a href="#racing-driver">racing driver</a> or <a href="#cyclist">cyclist</a>.
-        </span>
-        <span id="go-racing-driver">
-            Don't like the racing driver look? Go with <a href="#serious">serious</a>, <a href="#speaker">speaker</a>, <a href="#punk">punk</a>, <a href="#scottish">scottish</a> or <a href="#cyclist">cyclist</a>.
-        </span>
-        <span id="go-cyclist">
-            Don't like the cyclist look? Go with <a href="#serious">serious</a>, <a href="#speaker">speaker</a>, <a href="#punk">punk</a>, <a href="#scottish">scottish</a> or <a href="#racing-driver">racing driver</a>.
-        </span>
-    </p>-->
 </div>
-
-<script type="text/javascript">
-  (function() {
-    var looks = document.querySelectorAll("#looks a");
-    for (var i = 0; i < looks.length; i++) {
-        looks[i].addEventListener('click', function(event) {
-            // Avoid polluting the browser history
-            event.preventDefault();
-            var image = this.getAttribute('href').replace('#', '');
-            document.getElementsByTagName('body')[0].id = image;
-        });
-    }
-
-    var hash = location.hash.replace('#','');
-
-    if (hash) {
-        document.querySelector('a[href="#' + hash + '"]').click();
-    }
-  })();
-</script>
