@@ -100,8 +100,20 @@ pictures:
   - juozas-kaziukenas-at-drupalcamp-lisboa-2011_8395175728_o.jpg
 
 conferences:
+  - year: 2021
+    talks:
+    - title: Deliverr Conference by Deliverr
+      location: Remote
+      date: 4th October
+      spoken:
+          - title: Latest eCommerce marketplace trends
   - year: 2020
     talks:
+    - title: Amazon Experts Webinar by BuyBoxer
+      location: Remote
+      date: 22nd April
+      spoken:
+          - title: Coronavirus trends and how to read them
     - title: Amazon Sellers Event/Meetup ASGTG
       location: Brooklyn, NY, USA
       date: 15th January
