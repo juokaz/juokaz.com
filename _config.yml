@@ -109,7 +109,6 @@ conferences:
       date: 28th December
       spoken:
           - title: Amazon M&A Market
-    talks:
     - title: GO Ecommerce
       location: Tel Aviv, Israel
       date: 31st May
