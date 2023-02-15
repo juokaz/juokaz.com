@@ -102,6 +102,19 @@ pictures:
   - juozas-kaziukenas-at-drupalcamp-lisboa-2011_8395175728_o.jpg
 
 conferences:
+  - year: 2022
+    talks:
+    - title: Seller Fest Lietuva
+      location: Vilnius, Lithuania
+      date: 28th December
+      spoken:
+          - title: Amazon M&A Market
+    talks:
+    - title: GO Ecommerce
+      location: Tel Aviv, Israel
+      date: 31st May
+      spoken:
+          - title: Resetting e-commerce expectations
   - year: 2021
     talks:
     - title: Deliverr Conference by Deliverr
