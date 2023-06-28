@@ -3,6 +3,8 @@ permalink: /blog/:title
 url: https://juokaz.com
 
 pictures:
+  - juozas-kaziukenas-at-ecomtlv-israel-2023-june-1.jpg
+  - juozas-kaziukenas-at-ecomtlv-israel-2023-june-2.jpg
   - juozas-kaziukenas-at-sellerfest-lietuva-vilnius-2022-december-2.jpg
   - juozas-kaziukenas-at-sellerfest-lietuva-vilnius-2022-december.jpg
   - juozas-kaziukenas-at-go-ecommerce-tel-aviv-2022-may-2.jpg
@@ -102,6 +104,13 @@ pictures:
   - juozas-kaziukenas-at-drupalcamp-lisboa-2011_8395175728_o.jpg
 
 conferences:
+  - year: 2023
+    talks:
+    - title: EcomTLV
+      location: Tel Aviv, Israel
+      date: 19th June
+      spoken:
+          - title: Future of E-commerce
   - year: 2022
     talks:
     - title: Seller Fest Lietuva
