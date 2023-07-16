@@ -111,6 +111,11 @@ conferences:
       date: 19th June
       spoken:
           - title: Future of E-commerce
+    - title: TheNTWKSummit
+      location: Barcelona, Spain
+      date: 18-19th May
+      spoken:
+          - title: Marketplace Trends, panel
   - year: 2022
     talks:
     - title: Seller Fest Lietuva
