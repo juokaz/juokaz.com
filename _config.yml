@@ -3,6 +3,7 @@ permalink: /blog/:title
 url: https://juokaz.com
 
 pictures:
+  - juozas-kaziukenas-at-sjfallsummit2024-2024-november.jpg
   - juozas-kaziukenas-at-ecomexpo-vilnius-2024-september-1.jpg
   - juozas-kaziukenas-at-ecomexpo-vilnius-2024-september-2.jpg
   - juozas-kaziukenas-at-ecomexpo-vilnius-2024-september-3.jpg
@@ -110,6 +111,11 @@ pictures:
 conferences:
   - year: 2024
     talks:
+    - title: Sourcing Journal Fall Summit
+      location: New York, NY, USA
+      date: 12th November
+      spoken:
+          - title: What We Can Learn From Fast Fashion
     - title: EcomExpo
       location: Vilnius, Lithuania
       date: 19th September
