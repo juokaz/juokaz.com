@@ -12,7 +12,7 @@ title: Conferences
 </p>
 
 <ul class="photos">
-    {% for image in site.pictures limit:12 %}
+    {% for image in site.pictures limit:18 %}
         <li><a href="/pictures/{{ image }}" title="{{ image | remove:'.jpg' | split:'-' | join:' ' }}"><img src="/pictures/{{ image }}" alt="{{ image | remove:'.jpg' | split:'-' | join:' ' }}" /></a></li>
     {% endfor %}
 </ul>
@@ -55,11 +55,4 @@ Some quotes from people who have recently attended my talks
 <blockquote>Really good talk. Liked the examples on how to make a spider act more like a human being. Presentation was good, lots of good examples, mixed with a good dose of humor.</blockquote>
 
 <blockquote>Interesting and insightful. The talk was delivered very professionally.</blockquote>
-
-<ul class="photos">
-    {% for image in site.pictures offset:12 %}
-        <li><a href="/pictures/{{ image }}" title="{{ image | remove:'.jpg' | split:'-' | join:' ' }}"><img src="/pictures/{{ image }}" alt="{{ image | remove:'.jpg' | split:'-' | join:' ' }}" /></a></li>
-    {% endfor %}
-</ul>
-
 </section>
