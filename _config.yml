@@ -119,16 +119,16 @@ pictures:
 conferences:
   - year: 2025
     talks:
-    - title: Hangzhou E-commerce Conference
-      location: Hangzhou, China
-      date: 18th March
-      spoken:
-          - title: China, Change, and Commerce
     - title: OMR Festival 2025
       location: Hamburg, Germany
       date: 6-7th May
       spoken:
           - title: Made, Sold, and Promoted by China
+    - title: Hangzhou E-commerce Conference
+      location: Hangzhou, China
+      date: 18th March
+      spoken:
+          - title: China, Change, and Commerce
   - year: 2024
     talks:
     - title: Sourcing Journal Fall Summit
