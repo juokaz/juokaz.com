@@ -3,6 +3,9 @@ permalink: /blog/:title
 url: https://juokaz.com
 
 pictures:
+  - juozas-kaziukenas-at-login-vilnius-2025-may-1.jpg
+  - juozas-kaziukenas-at-login-vilnius-2025-may-2.jpg
+  - juozas-kaziukenas-at-login-vilnius-2025-may-3.jpg
   - juozas-kaziukenas-at-omr25-2025-may-1.jpg
   - juozas-kaziukenas-at-omr25-2025-may-2.jpg
   - juozas-kaziukenas-at-omr25-2025-may-3.jpg
@@ -119,6 +122,11 @@ pictures:
 conferences:
   - year: 2025
     talks:
+    - title: Login conference
+      location: Vilnius, Lithuania
+      date: 29-30th May
+      spoken:
+          - title: Future of ecommerce
     - title: OMR Festival 2025
       location: Hamburg, Germany
       date: 6-7th May
